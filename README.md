@@ -65,8 +65,7 @@
       <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" height="40" alt="ChatGPT logo" /><br>ChatGPT
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/?size=100&id=YWOidjGxCpFW&format=png&color=000000
-      " height="40" alt="DeepSeek logo" /><br>DeepSeek
+      <img src="https://img.icons8.com/?size=100&id=YWOidjGxCpFW&format=png&color=000000" height="40" alt="DeepSeek logo" /><br>DeepSeek
     </td>
   </tr>
 </table>
