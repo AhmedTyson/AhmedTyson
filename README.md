@@ -77,7 +77,7 @@
 | Project                                                                            | Description           | Tech         |
 | ---------------------------------------------------------------------------------- | --------------------- | ------------ |
 | **[PETOPIA](https://github.com/AhmedTyson/PETOBIA-student-activity-team-project)** | Pet adoption platform | HTML5, CSS3  |
-| **Personal Assistant**                                                             | AI-powered web app    | Flask, GPT-3 |
+| **[Personal Assistant](https://github.com/AhmedTyson/Personal-Assistance-ItI---Python-)**                                                             | AI-powered web app    | Flask, GPT-3 |
 
 ---
 
