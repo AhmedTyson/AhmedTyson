@@ -21,7 +21,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake.svg" />
 </picture>
 
-
 ---
 
 ## 🛠️ Technical Arsenal
@@ -30,11 +29,47 @@
 
 ### **Core Stack**
 
-| **Development**                                                                    | **Data Tools**                                                                                 | **AI Ecosystem**                                                                     |
-| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B) | ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=FFFFFF)      | ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?logo=openai&logoColor=FFFFFF) |
-| ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=FFFFFF)    | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=FFFFFF) | ![DeepSeek](https://img.shields.io/badge/DeepSeek-05172D?logo=ai&logoColor=00FFD0)   |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=FFFFFF)    | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=FFFFFF)                      | ![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=FFFFFF)   |
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" /><br>Python
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask logo" style="background: #fff; border-radius: 6px;" /><br>Flask
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" /><br>HTML5
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" /><br>Git
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" /><br>PostgreSQL
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" /><br>MySQL
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" /><br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" /><br>CSS3
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" /><br>C#
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" height="40" alt="Excel logo" /><br>Excel
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" height="40" alt="ChatGPT logo" /><br>ChatGPT
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=100&id=YWOidjGxCpFW&format=png&color=000000
+      " height="40" alt="DeepSeek logo" /><br>DeepSeek
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -59,11 +94,11 @@
 
 ### **Python Excellence**
 
-| Project                                                                                                                           | Description                 | Tech            |
-| --------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | --------------- |
-| **[Library Management System](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Library%20Management%20System)**          | OOP-based management system | Python, OOP     |
+| Project                                                                                                                               | Description                 | Tech            |
+| ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | --------------- |
+| **[Library Management System](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Library%20Management%20System)**   | OOP-based management system | Python, OOP     |
 | **[Car Loan Calculator](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Car%20Loan%20Calculator%20Application)** | Financial modeling GUI      | Tkinter, Python |
-| **[Talabat Application](https://github.com/AhmedTyson/College-team-assignment-1)**                                                        | Food delivery simulator     | Python, CLI     |
+| **[Talabat Application](https://github.com/AhmedTyson/College-team-assignment-1)**                                                    | Food delivery simulator     | Python, CLI     |
 
 ### **Web Wizardry**
 
