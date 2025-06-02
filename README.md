@@ -2,6 +2,9 @@
 
 **`Digital Alchemist`** (Business Information Systems | Python Developer | Data Explorer)
 
+
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=5D8AA8&center=true&width=500&lines=Turning+Data+Into+Decisions;Crafting+Elegant+Solutions;Building+The+Future+With+Code" alt="Animated typing text" />
 </p>
@@ -9,8 +12,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedTyson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedTyson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedTyson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" style="display:inline-block; vertical-align:middle;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedTyson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" style="display:inline-block; vertical-align:middle;"/>
 </div>
 
 ---
@@ -98,6 +101,7 @@ pie
 </div>
 
 ---
+<div align="left">
 
 ## 🌟 Special Sauce
 
@@ -106,7 +110,7 @@ pie
 - 🧠 **AI-Augmented Development**: Leveraging ChatGPT for code optimization and DeepSeek for complex problem solving
 - 📈 **Data-Driven Mindset**: Combining business analysis with technical implementation
 - 🎯 **Precision Engineering**: Clean, maintainable code with thorough documentation
-
+</div>
 ---
 
 <div align="center">
