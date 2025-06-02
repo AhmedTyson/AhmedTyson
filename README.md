@@ -20,6 +20,11 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedTyson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&cache=none" height="150" alt="languages graph" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedTyson&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats" />
+    </td>
+  </tr>
 </table>
 
 ---
@@ -117,6 +122,7 @@ pie
 - 📈 **Data-Driven Mindset**: Combining business analysis with technical implementation
 - 🎯 **Precision Engineering**: Clean, maintainable code with thorough documentation
 </div>
+
 ---
 
 <div align="center">
@@ -129,6 +135,10 @@ pie
 
 ---
 
-<p align="center">
-  <em>"When not coding, you'll find me analyzing football stats ⚽ or exploring fintech innovations 💳"</em>
+<p align="center"> 
+  <em>"When not coding, you'll find me analyzing football stats ⚽ or exploring fintech innovations 💳"
+  </em> 
 </p>
+<div align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=AhmedTyson&color=blueviolet&style=flat" alt="Profile views" /> 
+</div>
