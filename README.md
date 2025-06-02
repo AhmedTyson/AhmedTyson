@@ -11,10 +11,16 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedTyson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" style="display:inline-block; vertical-align:middle;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedTyson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" style="display:inline-block; vertical-align:middle;"/>
-</div>
+<table align="center" border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AhmedTyson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&cache=none" height="150" alt="stats graph" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedTyson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&cache=none" height="150" alt="languages graph" />
+    </td>
+  </tr>
+</table>
 
 ---
 
