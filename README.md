@@ -1,12 +1,12 @@
+
 # ✨ Ahmed Elsayed Abdel-Al
 
-**`Digital Alchemist`** (Business Information Systems | Python Developer | Data Explorer)
-
-
-
+**`Digital Alchemist`**  
+*Full Stack .NET Developer | Python Developer | Database Architect*  
+*Business Information Systems · Data Explorer · AI-Augmented Solutions*
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=5D8AA8&center=true&width=500&lines=Turning+Data+Into+Decisions;Crafting+Elegant+Solutions;Building+The+Future+With+Code" alt="Animated typing text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=5D8AA8&center=true&width=500&lines=Turning+Data+Into+Decisions;Crafting+Elegant+Solutions;Unlocking+Potential+With+Code" alt="Animated typing text" />
 </p>
 
 ---
@@ -45,16 +45,17 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" title="Flask" style="background: #fff; border-radius: 6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" title=".NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core" title=".NET Core"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" title="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" title="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>
   <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" height="40" alt="Excel" title="Excel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#"/>
-  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/cursor.png" height="40" alt="Cursor" title="Cursor"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" height="40" alt="ChatGPT" title="ChatGPT"/>
   <img src="https://img.icons8.com/?size=100&id=YWOidjGxCpFW&format=png&color=000000" height="40" alt="DeepSeek" title="DeepSeek"/>
 </p>
@@ -78,20 +79,26 @@
 
 ## 🚀 Project Showcase
 
-### **Python Excellence**
+### **Database Excellence** 💾
 
-| Project                                                                                                                               | Description                 | Tech            |
-| ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | --------------- |
-| **[Library Management System](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Library%20Management%20System)**   | OOP-based management system | Python, OOP     |
-| **[Car Loan Calculator](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Car%20Loan%20Calculator%20Application)** | Financial modeling GUI      | Tkinter, Python |
-| **[Talabat Application](https://github.com/AhmedTyson/College-team-assignment-1)**                                                    | Food delivery simulator     | Python, CLI     |
+| Project | Description | Tech | Highlights |
+| :-- | :-- | :-- | :-- |
+| **[CollegeDB](https://github.com/AhmedTyson/CollegeDB)** | Enterprise-grade college management system | SQL Server, T-SQL | • 9 relational tables with 11 FK relationships<br>• RBAC with 4 distinct roles<br>• Optimized stored procedures<br>• Comprehensive ERD design<br>• Realistic sample data |
 
-### **Web Wizardry**
+### **Python Excellence** 🐍
 
-| Project                                                                            | Description           | Tech         |
-| ---------------------------------------------------------------------------------- | --------------------- | ------------ |
-| **[PETOPIA](https://github.com/AhmedTyson/PETOBIA-student-activity-team-project)** | Pet adoption platform | HTML5, CSS3  |
-| **[Personal Assistant](https://github.com/AhmedTyson/Personal-Assistance-ItI---Python-)**                                                             | AI-powered web app    | Flask, GPT-3 |
+| Project | Description | Tech |
+| :-- | :-- | :-- |
+| **[Library Management System](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Library%20Management%20System)** | OOP-based management system | Python, OOP |
+| **[Car Loan Calculator](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Car%20Loan%20Calculator%20Application)** | Financial modeling GUI | Tkinter, Python |
+| **[Talabat Application](https://github.com/AhmedTyson/College-team-assignment-1)** | Food delivery simulator | Python, CLI |
+
+### **Web Wizardry** 🌐
+
+| Project | Description | Tech |
+| :-- | :-- | :-- |
+| **[PETOPIA](https://github.com/AhmedTyson/PETOBIA-student-activity-team-project)** | Pet adoption platform | HTML5, CSS3 |
+| **[Personal Assistant](https://github.com/AhmedTyson/Personal-Assistance-ItI---Python-)** | AI-powered web app | Flask, GPT-3 |
 
 ---
 
@@ -102,11 +109,11 @@
 ```mermaid
 pie
     title Technical Focus Areas
-    "Python Development" : 35
-    "Data Analysis" : 25
-    "Web Development" : 20
-    "AI Integration" : 15
-    "Business Systems" : 5
+    "Python Development" : 30
+    "Database Design" : 25
+    ".NET Development" : 20
+    "Web Development" : 15
+    "AI Integration" : 10
 ```
 
 </div>
@@ -119,7 +126,8 @@ pie
 **What makes my work unique:**
 
 - 🧠 **AI-Augmented Development**: Leveraging ChatGPT for code optimization and DeepSeek for complex problem solving
-- 📈 **Data-Driven Mindset**: Combining business analysis with technical implementation
+- 🛡️ **Secure Architecture**: Implementing RBAC systems like in CollegeDB for enterprise security
+- 🗺️ **Data Modeling Expertise**: Designing relational schemas with comprehensive ERDs
 - 🎯 **Precision Engineering**: Clean, maintainable code with thorough documentation
 </div>
 
@@ -136,9 +144,10 @@ pie
 ---
 
 <p align="center"> 
-  <em>"When not coding, you'll find me analyzing football stats ⚽ or exploring fintech innovations 💳"
+  <em>"When not coding, you'll find me analyzing football stats ⚽ or architecting database solutions 💾"
   </em> 
 </p>
 <div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=AhmedTyson&color=blueviolet&style=flat" alt="Profile views" /> 
 </div>
+
