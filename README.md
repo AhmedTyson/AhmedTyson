@@ -1,7 +1,7 @@
 
 # ✨ Ahmed Elsayed Abdel-Al
 
-**`Digital Alchemist`**  
+## 🧪 `Digital Alchemist` 
 *Full Stack .NET Developer | Python Developer | Database Architect*  
 *Business Information Systems · Data Explorer · AI-Augmented Solutions*
 
