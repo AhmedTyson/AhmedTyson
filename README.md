@@ -83,7 +83,7 @@
 
 | Project | Description | Tech | Highlights |
 | :-- | :-- | :-- | :-- |
-| **[CollegeDB](https://github.com/AhmedTyson/CollegeDB)** | Enterprise-grade college management system | SQL Server, T-SQL | • 9 relational tables with 11 FK relationships<br>• RBAC with 4 distinct roles<br>• Optimized stored procedures<br>• Comprehensive ERD design<br>• Realistic sample data |
+| **[CollegeDB](https://github.com/AhmedTyson/Tasks/tree/5fabb8566da3bfd5edfabfb3f81f748f347b8c3b/1.%20SQL%20Tasks/CollegeDB%20project-%20Task%205)** | Enterprise-grade college management system | SQL Server, T-SQL | • 9 relational tables with 11 FK relationships<br>• RBAC with 4 distinct roles<br>• Optimized stored procedures<br>• Comprehensive ERD design<br>• Realistic sample data |
 
 ### **Python Excellence** 🐍
 
