@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Transforming+Data+Into+Strategic+Decisions;Crafting+Elegant+Solutions+That+Scale;Unlocking+Potential+Through+Code;Where+Logic+Meets+Creativity" alt="Inspirational header">
 </div>
 
-## 🧑💻 About Me
+## 💻 About Me
 
 Business Information Systems undergraduate (*GPA: 3.58*) with a passion for building secure, data-driven applications. Experienced across the full stack: **C#/.NET**, **Python/Flask**, modern SQL, responsive web front-ends, and AI integration.
 
