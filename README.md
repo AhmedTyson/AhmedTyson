@@ -21,21 +21,53 @@ Business Information Systems undergraduate (*GPA: 3.58*) with a passion for buil
 
 ---
 
-<table align="center" border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AhmedTyson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&cache=none" height="150" alt="stats graph" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedTyson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&cache=none" height="150" alt="languages graph" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedTyson&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h2>🚀 Code • Create • Inspire</h2>
+  <h3>Turning Passion into Digital Reality</h3>
+  
+  <table>
+    <tr>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=AhmedTyson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&cache=none&bg_color=45,ff7e5f,feb47b&title_color=fff&icon_color=fff&text_color=fff" 
+          height="165" 
+          alt="Achievements" 
+        />
+      </td>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedTyson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&cache=none&bg_color=45,00c9ff,92fe9d&title_color=fff&text_color=fff" 
+          height="165" 
+          alt="Language Mastery" 
+        />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img 
+          src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedTyson&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=45,8E2DE2,4A00E0&fire=FFCB00&currStreakLabel=FFFFFF" 
+          height="180" 
+          alt="Consistency Matters" 
+        />
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Dream+Big%2C+Code+Bigger;Consistency+is+the+Key+to+Mastery;Every+Commit+Makes+a+Difference;Innovate+%E2%80%A2+Create+%E2%80%A2+Elevate" alt="Inspirational Quotes">
+  </div>
+  
+  <br>
+  
+  <div>
+        <img src="https://komarev.com/ghpvc/?username=AhmedTyson&color=blueviolet&style=flat" alt="Profile views" />    
+    <a href="https://github.com/AhmedTyson?tab=repositories">
+      <img src="https://img.shields.io/badge/Explore-My_Projects-00cc99?style=flat&logo=github" alt="Projects">
+    </a>
+  </div>
+</div>
 
 ---
 
@@ -144,7 +176,3 @@ pie
   <em>"When not coding, you'll find me analyzing football stats ⚽ or architecting database solutions 💾"
   </em> 
 </p>
-<div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=AhmedTyson&color=blueviolet&style=flat" alt="Profile views" /> 
-</div>
-
