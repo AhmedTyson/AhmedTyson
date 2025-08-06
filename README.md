@@ -1,15 +1,12 @@
-# ✨ Ahmed Elsayed Abdel-Al
-
-## 🧪 `Digital Alchemist` 
-
-**Full Stack .NET Developer | Python Developer | Database Architect**
-*Business Information Systems · Data Explorer · AI-Augmented Solutions*
+# ✨ Ahmed Elsayed Abdel-Al: Digital Alchemist 🔮
 
 
-<p align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=5D8AA8&center=true&width=500&lines=Turning+Data+Into+Decisions;Crafting+Elegant+Solutions;Unlocking+Potential+With+Code" alt="Animated typing text">
-</p>
+  ## 🧪 `Digital Alchemist` 
+**Full Stack .NET Developer | Python Developer | Database Architect**  
+  *Business Information Systems · Data Explorer · AI-Augmented Solutions*
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Transforming+Data+Into+Strategic+Decisions;Crafting+Elegant+Solutions+That+Scale;Unlocking+Potential+Through+Code;Where+Logic+Meets+Creativity" alt="Inspirational header">
+</div>
 
 ## 🧑💻 About Me
 
@@ -21,52 +18,56 @@ Business Information Systems undergraduate (*GPA: 3.58*) with a passion for buil
 
 ---
 
+## 🚀 Cosmic Achievements
+
 <div align="center">
-  <h2>🚀 Code • Create • Inspire</h2>
-  <h3>Turning Passion into Digital Reality</h3>
   
+| | |
+| :---: | :--- |
+| **🌠 GitHub Stardust** | <img src="https://img.shields.io/github/stars/AhmedTyson?color=8A2BE2&style=for-the-badge" alt="GitHub stars"> |
+| **💻 Code Constellation** | <img src="https://img.shields.io/github/followers/AhmedTyson?color=8A2BE2&style=for-the-badge" alt="GitHub followers"> |
+| **📜 Repository Nebula** | <img src="https://img.shields.io/badge/Projects-25+-8A2BE2?style=for-the-badge" alt="Project count"> |
+| **🔭 Knowledge Universe** | <img src="https://img.shields.io/badge/Commits-1000+-8A2BE2?style=for-the-badge" alt="Commit count"> |
+
+</div>
+
+<div align="center">
   <table>
     <tr>
       <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=AhmedTyson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&cache=none&bg_color=45,ff7e5f,feb47b&title_color=fff&icon_color=fff&text_color=fff" 
-          height="165" 
-          alt="Achievements" 
-        />
+        <a href="https://github.com/AhmedTyson">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedTyson&show_icons=true&theme=radical&bg_color=30,0d0b1a,2a0845&title_color=fff&text_color=fff&icon_color=FFD700&hide_border=true&include_all_commits=true&count_private=true" alt="Ahmed's GitHub stats"/>
+        </a>
       </td>
       <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedTyson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&cache=none&bg_color=45,00c9ff,92fe9d&title_color=fff&text_color=fff" 
-          height="165" 
-          alt="Language Mastery" 
-        />
+        <a href="https://github.com/AhmedTyson">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedTyson&layout=compact&theme=radical&bg_color=30,0d0b1a,2a0845&title_color=fff&text_color=fff&hide_border=true&langs_count=8" alt="Top Languages"/>
+        </a>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img 
-          src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedTyson&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=45,8E2DE2,4A00E0&fire=FFCB00&currStreakLabel=FFFFFF" 
-          height="180" 
-          alt="Consistency Matters" 
-        />
+        <a href="https://github.com/AhmedTyson">
+          <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedTyson&theme=radical&background=30,0d0b1a,2a0845&stroke=FFD700&ring=8A2BE2&fire=FFD700&currStreakLabel=FFFFFF&hide_border=true" alt="GitHub Streak"/>
+        </a>
       </td>
     </tr>
   </table>
-  
-  <br>
-  
-  <div>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Dream+Big%2C+Code+Bigger;Consistency+is+the+Key+to+Mastery;Every+Commit+Makes+a+Difference;Innovate+%E2%80%A2+Create+%E2%80%A2+Elevate" alt="Inspirational Quotes">
-  </div>
-  
-  <br>
-  
-  <div>
-        <img src="https://komarev.com/ghpvc/?username=AhmedTyson&color=blueviolet&style=flat" alt="Profile views" />    
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Dream+Big%2C+Code+Bigger;Consistency+is+the+Key+to+Mastery;Every+Commit+Makes+a+Difference;Innovate+%E2%80%A2+Create+%E2%80%A2+Elevate" alt="Inspirational Quotes">
+</div>
+
+<br>
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=AhmedTyson&color=blueviolet&style=flat" alt="Profile views" />    
     <a href="https://github.com/AhmedTyson?tab=repositories">
       <img src="https://img.shields.io/badge/Explore-My_Projects-00cc99?style=flat&logo=github" alt="Projects">
     </a>
-  </div>
 </div>
 
 ---
@@ -74,10 +75,52 @@ Business Information Systems undergraduate (*GPA: 3.58*) with a passion for buil
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake.svg" width="100%" />
 </picture>
 
 ---
+
+## 🌟 Cosmic Value Proposition
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <h3>🧠 ENTP Visionary</h3>
+        <p>Rapid ideation • Fearless experimentation • Iterative delivery</p>
+      </td>
+      <td width="33%" align="center">
+        <h3>🛡️ Security-First Architect</h3>
+        <p>RBAC systems • Parameterized queries • Layered architecture</p>
+      </td>
+      <td width="33%" align="center">
+        <h3>🗺️ Data Modeling Maestro</h3>
+        <p>High-performance schemas • Clear ERDs • Optimized queries</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="33%" align="center">
+        <h3>🎯 Precision Engineer</h3>
+        <p>Clean maintainable code • Exhaustive documentation • SOLID principles</p>
+      </td>
+      <td width="33%" align="center">
+        <h3>🚀 Full Stack Navigator</h3>
+        <p>.NET Core to React • SQL to NoSQL • Cloud to Edge</p>
+      </td>
+      <td width="33%" align="center">
+        <h3>🤖 AI Augmenter</h3>
+        <p>LLM integration • Data augmentation • Intelligent automation</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+ 
+<div align="center">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
 
 ## 🛠️ Technical Arsenal
 
@@ -117,6 +160,9 @@ Business Information Systems undergraduate (*GPA: 3.58*) with a passion for buil
 | **[Personal Assistant Web App](https://github.com/AhmedTyson/Personal-Assistance-ItI---Python-)** | GPT-3 powered web assistant with auth \& REST APIs | 2024 |
 | **[Talabat CLI Simulator](https://github.com/AhmedTyson/College-team-assignment-1)** | Command-line food delivery simulation | 2024 |
 
+
+</div>
+
 ---
 
 ## 📊 Skills Matrix
@@ -136,16 +182,7 @@ pie
 </div>
 
 ---
-<div align="left">
 
-## 🌟 Unique Value \& Style
-
-- 🧠 **ENTP Visionary**: Rapid ideation, fearless experimentation, and iterative delivery.
-- 🛡️ **Security-First**: RBAC, parameterized queries, layered architecture by design.
-- 🗺️ **Data Modeling Maestro**: High-performance schemas and clear ERDs.
-- 🎯 **Precision Engineer**: Clean, maintainable code with exhaustive documentation.
-
----
 
 ## 🏆 Certifications
 
@@ -175,4 +212,27 @@ pie
 <p align="center"> 
   <em>"When not coding, you'll find me analyzing football stats ⚽ or architecting database solutions 💾"
   </em> 
+</p>
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Every+line+of+code+is+a+step+toward+the+future;Innovation+is+born+at+the+intersection+of+passion+and+skill;Dream+in+code%2C+build+with+purpose%2C+inspire+with+results;The+universe+is+made+of+stories%2C+not+of+atoms" alt="Inspirational quotes">
+</div>
+
+<br>
+
+<details>
+  <summary>🎧 Current Coding Soundtrack</summary>
+  <br>
+  <div align="center">
+    <a href="https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI">
+      <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="50%" alt="Spotify">
+    </a>
+  </div>
+</details>
+
+<br>
+
+<p align="center"> 
+  <em>"When not coding, you'll find me analyzing football stats ⚽ or architecting database solutions 💾"</em> 
 </p>
