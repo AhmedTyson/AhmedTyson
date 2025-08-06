@@ -21,17 +21,6 @@ Business Information Systems undergraduate (*GPA: 3.58*) with a passion for buil
 ## 🚀 Cosmic Achievements
 
 <div align="center">
-  
-| | |
-| :---: | :--- |
-| **🌠 GitHub Stardust** | <img src="https://img.shields.io/github/stars/AhmedTyson?color=8A2BE2&style=for-the-badge" alt="GitHub stars"> |
-| **💻 Code Constellation** | <img src="https://img.shields.io/github/followers/AhmedTyson?color=8A2BE2&style=for-the-badge" alt="GitHub followers"> |
-| **📜 Repository Nebula** | <img src="https://img.shields.io/badge/Projects-25+-8A2BE2?style=for-the-badge" alt="Project count"> |
-| **🔭 Knowledge Universe** | <img src="https://img.shields.io/badge/Commits-1000+-8A2BE2?style=for-the-badge" alt="Commit count"> |
-
-</div>
-
-<div align="center">
   <table>
     <tr>
       <td>
