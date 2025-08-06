@@ -1,13 +1,23 @@
-
 # ✨ Ahmed Elsayed Abdel-Al
 
 ## 🧪 `Digital Alchemist` 
-*Full Stack .NET Developer | Python Developer | Database Architect*  
+
+**Full Stack .NET Developer | Python Developer | Database Architect**
 *Business Information Systems · Data Explorer · AI-Augmented Solutions*
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=5D8AA8&center=true&width=500&lines=Turning+Data+Into+Decisions;Crafting+Elegant+Solutions;Unlocking+Potential+With+Code" alt="Animated typing text" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=5D8AA8&center=true&width=500&lines=Turning+Data+Into+Decisions;Crafting+Elegant+Solutions;Unlocking+Potential+With+Code" alt="Animated typing text">
 </p>
+
+## 🧑💻 About Me
+
+Business Information Systems undergraduate (*GPA: 3.58*) with a passion for building secure, data-driven applications. Experienced across the full stack: **C#/.NET**, **Python/Flask**, modern SQL, responsive web front-ends, and AI integration.
+
+- 🎓 **B.BIS**, Helwan University (2023–2027, GPA 3.58)
+- 🎯 Aspiring **.NET Full Stack Developer** building enterprise solutions with C\#, ASP.NET Core, SQL Server, and AI.
+- 🔥 Passions: Security-first design, relational modeling, cosmic UX.
 
 ---
 
@@ -62,43 +72,18 @@
 
 ---
 
-## 🏆 Certifications
-
-<div align="center">
-
-| Certification                                                                                                                           | Provider   | Skills Applied     | Badge                                                                                                                                                                                                                                              |
-| --------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[GitHub Foundations](https://www.datacamp.com/completed/statement-of-accomplishment/track/f1d16eb46190782bc484d441ab62c26be5a3b7b4)** | DataCamp   | Git, Collaboration | [![GitHub Certified](https://img.shields.io/badge/DataCamp-GitHub_Foundations-01A4D2?style=flat-square&logo=datacamp&logoWidth=15)](https://www.datacamp.com/completed/statement-of-accomplishment/track/f1d16eb46190782bc484d441ab62c26be5a3b7b4) |
-| **[Python & Flask](https://www.ude.my/UC-853a36da-af1c-4bff-a5f6-4bc4b66a90e5)**                                                        | Udemy      | OOP, Web Dev       | ![Python Certified](https://img.shields.io/badge/Python-Advanced-3776AB?logo=python)                                                                                                                                                               |
-| **[AI Essentials](https://intranet.alxswe.com/certificates/NFzyxYreET)**                                                                | alx_africa | Data Visualization | ![AI Certified](https://img.shields.io/badge/AI-Fundamentals-FF6F00?logo=ai)                                                                                                                                                                       |
-| **[Excel Advanced](https://ude.my/UC-eac85e19-e391-4906-9404-8439b955c85d)**                                                            | Udemy      | Data Analysis      | ![Excel Expert](https://img.shields.io/badge/Excel-Expert-217346?logo=microsoft-excel)                                                                                                                                                             |
-
-</div>
-
----
-
 ## 🚀 Project Showcase
 
-### **Database Excellence** 💾
-
-| Project | Description | Tech | Highlights |
-| :-- | :-- | :-- | :-- |
-| **[CollegeDB](https://github.com/AhmedTyson/Tasks/tree/5fabb8566da3bfd5edfabfb3f81f748f347b8c3b/1.%20SQL%20Tasks/CollegeDB%20project-%20Task%205)** | Enterprise-grade college management system | SQL Server, T-SQL | • 9 relational tables with 11 FK relationships<br>• RBAC with 4 distinct roles<br>• Optimized stored procedures<br>• Comprehensive ERD design<br>• Realistic sample data |
-
-### **Python Excellence** 🐍
-
-| Project | Description | Tech |
+| Project | Highlights | Year |
 | :-- | :-- | :-- |
-| **[Library Management System](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Library%20Management%20System)** | OOP-based management system | Python, OOP |
-| **[Car Loan Calculator](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Car%20Loan%20Calculator%20Application)** | Financial modeling GUI | Tkinter, Python |
-| **[Talabat Application](https://github.com/AhmedTyson/College-team-assignment-1)** | Food delivery simulator | Python, CLI |
-
-### **Web Wizardry** 🌐
-
-| Project | Description | Tech |
-| :-- | :-- | :-- |
-| **[PETOPIA](https://github.com/AhmedTyson/PETOBIA-student-activity-team-project)** | Pet adoption platform | HTML5, CSS3 |
-| **[Personal Assistant](https://github.com/AhmedTyson/Personal-Assistance-ItI---Python-)** | AI-powered web app | Flask, GPT-3 |
+| **[JavaNova Academy](https://github.com/AhmedTyson/JavaNova-project)** | Cosmic Java learning platform: 4-theme engine, starfield UX, interactive cursor, 5-step framework | 2025 |
+| **Port-folio Website**   | Personal portfolio responsive: HTML5, CSS3, JS               | 2025 |
+| **[CollegeDB](https://github.com/AhmedTyson/Tasks/tree/5fabb8566da3bfd5edfabfb3f81f748f347b8c3b/1.%20SQL%20Tasks/CollegeDB%20project-%20Task%205)** | Enterprise college management: 9 tables, 11 FK, 4-level RBAC, optimized SPs, full ERD | 2025 |
+| **[Sierra ILS Library Management System](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Library%20Management%20System)** | OOP library system: SOLID patterns, validation, error handling | 2025 |
+| **[Car Loan Calculator](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Car%20Loan%20Calculator%20Application)** | Real-time amortization GUI using Tkinter | 2025 |
+| **[Pet Adoption Website (PETOPIA)](https://github.com/AhmedTyson/PETOBIA-student-activity-team-project)** | Responsive pet adoption website (HTML5, CSS3, mobile-first) | 2025 |
+| **[Personal Assistant Web App](https://github.com/AhmedTyson/Personal-Assistance-ItI---Python-)** | GPT-3 powered web assistant with auth \& REST APIs | 2024 |
+| **[Talabat CLI Simulator](https://github.com/AhmedTyson/College-team-assignment-1)** | Command-line food delivery simulation | 2024 |
 
 ---
 
@@ -121,25 +106,37 @@ pie
 ---
 <div align="left">
 
-## 🌟 Special Sauce
+## 🌟 Unique Value \& Style
 
-**What makes my work unique:**
+- 🧠 **ENTP Visionary**: Rapid ideation, fearless experimentation, and iterative delivery.
+- 🛡️ **Security-First**: RBAC, parameterized queries, layered architecture by design.
+- 🗺️ **Data Modeling Maestro**: High-performance schemas and clear ERDs.
+- 🎯 **Precision Engineer**: Clean, maintainable code with exhaustive documentation.
 
-- 🧠 **AI-Augmented Development**: Leveraging ChatGPT for code optimization and DeepSeek for complex problem solving
-- 🛡️ **Secure Architecture**: Implementing RBAC systems like in CollegeDB for enterprise security
-- 🗺️ **Data Modeling Expertise**: Designing relational schemas with comprehensive ERDs
-- 🎯 **Precision Engineering**: Clean, maintainable code with thorough documentation
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+| Certification                                                                                                                           | Provider   | Skills Applied     | Badge                                                                                                                                                                                                                                              |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[GitHub Foundations](https://www.datacamp.com/completed/statement-of-accomplishment/track/f1d16eb46190782bc484d441ab62c26be5a3b7b4)** | DataCamp   | Git, Collaboration | [![GitHub Certified](https://img.shields.io/badge/DataCamp-GitHub_Foundations-01A4D2?style=flat-square&logo=datacamp&logoWidth=15)](https://www.datacamp.com/completed/statement-of-accomplishment/track/f1d16eb46190782bc484d441ab62c26be5a3b7b4) |
+| **[Python & Flask](https://www.ude.my/UC-853a36da-af1c-4bff-a5f6-4bc4b66a90e5)**                                                        | Udemy      | OOP, Web Dev       | ![Python Certified](https://img.shields.io/badge/Python-Advanced-3776AB?logo=python)                                                                                                                                                               |
+| **[AI Essentials](https://intranet.alxswe.com/certificates/NFzyxYreET)**                                                                | alx_africa | Data Visualization | ![AI Certified](https://img.shields.io/badge/AI-Fundamentals-FF6F00?logo=ai)                                                                                                                                                                       |
+| **[Excel Advanced](https://ude.my/UC-eac85e19-e391-4906-9404-8439b955c85d)**                                                            | Udemy      | Data Analysis      | ![Excel Expert](https://img.shields.io/badge/Excel-Expert-217346?logo=microsoft-excel)                                                                                                                                                             |
+
 </div>
 
 ---
 
-<div align="center">
+## 🙌 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-elsayed-8b9bba28a/)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github)](https://github.com/AhmedTyson)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:ahmedmessi2580@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/ahmed-elsayed-8b9bba28a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/AhmedTyson"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"></a>
+  <a href="mailto:ahmed.elsayed.abdelal.2025@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail"></a>
+</p>
 
 ---
 
