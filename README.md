@@ -210,18 +210,6 @@ pie
 
 <br>
 
-<details>
-  <summary>🎧 Current Coding Soundtrack</summary>
-  <br>
-  <div align="center">
-    <a href="https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI">
-      <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="50%" alt="Spotify">
-    </a>
-  </div>
-</details>
-
-<br>
-
 <p align="center"> 
   <em>"When not coding, you'll find me analyzing football stats ⚽ or architecting database solutions 💾"</em> 
 </p>
