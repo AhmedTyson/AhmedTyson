@@ -207,9 +207,3 @@ pie
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Every+line+of+code+is+a+step+toward+the+future;Innovation+is+born+at+the+intersection+of+passion+and+skill;Dream+in+code%2C+build+with+purpose%2C+inspire+with+results;The+universe+is+made+of+stories%2C+not+of+atoms" alt="Inspirational quotes">
 </div>
-
-<br>
-
-<p align="center"> 
-  <em>"When not coding, you'll find me analyzing football stats ⚽ or architecting database solutions 💾"</em> 
-</p>
