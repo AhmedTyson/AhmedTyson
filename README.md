@@ -141,7 +141,7 @@ Business Information Systems undergraduate (*GPA: 3.58*) with a passion for buil
 | Project | Highlights | Year |
 | :-- | :-- | :-- |
 | **[JavaNova Academy](https://github.com/AhmedTyson/JavaNova-project)** | Cosmic Java learning platform: 4-theme engine, starfield UX, interactive cursor, 5-step framework | 2025 |
-| **Port-folio Website**   | Personal portfolio responsive: HTML5, CSS3, JS               | 2025 |
+| **[Portfolio Website](https://github.com/AhmedTyson/Ahmed.Elsayed.dev)**   | Personal portfolio responsive: HTML5, CSS3, JS               | 2025 |
 | **[CollegeDB](https://github.com/AhmedTyson/Tasks/tree/5fabb8566da3bfd5edfabfb3f81f748f347b8c3b/1.%20SQL%20Tasks/CollegeDB%20project-%20Task%205)** | Enterprise college management: 9 tables, 11 FK, 4-level RBAC, optimized SPs, full ERD | 2025 |
 | **[Sierra ILS Library Management System](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Library%20Management%20System)** | OOP library system: SOLID patterns, validation, error handling | 2025 |
 | **[Car Loan Calculator](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Car%20Loan%20Calculator%20Application)** | Real-time amortization GUI using Tkinter | 2025 |
