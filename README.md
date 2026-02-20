@@ -1,49 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahmed%20Elsayed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Digital%20Alchemist%20·%20Full%20Stack%20.NET%20Developer%20·%20Database%20Architect&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hououin+Kyouma&fontSize=50&fontColor=C0C0C0&animation=twinkling&fontAlignY=40" width="100%"/>
 
-</div>
+# 🕒 THE MAD SCIENTIST OF CODE
 
-<div align="center">
+_"El Psy Congroo. The world line has shifted... toward excellence."_
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=750&lines=Transforming+Data+Into+Strategic+Decisions+%F0%9F%9A%80;Full+Stack+.NET+%26+Python+Developer;Security-First+%7C+SOLID+%7C+AI-Augmented;Business+Information+Systems+%7C+GPA+3.58" alt="Typing SVG"/>
-
-<br><br>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-elsayed-8b9bba28a)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedTyson)
-[![Profile Views](https://komarev.com/ghpvc/?username=AhmedTyson&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/AhmedTyson)
+[![Profile Views](https://komarev.com/ghpvc/?username=AhmedTyson&color=blueviolet&style=for-the-badge&label=DIVERGENCE+METER)](https://github.com/AhmedTyson)
 <br>
 [![Download CV](https://img.shields.io/badge/⬇️_Download_CV-View_on_LinkedIn-0A66C2?style=for-the-badge&logo=readme&logoColor=white)](https://linkedin.com/in/ahmed-elsayed-8b9bba28a)
+
+</div>
+
 <br>
 
+---
+
+## 🔬 Lab Member 001: Ahmed Elsayed
+
+> _"I am Mad Scientist, Hououin Kyouma! Solving the world's most complex algorithms, one world-line at a time."_
+
+Business Information Systems undergraduate at **Helwan University** _(GPA: 3.63, 2023–2027)_ specializing in full-stack engineering and data-driven systems.
+
+- 🎯 **Primary Worldline**: .NET Full Stack (C#, ASP.NET Core, SQL Server, EF Core)
+- 🧠 **ENTP Catalyst**: Rapid ideation, architectural foresight, and iterative shipping.
+- � **Operation Skuld**: Currently building scalable enterprise solutions and AI-integrated workflows.
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/windmgc/divergence-meter-profile/main/divergence.svg" alt="Divergence Meter" width="400px"/>
 </div>
 
 ---
 
-## 🏛️ About Me
-
-> _"Building systems that think, scale, and endure — one commit at a time."_
-
-Business Information Systems undergraduate at **Helwan University** _(GPA: 3.63, 2023–2027)_ who believes great software is the intersection of rigorous engineering and intentional design.
-
-- 🎯 Aspiring **.NET Full Stack Developer** — C#, ASP.NET Core MVC, SQL Server, REST APIs, EF Core
-- 🧠 **ENTP Visionary** — I design before I code, and always ship something that matters
-- 🔥 Passions: Security-first architecture, relational data modeling, AI-augmented development
-- 🌍 Currently building: enterprise web apps, bilingual tools, and cloud automation bots
-
----
-
-## 📊 Performance & Impact
+## 📊 Worldline Diagnostics
 
 <div align="center">
 
+<img src="https://metrics.lecoq.io/AhmedTyson?template=classic&base=header,activity,community,repositories,metadata&achievements=1&achievements_display=compact&config_timezone=Africa/Cairo" width="100%"/>
+
+<br>
 
 <img height="180em" src="https://streak-stats.demolab.com/?user=AhmedTyson&theme=radical&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=FFD700&currStreakLabel=FFFFFF&hide_border=true"/>
 
 </div>
 
 ---
+
+## 🎭 The Mad Scientist (Okabe)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6M3N6M3N6M3N6M3N6M3N6M3N6M3N6M3N6M3N6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/126tXKyP0VbO6s/giphy.gif" alt="Okabe Rintaro" width="300px"/>
+  <br>
+  <i>"No one knows what the future holds. That's why its potential is infinite."</i>
+</div>
 
 ## 📈 Contribution Activity
 
@@ -217,4 +232,3 @@ Business Information Systems undergraduate at **Helwan University** _(GPA: 3.63,
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Every+commit+is+a+step+toward+the+future&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
-
