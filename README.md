@@ -20,13 +20,19 @@
 
 ## 🏛️ About Me
 
-> _"Architecting scalable ecosystems where data meets strategic execution."_
+<div align="center">
 
-I am a Business Information Systems specialist at **Capital University** (GPA: 3.63) and a certified graduate of the **Digital Egypt Pioneers Initiative (DEPI)** Full Stack .NET Web Developer track. My engineering philosophy centers on high-performance backend architectures, robust relational data models, and intelligent automation.
+> ### "Architecting scalable ecosystems where data meets strategic execution."
+
+</div>
+
+I am a high-impact **Business Information Systems** specialist at **Capital University** (GPA: 3.63) and a certified graduate of the **Digital Egypt Pioneers Initiative (DEPI)** Full Stack .NET Web Developer track. My engineering philosophy focuses on building high-performance backend architectures, robust relational data models, and intelligent automation systems that scale.
 
 - 🎯 **Domain Expertise**: Enterprise .NET Core, SQL Server Optimization, and Pythonic Automation.
 - ⚙️ **Strategy**: I specialize in transforming complex business requirements into maintainable, security-first digital products.
-- 🚀 **Current Focus**: Building e-commerce backends, AI-augmented productivity tools, and bilingual enterprise search engines.
+- 🔥 **AI Augmenter**: Expert in integrating LLMs, vector search, and custom automation into high-performance developer workflows.
+
+<br>
 
 ---
 
@@ -65,6 +71,8 @@ I am a Business Information Systems specialist at **Capital University** (GPA: 3
   </table>
 </div>
 
+<br>
+
 ---
 
 ## ⚒️ Tech Arsenal
@@ -74,8 +82,12 @@ I am a Business Information Systems specialist at **Capital University** (GPA: 3
 **Development Stack**
 [![Main Tech](https://skillicons.dev/icons?i=cs,dotnet,py,flask,nodejs,js,ts,html,css,bootstrap,postgres,sqlite&theme=dark)](https://skillicons.dev)
 
+<br>
+
 **Infrastructure & Tools**
 [![Tools](https://skillicons.dev/icons?i=git,github,netlify,vscode,maven,docker,bash&theme=dark)](https://skillicons.dev)
+
+<br>
 
 **AI & Productivity**
 <br>
@@ -92,6 +104,8 @@ I am a Business Information Systems specialist at **Capital University** (GPA: 3
 <img src="https://img.icons8.com/?size=100&id=YWOidjGxCpFW&format=png&color=000000" height="40" title="DeepSeek"/>
 
 </div>
+
+<br>
 
 ---
 
@@ -146,6 +160,8 @@ I am a Business Information Systems specialist at **Capital University** (GPA: 3
 | **[Guides](https://github.com/AhmedTyson/Guides)**       | Bilingual Git/GitHub roadmap (AR+EN), vibe coding guide, CV writing guide           | Dec 15, 2025                |
 | **[Tasks Archive](https://github.com/AhmedTyson/Tasks)** | 7 SQL tasks (CollegeDB enterprise schema), 6 C# OOP assignments, DEPI schedule page | May 10, 2025 – May 23, 2025 |
 
+<br>
+
 ---
 
 ## 📈 Activity & Metrics
@@ -185,6 +201,8 @@ I am a Business Information Systems specialist at **Capital University** (GPA: 3
   </picture>
 </div>
 
+<br>
+
 ---
 
 ## <details><summary>🎓 Certifications (click to expand)</summary>
@@ -203,6 +221,8 @@ I am a Business Information Systems specialist at **Capital University** (GPA: 3
 </div>
 
 </details>
+
+<br>
 
 ---
 
