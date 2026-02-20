@@ -1,75 +1,92 @@
-# Ahmed Elsayed Abdel-Al
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahmed%20Elsayed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Digital%20Alchemist%20·%20Full%20Stack%20.NET%20Developer%20·%20Database%20Architect&descAlignY=55&descSize=16" width="100%"/>
+
+</div>
 
 <div align="center">
 
-_Digital Alchemist · Full Stack .NET Developer · Database Architect_
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=750&lines=Transforming+Data+Into+Strategic+Decisions+%F0%9F%9A%80;Full+Stack+.NET+%26+Python+Developer;Security-First+%7C+SOLID+%7C+AI-Augmented;Business+Information+Systems+%7C+GPA+3.58" alt="Typing SVG"/>
+
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-elsayed-8b9bba28a)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedTyson)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.elsayed.abdelal.2025@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=AhmedTyson&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/AhmedTyson)
 
 <br>
 
-> _"Transforming data into strategic decisions — where logic meets creativity."_
+[![Download CV](https://img.shields.io/badge/⬇️_Download_CV-View_on_LinkedIn-0A66C2?style=for-the-badge&logo=readme&logoColor=white)](https://linkedin.com/in/ahmed-elsayed-8b9bba28a)
 
 </div>
 
 ---
 
-## About Me
+## 💡 About Me
 
-Business Information Systems undergraduate _(GPA: 3.58)_ with a passion for building secure, data-driven applications. Experienced across the full stack: **C#/.NET**, **Python/Flask**, modern SQL, responsive web front-ends, and AI integration.
+> _"Building systems that think, scale, and endure — one commit at a time."_
 
-- **B.BIS**, Helwan University — 2023–2027, GPA 3.58
-- Aspiring **.NET Full Stack Developer** building enterprise solutions with C\#, ASP.NET Core, SQL Server, and AI.
-- Passions: Security-first design, relational modeling, cosmic UX.
+Business Information Systems undergraduate at **Helwan University** _(GPA: 3.58, 2023–2027)_ who believes great software is the intersection of rigorous engineering and intentional design.
 
-<br>
+- 🎯 Aspiring **.NET Full Stack Developer** — C#, ASP.NET Core MVC, SQL Server, REST APIs, EF Core
+- 🧠 **ENTP Visionary** — I design before I code, and always ship something that matters
+- 🔥 Passions: Security-first architecture, relational data modeling, AI-augmented development
+- 🌍 Currently building: enterprise web apps, bilingual tools, and cloud automation bots
 
 ---
 
-## Contribution Activity
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=AhmedTyson&theme=radical&no-frame=true&margin-w=6&margin-h=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <a href="https://github.com/AhmedTyson">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedTyson&show_icons=true&theme=radical&bg_color=30,0d0b1a,2a0845&title_color=fff&text_color=fff&icon_color=FFD700&hide_border=true&include_all_commits=true&count_private=true" alt="Ahmed's GitHub stats"/>
-        </a>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedTyson&show_icons=true&theme=radical&bg_color=0d1117&title_color=8A2BE2&text_color=fff&icon_color=FFD700&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
       </td>
       <td>
-        <a href="https://github.com/AhmedTyson">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedTyson&layout=compact&theme=radical&bg_color=30,0d0b1a,2a0845&title_color=fff&text_color=fff&hide_border=true&langs_count=8" alt="Top Languages"/>
-        </a>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedTyson&layout=compact&theme=radical&bg_color=0d1117&title_color=8A2BE2&text_color=fff&hide_border=true&langs_count=8"/>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <a href="https://github.com/AhmedTyson">
-          <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedTyson&theme=radical&background=30,0d0b1a,2a0845&stroke=FFD700&ring=8A2BE2&fire=FFD700&currStreakLabel=FFFFFF&hide_border=true" alt="GitHub Streak"/>
-        </a>
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedTyson&theme=radical&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=FFD700&currStreakLabel=FFFFFF&hide_border=true"/>
       </td>
     </tr>
   </table>
 </div>
 
-<br>
+---
+
+## 📈 Contribution Activity
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=AhmedTyson&color=blueviolet&style=flat" alt="Profile views" />    
-    <a href="https://github.com/AhmedTyson?tab=repositories">
-      <img src="https://img.shields.io/badge/Explore-My_Projects-333333?style=flat&logo=github" alt="Projects">
-    </a>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedTyson&theme=react-dark&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFD700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake.svg" width="100%"/>
 </picture>
 
 ---
 
-## Value Proposition
+## 🌟 What I Bring
 
 <div align="center">
   <table>
@@ -90,7 +107,7 @@ Business Information Systems undergraduate _(GPA: 3.58)_ with a passion for buil
     <tr>
       <td width="33%" align="center">
         <h3>🎯 Precision Engineer</h3>
-        <p>Clean maintainable code · Exhaustive documentation · SOLID principles</p>
+        <p>Clean code · Exhaustive docs · SOLID principles</p>
       </td>
       <td width="33%" align="center">
         <h3>🚀 Full Stack Navigator</h3>
@@ -98,7 +115,7 @@ Business Information Systems undergraduate _(GPA: 3.58)_ with a passion for buil
       </td>
       <td width="33%" align="center">
         <h3>🤖 AI Augmenter</h3>
-        <p>LLM integration · Data augmentation · Intelligent automation</p>
+        <p>LLM integration · Automation · Intelligent tooling</p>
       </td>
     </tr>
   </table>
@@ -106,110 +123,120 @@ Business Information Systems undergraduate _(GPA: 3.58)_ with a passion for buil
 
 ---
 
-## Technical Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" title=".NET"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core" title=".NET Core"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" title="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" title="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>
-  <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" height="40" alt="Excel" title="Excel"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" height="40" alt="ChatGPT" title="ChatGPT"/>
-  <img src="https://img.icons8.com/?size=100&id=YWOidjGxCpFW&format=png&color=000000" height="40" alt="DeepSeek" title="DeepSeek"/>
-</p>
+**Backend & Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,flask,nodejs,js&theme=dark)](https://skillicons.dev)
+
+**Frontend**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js&theme=dark)](https://skillicons.dev)
+
+**Data & Infrastructure**
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,git,github,netlify,vscode&theme=dark)](https://skillicons.dev)
+
+**Platforms & Tools**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" title="SQL Server"/>
+<img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" height="40" title="Microsoft Excel"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" height="40" title="ChatGPT / OpenAI"/>
+<img src="https://img.icons8.com/?size=100&id=YWOidjGxCpFW&format=png&color=000000" height="40" title="DeepSeek"/>
 
 </div>
 
 ---
 
-## Project Showcase
+## 🚀 Project Showcase
 
-### Flagship Projects
+### 🏆 Flagship
 
-| Project                                                                                                         | Stack                          | Highlights                                                                                                               | Date         |
-| :-------------------------------------------------------------------------------------------------------------- | :----------------------------- | :----------------------------------------------------------------------------------------------------------------------- | :----------- |
-| **[Tafsilk](https://github.com/AhmedTyson/Tafsilk)** · [Live ↗](https://tafsilk.runasp.net)                     | ASP.NET Core · C# · SQL Server | Multi-role e-commerce: Admin/Seller/Buyer RBAC, Stripe payments, Google OAuth, Entity Framework Core, repository pattern | Sep–Nov 2025 |
-| **[BIS Schedule Search](https://github.com/AhmedTyson/bis-schedule)**                                           | Vanilla JS · PWA · Netlify     | Bilingual (AR/EN) schedule search: off-thread Fuse.js Web Worker, zero build step, full ES Module architecture           | Feb 2026     |
-| **[CollegeDB](https://github.com/AhmedTyson/Tasks/tree/main/1.%20SQL%20Tasks/CollegeDB%20project-%20Task%205)** | SQL Server · T-SQL             | Enterprise college schema: 9 tables, 11 FK, 4-level RBAC, optimized stored procedures, full ERD                          | Sep 2025     |
-
-<br>
-
-### Web & Frontend
-
-| Project                                                                                                                                        | Stack                    | Highlights                                                                                  | Date     |
-| :--------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------- | :------------------------------------------------------------------------------------------ | :------- |
-| **[JavaNova Academy](https://github.com/AhmedTyson/JavaNova-project)** · [Live ↗](https://ahmedtyson.github.io/JavaNova-project/javanova.html) | HTML · CSS · JS          | Space-themed Java academy: 4-theme engine, animated starfield, 5-step interactive framework | 2025     |
-| **[Harizon Mobile Store](https://github.com/AhmedTyson/BIS_Ecommerce_Frontend_project)**                                                       | HTML · CSS · JS          | Full e-commerce frontend: 7-page multi-store site (Harizon + Gourmet Haven), pure vanilla   | Feb 2026 |
-| **[PETOPIA Pet Adoption](https://github.com/AhmedTyson/PETOBIA-student-activity-team-project)**                                                | HTML · CSS               | Responsive pet adoption website: 7-page site, mobile-first layout, team collaboration       | Sep 2025 |
-| **[Artistic Workshop](https://github.com/AhmedTyson/artistic-project)**                                                                        | HTML · CSS               | Multi-page art studio site: products, workshops, booking, and contact                       | Feb 2026 |
-| **[Bootstrap Storefront](https://github.com/AhmedTyson/bootstrap-starter)**                                                                    | HTML · CSS · Bootstrap 5 | Ceramic product store template: Bootstrap grid, cards, pagination, zero dependencies        | Feb 2026 |
+| Project                                                                                                         | Stack                                                                                                                                                                                                                                                                                                                            | Highlights                                                                                                                            | Timeline              |
+| :-------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------ | :-------------------- |
+| **[Tafsilk](https://github.com/AhmedTyson/Tafsilk)** [🌐](https://tafsilk.runasp.net)                           | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) | Full multi-role e-commerce: Admin/Seller/Buyer RBAC, Stripe payments, Google OAuth, EF Core, repository pattern, layered architecture | Aug 23 – Dec 07, 2025 |
+| **[BIS Schedule Search](https://github.com/AhmedTyson/bis-schedule)** [🌐](https://bis-schedule.netlify.app)    | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)                        | Bilingual AR/EN schedule search engine: Web Worker off-thread Fuse.js, zero build step, ES Module architecture, offline capable       | Feb 14 – Feb 20, 2026 |
+| **[CollegeDB](https://github.com/AhmedTyson/Tasks/tree/main/1.%20SQL%20Tasks/CollegeDB%20project-%20Task%205)** | ![SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)                                                                                                                                                                                                                     | Enterprise college schema: 9 tables, 11 FK relationships, 4-level RBAC, optimized stored procedures, complete ERD                     | Sep 2025              |
 
 <br>
 
-### Python & Backend
+### 🌐 Web & Frontend
 
-| Project                                                                                                                               | Stack                   | Highlights                                                                                            | Date     |
-| :------------------------------------------------------------------------------------------------------------------------------------ | :---------------------- | :---------------------------------------------------------------------------------------------------- | :------- |
-| **[Personal Assistant Web App](https://github.com/AhmedTyson/Personal-Assistance-ItI---Python-)**                                     | Python · Flask · Jinja2 | ITI capstone: Sierra ILS library management, Flask Blueprints, Jinja2 templates, test suite           | 2024     |
-| **[Sierra ILS Library System](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Library%20Management%20System)**   | Python · OOP            | Console library management: Book/EBook inheritance, menu-driven CRUD, SOLID patterns                  | Sep 2025 |
-| **[Car Loan Calculator](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Car%20Loan%20Calculator%20Application)** | Python · Tkinter        | Real-time amortization GUI: automatic interest rates, input validation, monthly payment formula       | 2025     |
-| **[Talabat CLI Simulator](https://github.com/AhmedTyson/College-team-assignment-1)**                                                  | Python · OOP            | Food delivery console sim: user registration, cart management, receipt generation, session continuity | 2024     |
-
-<br>
-
-### Automation & Tooling
-
-| Project                                                                              | Stack                                     | Highlights                                                                                       | Date |
-| :----------------------------------------------------------------------------------- | :---------------------------------------- | :----------------------------------------------------------------------------------------------- | :--- |
-| **[Telegram × Google Drive Bot](https://github.com/AhmedTyson/Telegrambot-node.js)** | Node.js · Telegram API · Google Drive API | Cloud automation bot: upload/retrieve/list Drive files directly from Telegram chat via OAuth 2.0 | 2024 |
-| **[Checklist Application](https://github.com/AhmedTyson/checklist-application)**     | Vanilla JS · ES Modules · Node.js         | Structured JS learning project: ES Module architecture, admin panel, no bundler required         | 2024 |
+| Project                                                                                                                                  | Stack                                                                                                                                                                                                                                                                                        | Highlights                                                                                        | Timeline                |
+| :--------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ | :---------------------- |
+| **[JavaNova Academy](https://github.com/AhmedTyson/JavaNova-project)** [🌐](https://ahmedtyson.github.io/JavaNova-project/javanova.html) | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Space-themed Java academy: 4-theme engine, animated starfield, interactive cursor, full-screen UX | 2025                    |
+| **[Harizon & Gourmet Haven](https://github.com/AhmedTyson/BIS_Ecommerce_Frontend_project)**                                              | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)                                                                                                 | Dual-brand e-commerce frontend: mobile retail store + restaurant, 7+ pages each, pure vanilla     | Dec 2025 – Feb 20, 2026 |
+| **[PETOPIA Pet Adoption](https://github.com/AhmedTyson/PETOBIA-student-activity-team-project)**                                          | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)                                                                                                 | Responsive 7-page pet adoption site, mobile-first layout, team collaboration                      | Sep 2025                |
+| **[Artistic Workshop](https://github.com/AhmedTyson/artistic-project)**                                                                  | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)                                                                                                 | Multi-page art studio site: products, workshops, booking, contact                                 | 2025                    |
+| **[Bootstrap Storefront](https://github.com/AhmedTyson/bootstrap-starter)**                                                              | ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)                                                                                                                                                                               | Ceramic product store template: Bootstrap grid, cards, pagination                                 | 2025                    |
 
 <br>
 
-### Knowledge & Reference
+### 🐍 Python & Backend
 
-| Project                                            | Description                                                                                            | Date |
-| :------------------------------------------------- | :----------------------------------------------------------------------------------------------------- | :--- |
-| **[Guides](https://github.com/AhmedTyson/Guides)** | Technical reference library: bilingual Git/GitHub roadmap (AR+EN), vibe coding guide, CV writing guide | 2025 |
-| **[Tasks](https://github.com/AhmedTyson/Tasks)**   | Learning archive: 7 SQL tasks (incl. enterprise CollegeDB), 6 C# OOP assignments, DEPI schedule        | 2025 |
+| Project                                                                                                                               | Stack                                                                                                                                                                                                         | Highlights                                                                                 | Timeline              |
+| :------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------- | :-------------------- |
+| **[Personal Assistant App](https://github.com/AhmedTyson/Personal-Assistance-ItI---Python-)**                                         | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)          | ITI capstone: Sierra ILS integration, Flask Blueprints, Jinja2 templates, test suite       | Jun 02, 2025 → Active |
+| **[Sierra ILS Library System](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Library%20Management%20System)**   | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)                                                                                                           | OOP library management: Book/EBook inheritance, SOLID patterns, menu-driven CRUD           | May 31, 2025          |
+| **[Car Loan Calculator](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Car%20Loan%20Calculator%20Application)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-3776AB?style=flat-square&logo=python&logoColor=white) | Real-time amortization GUI: automatic interest rates, validation, monthly payment formula  | May 31, 2025          |
+| **[Talabat CLI Simulator](https://github.com/AhmedTyson/College-team-assignment-1)**                                                  | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)                                                                                                           | Food delivery console sim: user registration, cart, checkout, receipts, session continuity | 2024                  |
+
+<br>
+
+### ⚡ Automation & Tooling
+
+| Project                                                                              | Stack                                                                                                                                                                                                                  | Highlights                                                                              | Timeline |
+| :----------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- | :------- |
+| **[Telegram × Google Drive Bot](https://github.com/AhmedTyson/Telegrambot-node.js)** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram_API-2CA5E0?style=flat-square&logo=telegram&logoColor=white) | Cloud automation: upload/retrieve/list Drive files directly from Telegram via OAuth 2.0 | 2024     |
+| **[Checklist Application](https://github.com/AhmedTyson/checklist-application)**     | ![JS](https://img.shields.io/badge/ES_Modules-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)       | ES Module architecture, admin panel, multi-page app, no bundler required                | 2024     |
+
+<br>
+
+### 📚 Knowledge Base
+
+| Project                                            | Description                                                                         | Timeline          |
+| :------------------------------------------------- | :---------------------------------------------------------------------------------- | :---------------- |
+| **[Guides](https://github.com/AhmedTyson/Guides)** | Bilingual Git/GitHub roadmap (AR+EN), vibe coding guide, CV writing guide           | Feb 2026          |
+| **[Tasks](https://github.com/AhmedTyson/Tasks)**   | 7 SQL tasks (CollegeDB enterprise schema), 6 C# OOP assignments, DEPI schedule page | May 2025 → Active |
 
 ---
 
-## Certifications
+## <details><summary>🎓 Certifications (click to expand)</summary>
+
+<br>
 
 <div align="center">
 
-| Certification                                                                                                                           | Provider   | Skills Applied        | Verify                                                                                                                                                                                                                           |
-| :-------------------------------------------------------------------------------------------------------------------------------------- | :--------- | :-------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[GitHub Foundations](https://www.datacamp.com/completed/statement-of-accomplishment/track/f1d16eb46190782bc484d441ab62c26be5a3b7b4)** | DataCamp   | Git, Collaboration    | [![Verify](https://img.shields.io/badge/Certificate-View-111111?style=flat-square&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/track/f1d16eb46190782bc484d441ab62c26be5a3b7b4) |
-| **[Python & Flask](https://www.ude.my/UC-853a36da-af1c-4bff-a5f6-4bc4b66a90e5)**                                                        | Udemy      | OOP, Web Dev          | [![Verify](https://img.shields.io/badge/Certificate-View-111111?style=flat-square&logo=udemy&logoColor=white)](https://www.ude.my/UC-853a36da-af1c-4bff-a5f6-4bc4b66a90e5)                                                       |
-| **[AI Essentials](https://intranet.alxswe.com/certificates/NFzyxYreET)**                                                                | alx_africa | Data, AI Fundamentals | [![Verify](https://img.shields.io/badge/Certificate-View-111111?style=flat-square&logo=alx&logoColor=white)](https://intranet.alxswe.com/certificates/NFzyxYreET)                                                                |
-| **[Excel Advanced](https://ude.my/UC-eac85e19-e391-4906-9404-8439b955c85d)**                                                            | Udemy      | Data Analysis         | [![Verify](https://img.shields.io/badge/Certificate-View-111111?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-eac85e19-e391-4906-9404-8439b955c85d)                                                           |
+| Certification                                                                                                                           | Provider   | Skills                                  | Verify                                                                                                                                                                                                                         |
+| :-------------------------------------------------------------------------------------------------------------------------------------- | :--------- | :-------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[GitHub Foundations](https://www.datacamp.com/completed/statement-of-accomplishment/track/f1d16eb46190782bc484d441ab62c26be5a3b7b4)** | DataCamp   | Git, Collaboration, GitHub Actions      | [![View](https://img.shields.io/badge/Certificate-View-01A4D2?style=flat-square&logo=datacamp&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/track/f1d16eb46190782bc484d441ab62c26be5a3b7b4) |
+| **[Python & Flask](https://www.ude.my/UC-853a36da-af1c-4bff-a5f6-4bc4b66a90e5)**                                                        | Udemy      | OOP, Web Dev, REST APIs                 | [![View](https://img.shields.io/badge/Certificate-View-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://www.ude.my/UC-853a36da-af1c-4bff-a5f6-4bc4b66a90e5)                                                       |
+| **[AI Essentials](https://intranet.alxswe.com/certificates/NFzyxYreET)**                                                                | ALX Africa | AI Fundamentals, Data Visualization     | [![View](https://img.shields.io/badge/Certificate-View-FF6F00?style=flat-square&logoColor=white)](https://intranet.alxswe.com/certificates/NFzyxYreET)                                                                         |
+| **[Excel Advanced](https://ude.my/UC-eac85e19-e391-4906-9404-8439b955c85d)**                                                            | Udemy      | Data Analysis, Pivot Tables, Dashboards | [![View](https://img.shields.io/badge/Certificate-View-A435F0?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-eac85e19-e391-4906-9404-8439b955c85d)                                                           |
+
+</div>
+
+</details>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Elsayed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-elsayed-8b9bba28a)
+[![GitHub](https://img.shields.io/badge/GitHub-@AhmedTyson-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedTyson)
+[![Email](https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.elsayed.abdelal.2025@gmail.com)
+[![Download CV](https://img.shields.io/badge/CV-Download_Resume-8A2BE2?style=for-the-badge&logo=readme&logoColor=white)](https://linkedin.com/in/ahmed-elsayed-8b9bba28a)
 
 </div>
 
 ---
 
-## Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/ahmed-elsayed-8b9bba28a"><img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/AhmedTyson"><img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:ahmed.elsayed.abdelal.2025@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-111111?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
-<br>
-
 <div align="center">
-  <p><em>"When not coding, you'll find me analyzing football stats ⚽ or architecting database solutions 💾"</em></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Every+commit+is+a+step+toward+the+future&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+
 </div>
