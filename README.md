@@ -174,6 +174,14 @@ I am a high-impact **Business Information Systems** specialist at **Capital Univ
 <br>
 
 <div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=AhmedTyson&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/AhmedTyson)
+
+</div>
+
+<br>
+
+<div align="center">
   <table border="0">
     <tr>
       <td width="48%" align="center">
@@ -212,7 +220,7 @@ I am a high-impact **Business Information Systems** specialist at **Capital Univ
 
 ---
 
-## �️ Verified Expertise
+## 🎖️ Verified Expertise
 
 <div align="center">
 
