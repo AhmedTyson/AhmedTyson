@@ -21,9 +21,7 @@
 > "Building reliable backend systems and translating business needs into clean code."
 
 Business Information Systems undergraduate at **Capital University** (GPA: 3.63) and certified graduate of the **Digital Egypt Pioneers Initiative (DEPI)** Full Stack .NET Developer track. Engineering approach centers on designing secure architectures, efficient relational databases, and practical automation workflows that scale reliably.
-
 <br>
-
 <img src="https://api.iconify.design/lucide:layout.svg?color=%238A2BE2" width="16" height="16" align="center" /> **Digital Architect**: Transforming complex business requirements into maintainable, security-first digital products.
 <br>
 <img src="https://api.iconify.design/lucide:database.svg?color=%238A2BE2" width="16" height="16" align="center" /> **Core Stack**: Enterprise ASP.NET Core, SQL Server optimization, and Python backend development.
@@ -247,3 +245,4 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0D1117&height=120&section=footer&text=Every+commit+is+a+step+toward+the+future&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
+
