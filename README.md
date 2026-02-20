@@ -91,20 +91,15 @@ I am a high-impact **Business Information Systems** specialist at **Capital Univ
 
 **Infrastructure & Tools**
 <br>
-[![Tools](https://skillicons.dev/icons?i=git,github,netlify,vscode,maven,docker,bash&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,netlify,vscode,visualstudio,maven,postman,powershell,docker,bash&theme=dark)](https://skillicons.dev)
 
 <br>
 
-**AI & Productivity**
+**The Intelligence Lab**
 <br>
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black) ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=googlebot&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-
 <br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" title="SQL Server"/> &nbsp;
-<img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" height="40" title="Microsoft Excel"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" height="40" title="ChatGPT"/> &nbsp;
-<img src="https://img.icons8.com/?size=100&id=YWOidjGxCpFW&format=png&color=000000" height="40" title="DeepSeek"/>
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)
 
 <br>
 
