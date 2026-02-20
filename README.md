@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,0D1117&height=180&section=header&text=Ahmed%20Elsayed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Digital%20Alchemist%20%C2%B7%20Full%20Stack%20.NET%20Developer%20%C2%B7%20Database%20Architect&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0D1117&height=180&section=header&text=Ahmed%20Elsayed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Digital%20Alchemist%20%C2%B7%20Full%20Stack%20.NET%20Developer%20%C2%B7%20Database%20Architect&descAlignY=55&descSize=16" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=750&lines=Transforming+Data+Into+Strategic+Decisions+%F0%9F%9A%80;Full+Stack+.NET+%26+Python+Developer;Security-First+%7C+SOLID+%7C+AI-Augmented;B.I.S.+Undergraduate+@+Capital+University" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=900&lines=Transforming+Data+Into+Strategic+Decisions+%F0%9F%9A%80;Full+Stack+.NET+%26+Python+Developer;Security-First+%7C+SOLID+%7C+AI-Augmented;B.I.S.+Undergraduate+@+Capital+University" alt="Typing SVG"/>
 
 <br>
 
