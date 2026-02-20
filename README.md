@@ -52,7 +52,7 @@ Business Information Systems undergraduate at **Helwan University** _(GPA: 3.63,
 ## 🎭 Favorite Anime Characters
 
 <div align="center">
-  <img src="/github-metrics-anime.svg" width="100%"/>
+  <img src="/github-metrics-anime.svg?v=1" width="100%"/>
 </div>
 
 ## 📈 Contribution Activity
