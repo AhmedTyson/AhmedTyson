@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=750&lines=Transforming+Data+Into+Strategic+Decisions+%F0%9F%9A%80;Full+Stack+.NET+%26+Python+Developer;Security-First+%7C+SOLID+%7C+AI-Augmented;B.I.S.+Undergraduate+@+Helwan" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=750&lines=Transforming+Data+Into+Strategic+Decisions+%F0%9F%9A%80;Full+Stack+.NET+%26+Python+Developer;Security-First+%7C+SOLID+%7C+AI-Augmented;B.I.S.+Undergraduate+@+Capital+University" alt="Typing SVG"/>
 
 <br>
 
@@ -20,53 +20,13 @@
 
 ## 🏛️ About Me
 
-> _"Building systems that think, scale, and endure — one commit at a time."_
+> _"Architecting scalable ecosystems where data meets strategic execution."_
 
-Business Information Systems student at **Helwan University** (GPA: 3.63) who designs before coding to ship something that matters.
+I am a Business Information Systems specialist at **Capital University** (GPA: 3.63) and a certified graduate of the **Digital Egypt Pioneers Initiative (DEPI)** Full Stack .NET Web Developer track. My engineering philosophy centers on high-performance backend architectures, robust relational data models, and intelligent automation.
 
-- 🎯 **Full Stack .NET Developer** — Expertise in ASP.NET Core, SQL Server, and REST APIs.
-- 🧠 **ENTP Visionary** — Focused on security-first architecture and relational data modeling.
-- 🔥 **AI Augmenter** — Integrating LLMs and automation into high-performance workflows.
-- 🌍 **Current Projects**: Enterprise web apps, bilingual search tools, and cloud automation.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="/github-metrics.svg" width="100%"/>
-      </td>
-      <td width="50%" align="center">
-        <img height="180em" src="https://streak-stats.demolab.com/?user=AhmedTyson&theme=radical&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=FFD700&currStreakLabel=FFFFFF&hide_border=true"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🎭 Favorite Anime Characters
-
-<div align="center">
-  <img src="/github-metrics-anime.svg?v=1" width="85%"/>
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedTyson&theme=react-dark&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFD700&area=true&hide_border=true" width="85%"/>
-</div>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake.svg" width="100%"/>
-</picture>
+- 🎯 **Domain Expertise**: Enterprise .NET Core, SQL Server Optimization, and Pythonic Automation.
+- ⚙️ **Strategy**: I specialize in transforming complex business requirements into maintainable, security-first digital products.
+- 🚀 **Current Focus**: Building e-commerce backends, AI-augmented productivity tools, and bilingual enterprise search engines.
 
 ---
 
@@ -116,6 +76,15 @@ Business Information Systems student at **Helwan University** (GPA: 3.63) who de
 
 **Infrastructure & Tools**
 [![Tools](https://skillicons.dev/icons?i=git,github,netlify,vscode,maven,docker,bash&theme=dark)](https://skillicons.dev)
+
+**AI & Productivity**
+<br>
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=googlebot&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+<br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" title="SQL Server"/>
 <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" height="40" title="Microsoft Excel"/>
@@ -176,6 +145,45 @@ Business Information Systems student at **Helwan University** (GPA: 3.63) who de
 | :------------------------------------------------------- | :---------------------------------------------------------------------------------- | :-------------------------- |
 | **[Guides](https://github.com/AhmedTyson/Guides)**       | Bilingual Git/GitHub roadmap (AR+EN), vibe coding guide, CV writing guide           | Dec 15, 2025                |
 | **[Tasks Archive](https://github.com/AhmedTyson/Tasks)** | 7 SQL tasks (CollegeDB enterprise schema), 6 C# OOP assignments, DEPI schedule page | May 10, 2025 – May 23, 2025 |
+
+---
+
+## 📈 Activity & Metrics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="/github-metrics.svg" width="100%"/>
+      </td>
+      <td width="50%" align="center">
+        <img height="180em" src="https://streak-stats.demolab.com/?user=AhmedTyson&theme=radical&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=FFD700&currStreakLabel=FFFFFF&hide_border=true"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="/github-metrics-anime.svg?v=1" width="85%"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedTyson&theme=react-dark&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFD700&area=true&hide_border=true" width="85%"/>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake.svg" width="100%"/>
+  </picture>
+</div>
 
 ---
 
