@@ -14,7 +14,7 @@
 
 ---
 
-## ⯈ About
+## <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%238A2BE2" width="20" height="20" align="center" /> About
 
 <div align="center">
 
@@ -26,15 +26,15 @@
 
 Business Information Systems undergraduate at **Capital University** (GPA: 3.63) and certified graduate of the **Digital Egypt Pioneers Initiative (DEPI)** Full Stack .NET Developer track. Engineering approach centers on designing secure architectures, efficient relational databases, and practical automation workflows that scale reliably.
 
-❖ **Core Stack**: Enterprise ASP.NET Core, SQL Server optimization, and Python backend development.
-❖ **Systems Engineering**: Transforming complex business requirements into maintainable, security-first digital products.
-❖ **Smart Automation**: Integrating LLMs and custom workflow automation to accelerate development and eliminate repetitive tasks.
+<img src="https://api.iconify.design/lucide:chevron-right.svg?color=%238A2BE2" width="16" height="16" align="center" /> **Core Stack**: Enterprise ASP.NET Core, SQL Server optimization, and Python backend development.
+<img src="https://api.iconify.design/lucide:chevron-right.svg?color=%238A2BE2" width="16" height="16" align="center" /> **Systems Engineering**: Transforming complex business requirements into maintainable, security-first digital products.
+<img src="https://api.iconify.design/lucide:chevron-right.svg?color=%238A2BE2" width="16" height="16" align="center" /> **Smart Automation**: Integrating LLMs and custom workflow automation to accelerate development and eliminate repetitive tasks.
 
 <br>
 
 ---
 
-## ⯈ Core Competencies
+## <img src="https://api.iconify.design/lucide:component.svg?color=%238A2BE2" width="20" height="20" align="center" /> Core Competencies
 
 <div align="center">
 
@@ -43,29 +43,29 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
   <table>
     <tr>
       <td width="33%" align="center">
-        <h3>❖ Digital Architect</h3>
+        <h3><img src="https://api.iconify.design/lucide:chevron-right.svg?color=%238A2BE2" width="18" height="18" align="center" /> Digital Architect</h3>
         <p>Turning data into strategy · Rapid ideation · Iterative delivery</p>
       </td>
       <td width="33%" align="center">
-        <h3>❖ Security Engineering</h3>
+        <h3><img src="https://api.iconify.design/lucide:chevron-right.svg?color=%238A2BE2" width="18" height="18" align="center" /> Security Engineering</h3>
         <p>RBAC systems · Parameterized queries · Layered architecture</p>
       </td>
       <td width="33%" align="center">
-        <h3>❖ Data Maestro</h3>
+        <h3><img src="https://api.iconify.design/lucide:chevron-right.svg?color=%238A2BE2" width="18" height="18" align="center" /> Data Maestro</h3>
         <p>High-performance schemas · Clear ERDs · T-SQL optimization</p>
       </td>
     </tr>
     <tr>
       <td width="33%" align="center">
-        <h3>❖ Precision Engineering</h3>
+        <h3><img src="https://api.iconify.design/lucide:chevron-right.svg?color=%238A2BE2" width="18" height="18" align="center" /> Precision Engineering</h3>
         <p>Clean code · SOLID principles · Comprehensive documentation</p>
       </td>
       <td width="33%" align="center">
-        <h3>❖ Full Stack Navigator</h3>
+        <h3><img src="https://api.iconify.design/lucide:chevron-right.svg?color=%238A2BE2" width="18" height="18" align="center" /> Full Stack Navigator</h3>
         <p>.NET Core to Vanilla JS · SQL to NoSQL · Cloud integrated</p>
       </td>
       <td width="33%" align="center">
-        <h3>❖ Workflow Automation</h3>
+        <h3><img src="https://api.iconify.design/lucide:chevron-right.svg?color=%238A2BE2" width="18" height="18" align="center" /> Workflow Automation</h3>
         <p>LLM integration · Automation · Intelligent tooling</p>
       </td>
     </tr>
@@ -77,7 +77,7 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 ---
 
-## ⯈ Tech Arsenal
+## <img src="https://api.iconify.design/lucide:cpu.svg?color=%238A2BE2" width="20" height="20" align="center" /> Tech Arsenal
 
 <div align="center">
 
@@ -107,7 +107,7 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 ---
 
-## ⯈ Project Showcase
+## <img src="https://api.iconify.design/lucide:binary.svg?color=%238A2BE2" width="20" height="20" align="center" /> Project Showcase
 
 <br>
 
@@ -164,7 +164,7 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 ---
 
-## ⯈ Activity & Metrics
+## <img src="https://api.iconify.design/lucide:activity.svg?color=%238A2BE2" width="20" height="20" align="center" /> Activity & Metrics
 
 <br>
 
@@ -176,7 +176,7 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 <br>
 
-### ❖ Technical Velocity
+### <img src="https://api.iconify.design/lucide:zap.svg?color=%238A2BE2" width="18" height="18" align="center" /> Technical Velocity
 
 <div align="center">
   <table border="0">
@@ -193,7 +193,7 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 <br>
 
-### ❖ Anime Soul
+### <img src="https://api.iconify.design/lucide:sparkles.svg?color=%238A2BE2" width="18" height="18" align="center" /> Anime Soul
 
 <div align="center">
   <img src="/github-metrics-anime.svg?v=1" width="85%"/>
@@ -201,7 +201,7 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 <br>
 
-### ❖ Kinetic Rhythm
+### <img src="https://api.iconify.design/lucide:history.svg?color=%238A2BE2" width="18" height="18" align="center" /> Kinetic Rhythm
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedTyson&theme=react-dark&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFD700&area=true&hide_border=true" width="85%"/>
@@ -221,7 +221,7 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 ---
 
-## ⯈ Verified Expertise
+## <img src="https://api.iconify.design/lucide:award.svg?color=%238A2BE2" width="20" height="20" align="center" /> Verified Expertise
 
 <div align="center">
 
@@ -238,7 +238,7 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 ---
 
-## ⯈ Let's Connect
+## <img src="https://api.iconify.design/lucide:mail.svg?color=%238A2BE2" width="20" height="20" align="center" /> Let's Connect
 
 <br>
 
