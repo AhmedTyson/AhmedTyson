@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahmed+Elsayed&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahmed%20Elsayed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Digital%20Alchemist%20·%20Full%20Stack%20.NET%20Developer%20·%20Database%20Architect&descAlignY=55&descSize=16" width="100%"/>
 
-# 👋 Hey there, I'm Ahmed!
+</div>
 
-_"Building systems that think, scale, and endure — one commit at a time."_
+<div align="center">
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=750&lines=Transforming+Data+Into+Strategic+Decisions+%F0%9F%9A%80;Full+Stack+.NET+%26+Python+Developer;Security-First+%7C+SOLID+%7C+AI-Augmented;Business+Information+Systems+%7C+GPA+3.63" alt="Typing SVG"/>
+
+<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-elsayed-8b9bba28a)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedTyson)
@@ -37,7 +39,7 @@ Business Information Systems undergraduate at **Helwan University** _(GPA: 3.63,
 
 <div align="center">
 
-<img src="/github-metrics.svg" width="25%"/>
+<img src="/github-metrics.svg" width="100%"/>
 
 <br>
 
@@ -229,4 +231,3 @@ Business Information Systems undergraduate at **Helwan University** _(GPA: 3.63,
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Every+commit+is+a+step+toward+the+future&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
-
