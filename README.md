@@ -52,28 +52,7 @@ Business Information Systems undergraduate at **Helwan University** _(GPA: 3.63,
 ## 🎭 Favorite Anime Characters
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://i.pinimg.com/originals/f0/a9/38/f0a938efc0209a42fc7371e5fd5e6991.gif" alt="Rintaro Okabe — Steins;Gate" width="100%"/>
-        <br><br>
-        <b>Rintaro Okabe (Hououin Kyouma)</b>
-        <br>
-        <i>Steins;Gate</i>
-        <br>
-        <i>"No one knows what the future holds. That's why its potential is infinite."</i>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmt0bXp6ZHV4ZDN6ZHV4ZDN6ZHV4ZDN6ZHV4ZDN6ZHV4ZDN6ZHV4ZDN6ZHV4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/vWhNIhSYshdx7g6xBg/giphy.gif" alt="Cid Kagenou — Shadow" width="100%"/>
-        <br><br>
-        <b>Cid Kagenou (Shadow)</b>
-        <br>
-        <i>The Eminence in Shadow</i>
-        <br>
-        <i>"I am... Atomic."</i>
-      </td>
-    </tr>
-  </table>
+  <img src="/github-metrics-anime.svg" width="100%"/>
 </div>
 
 ## 📈 Contribution Activity
