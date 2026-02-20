@@ -244,6 +244,6 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Every+commit+is+a+step+toward+the+future&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0D1117&height=120&section=footer&text=Every+commit+is+a+step+toward+the+future&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
