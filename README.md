@@ -38,13 +38,16 @@ Business Information Systems undergraduate at **Helwan University** _(GPA: 3.63,
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="/github-metrics.svg" width="100%"/>
-
-<br>
-
-<img height="180em" src="https://streak-stats.demolab.com/?user=AhmedTyson&theme=radical&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=FFD700&currStreakLabel=FFFFFF&hide_border=true"/>
-
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="/github-metrics.svg" width="100%"/>
+      </td>
+      <td width="50%" align="center">
+        <img height="180em" src="https://streak-stats.demolab.com/?user=AhmedTyson&theme=radical&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=FFD700&currStreakLabel=FFFFFF&hide_border=true"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -52,15 +55,13 @@ Business Information Systems undergraduate at **Helwan University** _(GPA: 3.63,
 ## 🎭 Favorite Anime Characters
 
 <div align="center">
-  <img src="/github-metrics-anime.svg?v=1" width="100%"/>
+  <img src="/github-metrics-anime.svg?v=1" width="85%"/>
 </div>
 
 ## 📈 Contribution Activity
 
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedTyson&theme=react-dark&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFD700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedTyson&theme=react-dark&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFD700&area=true&hide_border=true" width="85%"/>
 </div>
 
 ---
