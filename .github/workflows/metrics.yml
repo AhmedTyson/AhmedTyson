@@ -23,3 +23,19 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: "0%"
           config_timezone: Africa/Cairo
+
+  anime-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics-anime.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_user: AhmedTyson
+          plugin_anilist_sections: characters
+          plugin_anilist_limit_characters: 22
+          config_timezone: Africa/Cairo
