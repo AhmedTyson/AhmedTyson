@@ -18,7 +18,7 @@
 
 <div align="center">
 
-> ### "Architecting scalable ecosystems where data meets strategic execution."
+> ### "Turning complex business logic into high-performance, security-first reality."
 
 </div>
 
