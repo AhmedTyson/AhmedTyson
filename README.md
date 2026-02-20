@@ -12,9 +12,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-elsayed-8b9bba28a)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedTyson)
-[![Download CV](https://img.shields.io/badge/⬇️_Download_CV-View_on_LinkedIn-0A66C2?style=for-the-badge&logo=readme&logoColor=white)](https://linkedin.com/in/ahmed-elsayed-8b9bba28a)
 [![Profile Views](https://komarev.com/ghpvc/?username=AhmedTyson&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/AhmedTyson)
-
+<br>
+[![Download CV](https://img.shields.io/badge/⬇️_Download_CV-View_on_LinkedIn-0A66C2?style=for-the-badge&logo=readme&logoColor=white)](https://linkedin.com/in/ahmed-elsayed-8b9bba28a)
 <br>
 
 </div>
@@ -25,7 +25,7 @@
 
 > _"Building systems that think, scale, and endure — one commit at a time."_
 
-Business Information Systems undergraduate at **Helwan University** _(GPA: 3.58, 2023–2027)_ who believes great software is the intersection of rigorous engineering and intentional design.
+Business Information Systems undergraduate at **Helwan University** _(GPA: 3.63, 2023–2027)_ who believes great software is the intersection of rigorous engineering and intentional design.
 
 - 🎯 Aspiring **.NET Full Stack Developer** — C#, ASP.NET Core MVC, SQL Server, REST APIs, EF Core
 - 🧠 **ENTP Visionary** — I design before I code, and always ship something that matters
@@ -38,9 +38,6 @@ Business Information Systems undergraduate at **Helwan University** _(GPA: 3.58,
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/AhmedTyson?template=classic&base=header,activity,community,repositories,metadata&achievements=1&achievements_display=compact&config_timezone=Africa/Cairo" width="100%"/>
-
-<br>
 
 <img height="180em" src="https://streak-stats.demolab.com/?user=AhmedTyson&theme=radical&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=FFD700&currStreakLabel=FFFFFF&hide_border=true"/>
 
@@ -220,3 +217,4 @@ Business Information Systems undergraduate at **Helwan University** _(GPA: 3.58,
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Every+commit+is+a+step+toward+the+future&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
+
