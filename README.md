@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahmed%20Elsayed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software+Engineer+%C2%B7+Full+Stack+.NET+Developer+%C2%B7+Database+Architect&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahmed%20Elsayed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Digital%20Alchemist%20%C2%B7%20Full%20Stack%20.NET%20Developer%20%C2%B7%20Database%20Architect&descAlignY=55&descSize=16" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=750&lines=Engineering+Reliable+Digital+Systems+%E2%9A%99%EF%B8%8F;Building+with+.NET%2C+Python+%26+SQL;Focusing+on+Clean+Code+%26+Security;B.I.S.+Undergraduate+@+Helwan+University" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=750&lines=Transforming+Data+Into+Strategic+Decisions+%F0%9F%9A%80;Full+Stack+.NET+%26+Python+Developer;Security-First+%7C+SOLID+%7C+AI-Augmented;B.I.S.+Undergraduate+@+Helwan" alt="Typing SVG"/>
+
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=AhmedTyson&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/AhmedTyson)
 
 </div>
 
@@ -16,13 +20,14 @@
 
 ## 🏛️ About Me
 
-> _"Turning complex requirements into efficient, maintainable software."_
+> _"Building systems that think, scale, and endure — one commit at a time."_
 
-I am a Business Information Systems student at **Helwan University** (GPA: 3.63) specializing in enterprise-grade development. My focus is on building scalable backend architectures and intuitive user interfaces using modern engineering standards.
+Business Information Systems student at **Helwan University** (GPA: 3.63) who designs before coding to ship something that matters.
 
-- 🎯 **Primary Stack**: C#, ASP.NET Core, SQL Server, and Python.
-- ⚙️ **Philosophy**: I prioritize clean code (SOLID), relational data integrity, and security-first design.
-- 🌍 **Currently**: Developing e-commerce solutions, bilingual productivity tools, and cloud-integrated bots.
+- 🎯 **Full Stack .NET Developer** — Expertise in ASP.NET Core, SQL Server, and REST APIs.
+- 🧠 **ENTP Visionary** — Focused on security-first architecture and relational data modeling.
+- 🔥 **AI Augmenter** — Integrating LLMs and automation into high-performance workflows.
+- 🌍 **Current Projects**: Enterprise web apps, bilingual search tools, and cloud automation.
 
 ---
 
@@ -65,36 +70,36 @@ I am a Business Information Systems student at **Helwan University** (GPA: 3.63)
 
 ---
 
-## 📊 Professional Competencies
+## 🌟 Core Competencies
 
 <div align="center">
   <table>
     <tr>
       <td width="33%" align="center">
-        <h3>🏗️ System Architecture</h3>
-        <p>Design patterns · Layered systems · Maintainable codebases</p>
+        <h3>🧪 Digital Alchemist</h3>
+        <p>Turning data into strategy · Rapid ideation · Iterative delivery</p>
       </td>
       <td width="33%" align="center">
-        <h3>🛡️ Data Security</h3>
-        <p>RBAC models · SQL Injection prevention · Secure API design</p>
+        <h3>🛡️ Security Architect</h3>
+        <p>RBAC systems · Parameterized queries · Layered architecture</p>
       </td>
       <td width="33%" align="center">
-        <h3>🗺️ Database Design</h3>
-        <p>ERD modeling · T-SQL optimization · Relational integrity</p>
+        <h3>🗺️ Data Maestro</h3>
+        <p>High-performance schemas · Clear ERDs · T-SQL optimization</p>
       </td>
     </tr>
     <tr>
       <td width="33%" align="center">
-        <h3>🚀 Web Engineering</h3>
-        <p>ASP.NET Core · PWA · Performance optimization</p>
+        <h3>🎯 Precision Engineer</h3>
+        <p>Clean code · SOLID principles · Comprehensive documentation</p>
       </td>
       <td width="33%" align="center">
-        <h3>🐍 Backend Logic</h3>
-        <p>Python automation · Flask · OOP principles</p>
+        <h3>🚀 Full Stack Navigator</h3>
+        <p>.NET Core to Vanilla JS · SQL to NoSQL · Cloud integrated</p>
       </td>
       <td width="33%" align="center">
-        <h3>🤖 Intelligent Tools</h3>
-        <p>LLM integration · Automation · Smart workflows</p>
+        <h3>🤖 AI Augmenter</h3>
+        <p>LLM integration · Automation · Intelligent tooling</p>
       </td>
     </tr>
   </table>
@@ -125,11 +130,11 @@ I am a Business Information Systems student at **Helwan University** (GPA: 3.63)
 
 ### 🏆 Flagship Projects
 
-| Project                                                                                                         | Stack                                                                                                                                                                                                                                                                                                                            | Highlights                                                               | Timeline                    |
-| :-------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------- | :-------------------------- |
-| **[Tafsilk](https://github.com/AhmedTyson/Tafsilk)** [🌐](https://tafsilk.runasp.net)                           | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) | Multi-role e-commerce with Stripe, Google OAuth, and Repository Pattern. | Nov 24, 2025 – Dec 07, 2025 |
-| **[BIS Schedule Search](https://github.com/AhmedTyson/bis-schedule)** [🌐](https://bis-schedule.netlify.app)    | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)                                                                                                                               | AR/EN search engine with offline PWA support and Web Worker logic.       | Dec 13, 2025 – Feb 14, 2026 |
-| **[CollegeDB](https://github.com/AhmedTyson/Tasks/tree/main/1.%20SQL%20Tasks/CollegeDB%20project-%20Task%205)** | ![SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)                                                                                                                                                                                                                     | Complex relational schema with stored procedures and RBAC models.        | May 10, 2025 – May 23, 2025 |
+| Project                                                                                                         | Stack                                                                                                                                                                                                                                                                                                                            | Highlights                                                                | Timeline                    |
+| :-------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------ | :-------------------------- |
+| **[Tafsilk](https://github.com/AhmedTyson/Tafsilk)** [🌐](https://tafsilk.runasp.net)                           | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) | Multi-role e-commerce with Stripe, Google OAuth, and RBAC security.       | Nov 24, 2025 – Dec 07, 2025 |
+| **[BIS Schedule Search](https://github.com/AhmedTyson/bis-schedule)** [🌐](https://bis-schedule.netlify.app)    | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)                                                                                                                               | Bilingual search engine with offline PWA support and worker-thread logic. | Dec 13, 2025 – Feb 14, 2026 |
+| **[CollegeDB](https://github.com/AhmedTyson/Tasks/tree/main/1.%20SQL%20Tasks/CollegeDB%20project-%20Task%205)** | ![SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)                                                                                                                                                                                                                     | Relational schema with stored procedures and 4-level privilege models.    | May 10, 2025 – May 23, 2025 |
 
 <br>
 
@@ -147,13 +152,12 @@ I am a Business Information Systems student at **Helwan University** (GPA: 3.63)
 
 ### 🐍 Python & Backend
 
-| Project | Stack | Highlights | Timeline |
-| Project | Stack | Highlights | Timeline |
-| :--- | :--- | :--- | :--- |
-| **[Personal Assistant App](https://github.com/AhmedTyson/Personal-Assistance-ItI---Python-)** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | ITI Capstone: Sierra ILS integration with Flask Blueprints and Jinja2. | Sep 26, 2024 – Feb 13, 2026 |
-| **[Sierra ILS](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Library%20Management%20System)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | OOP-based library system using SOLID and inheritance patterns. | May 31, 2025 |
-| **[Car Loan Calculator](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Car%20Loan%20Calculator%20Application)** | ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-3776AB?style=flat-square&logo=python&logoColor=white) | Amortization GUI with real-time interest validation logic. | May 31, 2025 |
-| **[Talabat Simulator](https://github.com/AhmedTyson/College-team-assignment-1)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Food delivery CLI sim with session continuity and receipt generation. | Jun 01, 2025 – Dec 17, 2025 |
+| Project                                                                                                                               | Stack                                                                                                     | Highlights                                                                 | Timeline                    |
+| :------------------------------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------- | :-------------------------- |
+| **[Personal Assistant App](https://github.com/AhmedTyson/Personal-Assistance-ItI---Python-)**                                         | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)          | ITI Capstone: Sierra ILS integration with Blueprints and Jinja2 templates. | Sep 26, 2024 – Feb 13, 2026 |
+| **[Sierra ILS](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Library%20Management%20System)**                  | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)       | OOP library management system utilizing SOLID principles and inheritance.  | May 31, 2025                |
+| **[Car Loan Calculator](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Car%20Loan%20Calculator%20Application)** | ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-3776AB?style=flat-square&logo=python&logoColor=white) | Amortization GUI with automated interest rates and validation logic.       | May 31, 2025                |
+| **[Talabat Simulator](https://github.com/AhmedTyson/College-team-assignment-1)**                                                      | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)       | Console food delivery sim with cart management and receipt generation.     | Jun 01, 2025 – Dec 17, 2025 |
 
 <br>
 
@@ -198,14 +202,12 @@ I am a Business Information Systems student at **Helwan University** (GPA: 3.63)
 
 <div align="center">
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-elsayed-8b9bba28a)
 [![Email](https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.elsayed.abdelal.2025@gmail.com)
 [![CV](https://img.shields.io/badge/CV-View_on_LinkedIn-blueviolet?style=for-the-badge&logo=readme&logoColor=white)](https://linkedin.com/in/ahmed-elsayed-8b9bba28a)
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Software+Engineer+·+Helwan+University&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Every+commit+is+a+step+toward+the+future&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
