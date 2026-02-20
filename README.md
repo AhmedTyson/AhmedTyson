@@ -37,7 +37,7 @@ Business Information Systems undergraduate at **Helwan University** _(GPA: 3.63,
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/AhmedTyson?template=classic&base=header,activity,community,repositories,metadata&achievements=1&achievements_display=compact&config_timezone=Africa/Cairo" width="100%"/>
+<img src="/github-metrics.svg" width="100%"/>
 
 <br>
 
