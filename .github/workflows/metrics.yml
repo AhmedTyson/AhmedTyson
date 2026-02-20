@@ -32,7 +32,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_anilist: yes
-          plugin_anilist_user: AhmedTyson
+          plugin_anilist_user: tyson05
           plugin_anilist_sections: characters
           plugin_anilist_limit_characters: 22
           config_timezone: Africa/Cairo
