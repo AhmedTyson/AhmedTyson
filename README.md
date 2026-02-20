@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=900&lines=Transforming+Data+Into+Strategic+Decisions+%F0%9F%9A%80;Full+Stack+.NET+%26+Python+Developer;Security-First+%7C+SOLID+%7C+AI-Augmented;B.I.S.+Undergraduate+@+Capital+University" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=900&lines=Transforming+Data+Into+Strategic+Decisions;Full+Stack+.NET+%26+Python+Developer;Security-First+%7C+SOLID+%7C+AI-Augmented;B.I.S.+Undergraduate+@+Capital+University" alt="Typing SVG"/>
 
 <br>
 
