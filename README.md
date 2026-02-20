@@ -8,8 +8,6 @@
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AhmedTyson&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/AhmedTyson)
-
 </div>
 
 <br>
