@@ -75,7 +75,7 @@ Business Information Systems undergraduate at **Helwan University** _(GPA: 3.63,
 
 ---
 
-## 🌟 what I Bring
+## 🌟 What I Bring
 
 <div align="center">
   <table>
