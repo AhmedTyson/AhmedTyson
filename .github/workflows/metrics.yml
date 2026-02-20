@@ -10,14 +10,15 @@ jobs:
       contents: write
     steps:
       - name: GitHub Metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories
-          base_skipped: metadata, releases, packages, stargazers, forkers, watchers, sponsors, sponsoring, organization
+          base_skipped: metadata, organization, sponsors, sponsoring, releases, packages, stargazers, forkers, watchers
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_threshold: B
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
@@ -25,10 +26,12 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_threshold: "0%"
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
           config_timezone: Africa/Cairo
 
       - name: Anime Metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: github-metrics-anime.svg
           token: ${{ secrets.METRICS_TOKEN }}
