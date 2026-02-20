@@ -1,16 +1,21 @@
 # ✨ Ahmed Elsayed Abdel-Al
 
-
-  ## 🔮 `Digital Alchemist` 
-**Full Stack .NET Developer | Python Developer | Database Architect**  
-  *Business Information Systems · Data Explorer · AI-Augmented Solutions*
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Transforming+Data+Into+Strategic+Decisions;Crafting+Elegant+Solutions+That+Scale;Unlocking+Potential+Through+Code;Where+Logic+Meets+Creativity" alt="Inspirational header">
+
+## 🔮 `Digital Alchemist`
+
+**Full Stack .NET Developer | Python Developer | Database Architect**
+_Business Information Systems · Data Explorer · AI-Augmented Solutions_
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Transforming+Data+Into+Strategic+Decisions;Crafting+Elegant+Solutions+That+Scale;Unlocking+Potential+Through+Code;Where+Logic+Meets+Creativity" alt="Inspirational header">
+
 </div>
+
+---
 
 ## 💻 About Me
 
-Business Information Systems undergraduate (*GPA: 3.58*) with a passion for building secure, data-driven applications. Experienced across the full stack: **C#/.NET**, **Python/Flask**, modern SQL, responsive web front-ends, and AI integration.
+Business Information Systems undergraduate (_GPA: 3.58_) with a passion for building secure, data-driven applications. Experienced across the full stack: **C#/.NET**, **Python/Flask**, modern SQL, responsive web front-ends, and AI integration.
 
 - 🎓 **B.BIS**, Helwan University (2023–2027, GPA 3.58)
 - 🎯 Aspiring **.NET Full Stack Developer** building enterprise solutions with C\#, ASP.NET Core, SQL Server, and AI.
@@ -94,7 +99,7 @@ Business Information Systems undergraduate (*GPA: 3.58*) with a passion for buil
       </td>
       <td width="33%" align="center">
         <h3>🚀 Full Stack Navigator</h3>
-        <p>.NET Core to React • SQL to NoSQL • Cloud to Edge</p>
+        <p>.NET Core to Vanilla JS • SQL to NoSQL • Cloud to Edge</p>
       </td>
       <td width="33%" align="center">
         <h3>🤖 AI Augmenter</h3>
@@ -105,11 +110,6 @@ Business Information Systems undergraduate (*GPA: 3.58*) with a passion for buil
 </div>
 
 ---
-
- 
-<div align="center">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
-
 
 ## 🛠️ Technical Arsenal
 
@@ -125,6 +125,7 @@ Business Information Systems undergraduate (*GPA: 3.58*) with a passion for buil
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" title="SQL Server"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" title="Flask"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
@@ -134,23 +135,52 @@ Business Information Systems undergraduate (*GPA: 3.58*) with a passion for buil
   <img src="https://img.icons8.com/?size=100&id=YWOidjGxCpFW&format=png&color=000000" height="40" alt="DeepSeek" title="DeepSeek"/>
 </p>
 
+</div>
+
 ---
 
 ## 🚀 Project Showcase
 
-| Project | Highlights | Year |
-| :-- | :-- | :-- |
-| **[JavaNova Academy](https://github.com/AhmedTyson/JavaNova-project)** | Cosmic Java learning platform: 4-theme engine, starfield UX, interactive cursor, 5-step framework | 2025 |
-| **[Portfolio Website](https://github.com/AhmedTyson/Ahmed.Elsayed.dev)**   | Personal portfolio responsive: HTML5, CSS3, JS               | 2025 |
-| **[CollegeDB](https://github.com/AhmedTyson/Tasks/tree/5fabb8566da3bfd5edfabfb3f81f748f347b8c3b/1.%20SQL%20Tasks/CollegeDB%20project-%20Task%205)** | Enterprise college management: 9 tables, 11 FK, 4-level RBAC, optimized SPs, full ERD | 2025 |
-| **[Sierra ILS Library Management System](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Library%20Management%20System)** | OOP library system: SOLID patterns, validation, error handling | 2025 |
-| **[Car Loan Calculator](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Car%20Loan%20Calculator%20Application)** | Real-time amortization GUI using Tkinter | 2025 |
-| **[Pet Adoption Website (PETOPIA)](https://github.com/AhmedTyson/PETOBIA-student-activity-team-project)** | Responsive pet adoption website (HTML5, CSS3, mobile-first) | 2025 |
-| **[Personal Assistant Web App](https://github.com/AhmedTyson/Personal-Assistance-ItI---Python-)** | GPT-3 powered web assistant with auth \& REST APIs | 2024 |
-| **[Talabat CLI Simulator](https://github.com/AhmedTyson/College-team-assignment-1)** | Command-line food delivery simulation | 2024 |
+### 🏆 Flagship Projects
 
+| Project                                                                                                         | Stack                          | Highlights                                                                                                                | Year |
+| :-------------------------------------------------------------------------------------------------------------- | :----------------------------- | :------------------------------------------------------------------------------------------------------------------------ | :--- |
+| **[Tafsilk](https://github.com/AhmedTyson/Tafsilk)** · [🌐 Live](https://tafsilk.runasp.net)                    | ASP.NET Core · C# · SQL Server | Multi-role e-commerce: Admin/Seller/Buyer RBAC, Stripe payments, Google OAuth, Entity Framework Core, repository pattern  | 2025 |
+| **[BIS Schedule Search](https://github.com/AhmedTyson/bis-schedule)**                                           | Vanilla JS · PWA · Netlify     | Bilingual (AR/EN) schedule search: off-thread Fuse.js Web Worker, zero build step, 8,800+ bytes of ES Module architecture | 2025 |
+| **[CollegeDB](https://github.com/AhmedTyson/Tasks/tree/main/1.%20SQL%20Tasks/CollegeDB%20project-%20Task%205)** | SQL Server · T-SQL             | Enterprise college schema: 9 tables, 11 FK, 4-level RBAC, optimized stored procedures, full ERD                           | 2025 |
 
-</div>
+### 🌐 Web & Frontend
+
+| Project                                                                                                                                         | Stack                    | Highlights                                                                                      | Year |
+| :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------- | :---------------------------------------------------------------------------------------------- | :--- |
+| **[JavaNova Academy](https://github.com/AhmedTyson/JavaNova-project)** · [🌐 Live](https://ahmedtyson.github.io/JavaNova-project/javanova.html) | HTML · CSS · JS          | Space-themed Java academy: 4-theme engine, animated starfield, 5-step interactive framework     | 2025 |
+| **[BIS E-Commerce Frontend](https://github.com/AhmedTyson/BIS_Ecommerce_Frontend_project)**                                                     | HTML · CSS · JS          | Dual-store frontend: Harizon mobile retail + Gourmet Haven restaurant, multi-page vanilla sites | 2025 |
+| **[PETOPIA Pet Adoption](https://github.com/AhmedTyson/PETOBIA-student-activity-team-project)**                                                 | HTML · CSS               | Responsive pet adoption website: 7-page site, mobile-first layout, team collaboration           | 2025 |
+| **[Artistic Workshop](https://github.com/AhmedTyson/artistic-project)**                                                                         | HTML · CSS               | Multi-page art studio website: products, workshops, booking, and contact                        | 2025 |
+| **[Bootstrap Storefront](https://github.com/AhmedTyson/bootstrap-starter)**                                                                     | HTML · CSS · Bootstrap 5 | Ceramic product store template: Bootstrap grid, cards, pagination, zero dependencies            | 2025 |
+
+### 🐍 Python & Backend
+
+| Project                                                                                                                               | Stack                   | Highlights                                                                                            | Year |
+| :------------------------------------------------------------------------------------------------------------------------------------ | :---------------------- | :---------------------------------------------------------------------------------------------------- | :--- |
+| **[Personal Assistant Web App](https://github.com/AhmedTyson/Personal-Assistance-ItI---Python-)**                                     | Python · Flask · Jinja2 | ITI capstone: Sierra ILS library management, Flask Blueprints, Jinja2 templates, test suite           | 2024 |
+| **[Sierra ILS Library System](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Library%20Management%20System)**   | Python · OOP            | Console library management: Book/EBook inheritance, menu-driven CRUD, SOLID patterns                  | 2025 |
+| **[Car Loan Calculator](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Car%20Loan%20Calculator%20Application)** | Python · Tkinter        | Real-time amortization GUI: automatic interest rates, input validation, monthly payment formula       | 2025 |
+| **[Talabat CLI Simulator](https://github.com/AhmedTyson/College-team-assignment-1)**                                                  | Python · OOP            | Food delivery console sim: user registration, cart management, receipt generation, session continuity | 2024 |
+
+### ⚡ Automation & Tooling
+
+| Project                                                                              | Stack                                     | Highlights                                                                                       | Year |
+| :----------------------------------------------------------------------------------- | :---------------------------------------- | :----------------------------------------------------------------------------------------------- | :--- |
+| **[Telegram × Google Drive Bot](https://github.com/AhmedTyson/Telegrambot-node.js)** | Node.js · Telegram API · Google Drive API | Cloud automation bot: upload/retrieve/list Drive files directly from Telegram chat via OAuth 2.0 | 2024 |
+| **[Checklist Application](https://github.com/AhmedTyson/checklist-application)**     | Vanilla JS · ES Modules · Node.js         | Structured JS learning project: ES Module architecture, admin panel, no bundler required         | 2024 |
+
+### 📚 Knowledge & Reference
+
+| Project                                            | Description                                                                                            | Year |
+| :------------------------------------------------- | :----------------------------------------------------------------------------------------------------- | :--- |
+| **[Guides](https://github.com/AhmedTyson/Guides)** | Technical reference library: bilingual Git/GitHub roadmap (AR+EN), vibe coding guide, CV writing guide | 2025 |
+| **[Tasks](https://github.com/AhmedTyson/Tasks)**   | Learning archive: 7 SQL tasks (incl. enterprise CollegeDB), 6 C# OOP assignments, DEPI schedule        | 2025 |
 
 ---
 
@@ -161,24 +191,23 @@ Business Information Systems undergraduate (*GPA: 3.58*) with a passion for buil
 ```mermaid
 pie
     title Technical Focus Areas
-    "Python Development" : 30
-    "Database Design" : 25
-    ".NET Development" : 20
-    "Web Development" : 15
-    "AI Integration" : 10
+    ".NET / C# Development" : 28
+    "Database Design & SQL" : 25
+    "Python Development" : 22
+    "Web Frontend" : 15
+    "AI & Automation" : 10
 ```
 
 </div>
 
 ---
 
-
 ## 🏆 Certifications
 
 <div align="center">
 
 | Certification                                                                                                                           | Provider   | Skills Applied     | Badge                                                                                                                                                                                                                                              |
-| --------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :-------------------------------------------------------------------------------------------------------------------------------------- | :--------- | :----------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **[GitHub Foundations](https://www.datacamp.com/completed/statement-of-accomplishment/track/f1d16eb46190782bc484d441ab62c26be5a3b7b4)** | DataCamp   | Git, Collaboration | [![GitHub Certified](https://img.shields.io/badge/DataCamp-GitHub_Foundations-01A4D2?style=flat-square&logo=datacamp&logoWidth=15)](https://www.datacamp.com/completed/statement-of-accomplishment/track/f1d16eb46190782bc484d441ab62c26be5a3b7b4) |
 | **[Python & Flask](https://www.ude.my/UC-853a36da-af1c-4bff-a5f6-4bc4b66a90e5)**                                                        | Udemy      | OOP, Web Dev       | ![Python Certified](https://img.shields.io/badge/Python-Advanced-3776AB?logo=python)                                                                                                                                                               |
 | **[AI Essentials](https://intranet.alxswe.com/certificates/NFzyxYreET)**                                                                | alx_africa | Data Visualization | ![AI Certified](https://img.shields.io/badge/AI-Fundamentals-FF6F00?logo=ai)                                                                                                                                                                       |
@@ -188,7 +217,7 @@ pie
 
 ---
 
-## 🙌 Let’s Connect
+## 🙌 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/ahmed-elsayed-8b9bba28a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"></a>
@@ -198,9 +227,8 @@ pie
 
 ---
 
-<p align="center"> 
-  <em>"When not coding, you'll find me analyzing football stats ⚽ or architecting database solutions 💾"
-  </em> 
+<p align="center">
+  <em>"When not coding, you'll find me analyzing football stats ⚽ or architecting database solutions 💾"</em>
 </p>
 <br>
 
