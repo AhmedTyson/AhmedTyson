@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahmed%20Elsayed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Digital%20Alchemist%20%C2%B7%20Full%20Stack%20.NET%20Developer%20%C2%B7%20Database%20Architect&descAlignY=55&descSize=16" width="100%"/>
 
-</div>
-
-<div align="center">
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=750&lines=Transforming+Data+Into+Strategic+Decisions+%F0%9F%9A%80;Full+Stack+.NET+%26+Python+Developer;Security-First+%7C+SOLID+%7C+AI-Augmented;B.I.S.+Undergraduate+@+Capital+University" alt="Typing SVG"/>
 
@@ -26,10 +24,12 @@
 
 </div>
 
-I am a high-impact **Business Information Systems** specialist at **Capital University** (GPA: 3.63) and a certified graduate of the **Digital Egypt Pioneers Initiative (DEPI)** Full Stack .NET Web Developer track. My engineering philosophy focuses on building high-performance backend architectures, robust relational data models, and intelligent automation systems that scale.
+<br>
+
+I am a high-impact **Business Information Systems** specialist at **Capital University** (GPA: 3.63) and a certified graduate of the **Digital Egypt Pioneers Initiative (DEPI)** Full Stack .NET Web Developer track. My engineering philosophy focuses on building high-performance backend architectures, robust relational data models, and intelligent automation systems that scale reliably.
 
 - 🎯 **Domain Expertise**: Enterprise .NET Core, SQL Server Optimization, and Pythonic Automation.
-- ⚙️ **Strategy**: I specialize in transforming complex business requirements into maintainable, security-first digital products.
+- ⚙️ **Strategic Engineering**: I specialize in transforming complex business requirements into maintainable, security-first digital products.
 - 🔥 **AI Augmenter**: Expert in integrating LLMs, vector search, and custom automation into high-performance developer workflows.
 
 <br>
@@ -39,6 +39,9 @@ I am a high-impact **Business Information Systems** specialist at **Capital Univ
 ## 🌟 Core Competencies
 
 <div align="center">
+
+<br>
+
   <table>
     <tr>
       <td width="33%" align="center">
@@ -69,9 +72,10 @@ I am a high-impact **Business Information Systems** specialist at **Capital Univ
       </td>
     </tr>
   </table>
-</div>
 
 <br>
+
+</div>
 
 ---
 
@@ -79,37 +83,40 @@ I am a high-impact **Business Information Systems** specialist at **Capital Univ
 
 <div align="center">
 
+<br>
+
 **Development Stack**
+<br>
 [![Main Tech](https://skillicons.dev/icons?i=cs,dotnet,py,flask,nodejs,js,ts,html,css,bootstrap,postgres,sqlite&theme=dark)](https://skillicons.dev)
 
 <br>
 
 **Infrastructure & Tools**
+<br>
 [![Tools](https://skillicons.dev/icons?i=git,github,netlify,vscode,maven,docker,bash&theme=dark)](https://skillicons.dev)
 
 <br>
 
 **AI & Productivity**
 <br>
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=googlebot&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black) ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=googlebot&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" title="SQL Server"/>
-<img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" height="40" title="Microsoft Excel"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" height="40" title="ChatGPT"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" title="SQL Server"/> &nbsp;
+<img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" height="40" title="Microsoft Excel"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" height="40" title="ChatGPT"/> &nbsp;
 <img src="https://img.icons8.com/?size=100&id=YWOidjGxCpFW&format=png&color=000000" height="40" title="DeepSeek"/>
 
-</div>
-
 <br>
+
+</div>
 
 ---
 
 ## 🚀 Project Showcase
+
+<br>
 
 ### 🏆 Flagship Projects
 
@@ -166,13 +173,15 @@ I am a high-impact **Business Information Systems** specialist at **Capital Univ
 
 ## 📈 Activity & Metrics
 
+<br>
+
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%" align="center">
+      <td width="48%" align="center">
         <img src="/github-metrics.svg" width="100%"/>
       </td>
-      <td width="50%" align="center">
+      <td width="48%" align="center">
         <img height="180em" src="https://streak-stats.demolab.com/?user=AhmedTyson&theme=radical&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=FFD700&currStreakLabel=FFFFFF&hide_border=true"/>
       </td>
     </tr>
@@ -220,13 +229,15 @@ I am a high-impact **Business Information Systems** specialist at **Capital Univ
 
 </div>
 
-</details>
-
 <br>
+
+</details>
 
 ---
 
 ## 🤝 Let's Connect
+
+<br>
 
 <div align="center">
 
