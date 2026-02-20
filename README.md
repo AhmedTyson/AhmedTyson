@@ -214,24 +214,20 @@ I am a high-impact **Business Information Systems** specialist at **Capital Univ
 
 ---
 
-## <details><summary>🎓 Certifications (click to expand)</summary>
-
-<br>
+## �️ Verified Expertise
 
 <div align="center">
 
-| Certification          | Provider   | Skills                              | Verify                                                                                                                |
-| :--------------------- | :--------- | :---------------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
-| **GitHub Foundations** | DataCamp   | Git, Collaboration, GitHub Actions  | [View](https://www.datacamp.com/completed/statement-of-accomplishment/track/f1d16eb46190782bc484d441ab62c26be5a3b7b4) |
-| **Python & Flask**     | Udemy      | OOP, Web Dev, REST APIs             | [View](https://www.ude.my/UC-853a36da-af1c-4bff-a5f6-4bc4b66a90e5)                                                    |
-| **AI Essentials**      | ALX Africa | AI Fundamentals, Data Visualization | [View](https://intranet.alxswe.com/certificates/NFzyxYreET)                                                           |
-| **Excel Advanced**     | Udemy      | Data Analysis, Dashboards           | [View](https://ude.my/UC-eac85e19-e391-4906-9404-8439b955c85d)                                                        |
+<br>
 
-</div>
+[![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-24292e?style=for-the-badge&logo=github&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/track/f1d16eb46190782bc484d441ab62c26be5a3b7b4)
+[![Python & Flask](https://img.shields.io/badge/Python-Flask_Dev-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.ude.my/UC-853a36da-af1c-4bff-a5f6-4bc4b66a90e5)
+[![AI Essentials](https://img.shields.io/badge/ALX-AI_Essentials-000000?style=for-the-badge&logo=alx&logoColor=white)](https://intranet.alxswe.com/certificates/NFzyxYreET)
+[![Excel Advanced](https://img.shields.io/badge/Microsoft-Excel_Expert-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://ude.my/UC-eac85e19-e391-4906-9404-8439b955c85d)
 
 <br>
 
-</details>
+</div>
 
 ---
 
