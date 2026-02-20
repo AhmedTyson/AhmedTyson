@@ -181,6 +181,8 @@ I am a high-impact **Business Information Systems** specialist at **Capital Univ
 
 <br>
 
+### 💻 Development Analytics
+
 <div align="center">
   <table border="0">
     <tr>
@@ -196,11 +198,15 @@ I am a high-impact **Business Information Systems** specialist at **Capital Univ
 
 <br>
 
+### 💮 Anime & Manga Vitality
+
 <div align="center">
   <img src="/github-metrics-anime.svg?v=1" width="85%"/>
 </div>
 
 <br>
+
+### 🐍 Contribution Flow
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedTyson&theme=react-dark&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFD700&area=true&hide_border=true" width="85%"/>
