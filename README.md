@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hououin+Kyouma&fontSize=50&fontColor=C0C0C0&animation=twinkling&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahmed+Elsayed&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40" width="100%"/>
 
-# 🕒 THE MAD SCIENTIST OF CODE
+# 👋 Hey there, I'm Ahmed!
 
-_"El Psy Congroo. The world line has shifted... toward excellence."_
+_"Building systems that think, scale, and endure — one commit at a time."_
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-elsayed-8b9bba28a)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedTyson)
-[![Profile Views](https://komarev.com/ghpvc/?username=AhmedTyson&color=blueviolet&style=for-the-badge&label=DIVERGENCE+METER)](https://github.com/AhmedTyson)
+[![Profile Views](https://komarev.com/ghpvc/?username=AhmedTyson&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/AhmedTyson)
 <br>
 [![Download CV](https://img.shields.io/badge/⬇️_Download_CV-View_on_LinkedIn-0A66C2?style=for-the-badge&logo=readme&logoColor=white)](https://linkedin.com/in/ahmed-elsayed-8b9bba28a)
 
@@ -20,25 +20,20 @@ _"El Psy Congroo. The world line has shifted... toward excellence."_
 
 ---
 
-## 🔬 Lab Member 001: Ahmed Elsayed
+## 🏛️ About Me
 
-> _"I am Mad Scientist, Hououin Kyouma! Solving the world's most complex algorithms, one world-line at a time."_
+> _"Building systems that think, scale, and endure — one commit at a time."_
 
-Business Information Systems undergraduate at **Helwan University** _(GPA: 3.63, 2023–2027)_ specializing in full-stack engineering and data-driven systems.
+Business Information Systems undergraduate at **Helwan University** _(GPA: 3.63, 2023–2027)_ who believes great software is the intersection of rigorous engineering and intentional design.
 
-- 🎯 **Primary Worldline**: .NET Full Stack (C#, ASP.NET Core, SQL Server, EF Core)
-- 🧠 **ENTP Catalyst**: Rapid ideation, architectural foresight, and iterative shipping.
-- � **Operation Skuld**: Currently building scalable enterprise solutions and AI-integrated workflows.
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/windmgc/divergence-meter-profile/main/divergence.svg" alt="Divergence Meter" width="400px"/>
-</div>
+- 🎯 Aspiring **.NET Full Stack Developer** — C#, ASP.NET Core MVC, SQL Server, REST APIs, EF Core
+- 🧠 **ENTP Visionary** — I design before I code, and always ship something that matters
+- 🔥 Passions: Security-first architecture, relational data modeling, AI-augmented development
+- 🌍 Currently building: enterprise web apps, bilingual tools, and cloud automation bots
 
 ---
 
-## 📊 Worldline Diagnostics
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -52,10 +47,12 @@ Business Information Systems undergraduate at **Helwan University** _(GPA: 3.63,
 
 ---
 
-## 🎭 The Mad Scientist (Okabe)
+## 🎭 Favorite Anime Character
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6M3N6M3N6M3N6M3N6M3N6M3N6M3N6M3N6M3N6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/126tXKyP0VbO6s/giphy.gif" alt="Okabe Rintaro" width="300px"/>
+  <img src="https://i.pinimg.com/originals/f0/a9/38/f0a938efc0209a42fc7371e5fd5e6991.gif" alt="Rintaro Okabe — Steins;Gate" width="300px"/>
+  <br><br>
+  <b>Rintaro Okabe (Hououin Kyouma)</b> — <i>Steins;Gate</i>
   <br>
   <i>"No one knows what the future holds. That's why its potential is infinite."</i>
 </div>
