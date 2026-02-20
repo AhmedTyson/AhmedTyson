@@ -34,34 +34,16 @@ Business Information Systems undergraduate at **Helwan University** _(GPA: 3.58,
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 Performance & Impact
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=AhmedTyson&theme=metron&no-frame=true&margin-w=6&margin-h=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://metrics.lecoq.io/AhmedTyson?template=classic&base=header,activity,community,repositories,metadata&achievements=1&achievements_display=compact&config_timezone=Africa/Cairo" width="100%"/>
 
-</div>
+<br>
 
----
+<img height="180em" src="https://streak-stats.demolab.com/?user=AhmedTyson&theme=radical&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=FFD700&currStreakLabel=FFFFFF&hide_border=true"/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://stats.deno.dev/api?username=AhmedTyson&show_icons=true&theme=radical&bg_color=0d1117&title_color=8A2BE2&text_color=fff&icon_color=FFD700&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-      </td>
-      <td>
-        <img height="180em" src="https://stats.deno.dev/api/top-langs/?username=AhmedTyson&layout=compact&theme=radical&bg_color=0d1117&title_color=8A2BE2&text_color=fff&hide_border=true&langs_count=8"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img height="180em" src="https://streak-stats.demolab.com/?user=AhmedTyson&theme=radical&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=FFD700&currStreakLabel=FFFFFF&hide_border=true"/>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
