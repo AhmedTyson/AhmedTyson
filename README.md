@@ -43,29 +43,29 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
   <table>
     <tr>
       <td width="33%" align="center">
-        <h3><img src="https://api.iconify.design/lucide:chevron-right.svg?color=%238A2BE2" width="18" height="18" align="center" /> Digital Architect</h3>
+        <h3><img src="https://api.iconify.design/lucide:layout.svg?color=%238A2BE2" width="18" height="18" align="center" /> Digital Architect</h3>
         <p>Turning data into strategy · Rapid ideation · Iterative delivery</p>
       </td>
       <td width="33%" align="center">
-        <h3><img src="https://api.iconify.design/lucide:chevron-right.svg?color=%238A2BE2" width="18" height="18" align="center" /> Security Engineering</h3>
+        <h3><img src="https://api.iconify.design/lucide:shield-check.svg?color=%238A2BE2" width="18" height="18" align="center" /> Security Engineering</h3>
         <p>RBAC systems · Parameterized queries · Layered architecture</p>
       </td>
       <td width="33%" align="center">
-        <h3><img src="https://api.iconify.design/lucide:chevron-right.svg?color=%238A2BE2" width="18" height="18" align="center" /> Data Maestro</h3>
+        <h3><img src="https://api.iconify.design/lucide:database.svg?color=%238A2BE2" width="18" height="18" align="center" /> Data Maestro</h3>
         <p>High-performance schemas · Clear ERDs · T-SQL optimization</p>
       </td>
     </tr>
     <tr>
       <td width="33%" align="center">
-        <h3><img src="https://api.iconify.design/lucide:chevron-right.svg?color=%238A2BE2" width="18" height="18" align="center" /> Precision Engineering</h3>
+        <h3><img src="https://api.iconify.design/lucide:ruler.svg?color=%238A2BE2" width="18" height="18" align="center" /> Precision Engineering</h3>
         <p>Clean code · SOLID principles · Comprehensive documentation</p>
       </td>
       <td width="33%" align="center">
-        <h3><img src="https://api.iconify.design/lucide:chevron-right.svg?color=%238A2BE2" width="18" height="18" align="center" /> Full Stack Navigator</h3>
+        <h3><img src="https://api.iconify.design/lucide:compass.svg?color=%238A2BE2" width="18" height="18" align="center" /> Full Stack Navigator</h3>
         <p>.NET Core to Vanilla JS · SQL to NoSQL · Cloud integrated</p>
       </td>
       <td width="33%" align="center">
-        <h3><img src="https://api.iconify.design/lucide:chevron-right.svg?color=%238A2BE2" width="18" height="18" align="center" /> Workflow Automation</h3>
+        <h3><img src="https://api.iconify.design/lucide:bot.svg?color=%238A2BE2" width="18" height="18" align="center" /> Workflow Automation</h3>
         <p>LLM integration · Automation · Intelligent tooling</p>
       </td>
     </tr>
@@ -111,7 +111,7 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 <br>
 
-### 🏆 Flagship Projects
+### <img src="https://api.iconify.design/lucide:trophy.svg?color=%238A2BE2" width="18" height="18" align="center" /> Flagship Projects
 
 | Project                                                                                                                                                   | Stack                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Highlights                                                                | Timeline                    |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------ | :-------------------------- |
@@ -121,7 +121,7 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 <br>
 
-### 🌐 Web & Frontend
+### <img src="https://api.iconify.design/lucide:globe.svg?color=%238A2BE2" width="18" height="18" align="center" /> Web & Frontend
 
 | Project                                                                                                                                                                   | Stack                                                                                                                                                                                                                                                                                                                                                                                                          | Highlights                                                           | Timeline                    |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------- | :-------------------------- |
@@ -133,7 +133,7 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 <br>
 
-### 🐍 Python & Backend
+### <img src="https://api.iconify.design/lucide:container.svg?color=%238A2BE2" width="18" height="18" align="center" /> Python & Backend
 
 | Project                                                                                                                               | Stack                                                                                                                                                                                                                                                                                                   | Highlights                                                                 | Timeline                    |
 | :------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------- | :-------------------------- |
@@ -144,7 +144,7 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 <br>
 
-### ⚡ Automation & Tooling
+### <img src="https://api.iconify.design/lucide:settings-2.svg?color=%238A2BE2" width="18" height="18" align="center" /> Automation & Tooling
 
 | Project                                                                                                                              | Stack                                                                                                                                                                                                                                                                                                                                  | Highlights                                                      | Timeline     |
 | :----------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------- | :----------- |
@@ -153,7 +153,7 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 <br>
 
-### 📚 Knowledge Base
+### <img src="https://api.iconify.design/lucide:book-open.svg?color=%238A2BE2" width="18" height="18" align="center" /> Knowledge Base
 
 | Project                                                  | Description                                                                         | Timeline                    |
 | :------------------------------------------------------- | :---------------------------------------------------------------------------------- | :-------------------------- |
