@@ -27,7 +27,7 @@
 
 > _"Building systems that think, scale, and endure — one commit at a time."_
 
-Business Information Systems undergraduate at **Helwan University** _(GPA: 3.58, 2023–2027)_ who believes great software is the intersection of rigorous engineering and intentional design.
+Business Information Systems undergraduate at **Helwan University** _(GPA: 3.63, 2023–2027)_ who believes great software is the intersection of rigorous engineering and intentional design.
 
 - 🎯 Aspiring **.NET Full Stack Developer** — C#, ASP.NET Core MVC, SQL Server, REST APIs, EF Core
 - 🧠 **ENTP Visionary** — I design before I code, and always ship something that matters
@@ -240,3 +240,4 @@ Business Information Systems undergraduate at **Helwan University** _(GPA: 3.58,
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Every+commit+is+a+step+toward+the+future&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
+
