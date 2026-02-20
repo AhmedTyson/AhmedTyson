@@ -37,7 +37,7 @@ Business Information Systems undergraduate at **Helwan University** _(GPA: 3.63,
 
 <div align="center">
 
-<img src="/github-metrics.svg" width="100%"/>
+<img src="/github-metrics.svg" width="25%"/>
 
 <br>
 
@@ -229,3 +229,4 @@ Business Information Systems undergraduate at **Helwan University** _(GPA: 3.63,
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Every+commit+is+a+step+toward+the+future&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
+
