@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0D1117&height=180&section=header&text=Ahmed%20Elsayed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Digital%20Alchemist%20%C2%B7%20Full%20Stack%20.NET%20Developer%20%C2%B7%20Database%20Architect&descAlignY=55&descSize=16" width="100%"/>
+<a><img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0D1117&height=180&section=header&text=Ahmed%20Elsayed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Digital%20Alchemist%20%C2%B7%20Full%20Stack%20.NET%20Developer%20%C2%B7%20Database%20Architect&descAlignY=55&descSize=16" width="100%"/></a>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=900&lines=Transforming+Data+Into+Strategic+Decisions;Full+Stack+.NET+%26+Python+Developer;Security-First+%7C+SOLID+%7C+AI-Augmented;B.I.S.+Undergraduate+@+Capital+University" alt="Typing SVG"/>
+<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=900&lines=Transforming+Data+Into+Strategic+Decisions;Full+Stack+.NET+%26+Python+Developer;Security-First+%7C+SOLID+%7C+AI-Augmented;B.I.S.+Undergraduate+@+Capital+University" alt="Typing SVG" width="100%"/></a>
 
 <br>
 
@@ -14,59 +14,31 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%238A2BE2" width="20" height="20" align="center" /> About
+## <a><img src="https://api.iconify.design/lucide:terminal-square.svg?color=%238A2BE2" width="20" height="20" align="center" /></a> About
 
 ---
 
 > "Building reliable backend systems and translating business needs into clean code."
 
 Business Information Systems undergraduate at **Capital University** (GPA: 3.63) and certified graduate of the **Digital Egypt Pioneers Initiative (DEPI)** Full Stack .NET Developer track. Engineering approach centers on designing secure architectures, efficient relational databases, and practical automation workflows that scale reliably.
+
 <br>
 
-<img src="https://api.iconify.design/lucide:layout.svg?color=%238A2BE2" width="16" height="16" align="center" /> **Digital Architect**: Transforming complex business requirements into maintainable, security-first digital products.
+<a><img src="https://api.iconify.design/lucide:layout.svg?color=%238A2BE2" width="16" height="16" align="center" /></a> **Digital Architect**: Transforming complex business requirements into maintainable, security-first digital products.
 <br>
-<img src="https://api.iconify.design/lucide:database.svg?color=%238A2BE2" width="16" height="16" align="center" /> **Core Stack**: Enterprise ASP.NET Core, SQL Server optimization, and Python backend development.
+<a><img src="https://api.iconify.design/lucide:database.svg?color=%238A2BE2" width="16" height="16" align="center" /></a> **Core Stack**: Enterprise ASP.NET Core, SQL Server optimization, and Python backend development.
 <br>
-<img src="https://api.iconify.design/lucide:bot.svg?color=%238A2BE2" width="16" height="16" align="center" /> **Smart Automation**: Integrating LLMs and custom workflows to accelerate development and eliminate repetitive tasks.
+<a><img src="https://api.iconify.design/lucide:bot.svg?color=%238A2BE2" width="16" height="16" align="center" /></a> **Smart Automation**: Integrating LLMs and custom workflows to accelerate development and eliminate repetitive tasks.
 
 ---
 
-## <img src="https://api.iconify.design/lucide:component.svg?color=%238A2BE2" width="20" height="20" align="center" /> Architecture Dashboard
+## <a><img src="https://api.iconify.design/lucide:component.svg?color=%238A2BE2" width="20" height="20" align="center" /></a> Architecture Dashboard
 
 <div align="center">
 
 <br>
 
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <h3><img src="https://api.iconify.design/lucide:layout.svg?color=%238A2BE2" width="18" height="18" align="center" /> Digital Architect</h3>
-        <p>Turning data into strategy · Rapid ideation · Iterative delivery</p>
-      </td>
-      <td width="33%" align="center">
-        <h3><img src="https://api.iconify.design/lucide:shield-check.svg?color=%238A2BE2" width="18" height="18" align="center" /> Security Engineering</h3>
-        <p>RBAC systems · Parameterized queries · Layered architecture</p>
-      </td>
-      <td width="33%" align="center">
-        <h3><img src="https://api.iconify.design/lucide:database.svg?color=%238A2BE2" width="18" height="18" align="center" /> Data Maestro</h3>
-        <p>High-performance schemas · Clear ERDs · T-SQL optimization</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="33%" align="center">
-        <h3><img src="https://api.iconify.design/lucide:ruler.svg?color=%238A2BE2" width="18" height="18" align="center" /> Precision Engineering</h3>
-        <p>Clean code · SOLID principles · Comprehensive documentation</p>
-      </td>
-      <td width="33%" align="center">
-        <h3><img src="https://api.iconify.design/lucide:compass.svg?color=%238A2BE2" width="18" height="18" align="center" /> Full Stack Navigator</h3>
-        <p>.NET Core to Vanilla JS · SQL to NoSQL · Cloud integrated</p>
-      </td>
-      <td width="33%" align="center">
-        <h3><img src="https://api.iconify.design/lucide:bot.svg?color=%238A2BE2" width="18" height="18" align="center" /> Workflow Automation</h3>
-        <p>LLM integration · Automation · Intelligent tooling</p>
-      </td>
-    </tr>
-  </table>
+<a>![Architecture Dashboard](./architecture_dashboard.svg)</a>
 
 <br>
 
@@ -74,7 +46,7 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 ---
 
-## <img src="https://api.iconify.design/lucide:cpu.svg?color=%238A2BE2" width="20" height="20" align="center" /> Tech Arsenal
+## <a><img src="https://api.iconify.design/lucide:cpu.svg?color=%238A2BE2" width="20" height="20" align="center" /></a> Tech Arsenal
 
 <div align="center">
 
@@ -82,21 +54,21 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 **Development Stack**
 <br>
-[![Main Tech](https://skillicons.dev/icons?i=cs,dotnet,py,flask,nodejs,js,ts,html,css,bootstrap,postgres,sqlite&theme=dark)](https://skillicons.dev)
+<a>![Main Tech](https://skillicons.dev/icons?i=cs,dotnet,py,flask,nodejs,js,ts,html,css,bootstrap,postgres,sqlite&theme=dark)</a>
 
 <br>
 
 **Infrastructure & Tools**
 <br>
-[![Tools](https://skillicons.dev/icons?i=git,github,netlify,vscode,visualstudio,maven,postman,powershell,docker,bash&theme=dark)](https://skillicons.dev)
+<a>![Tools](https://skillicons.dev/icons?i=git,github,netlify,vscode,visualstudio,maven,postman,powershell,docker,bash&theme=dark)</a>
 
 <br>
 
 **The Intelligence Lab**
 <br>
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black) ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=googlebot&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+<a>![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)</a> <a>![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black)</a> <a>![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=googlebot&logoColor=white)</a> <a>![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)</a>
 <br>
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)
+<a>![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)</a> <a>![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)</a> <a>![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)</a> <a>![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)</a> <a>![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)</a> <a>![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)</a>
 
 <br>
 
@@ -104,100 +76,101 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 ---
 
-## <img src="https://api.iconify.design/lucide:binary.svg?color=%238A2BE2" width="20" height="20" align="center" /> Project Showcase
+## <a><img src="https://api.iconify.design/lucide:binary.svg?color=%238A2BE2" width="20" height="20" align="center" /></a> Project Showcase
 
 <br>
 
-### <img src="https://api.iconify.design/lucide:trophy.svg?color=%238A2BE2" width="18" height="18" align="center" /> Flagship Projects
+### <a><img src="https://api.iconify.design/lucide:trophy.svg?color=%238A2BE2" width="18" height="18" align="center" /></a> Flagship Projects
 
-| Project                                                                                                                                                                                                                            | Live                                                                                                                                                           | Stack                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Highlights                                                                | Timeline                    |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------ | :-------------------------- |
-| <img src="https://api.iconify.design/lucide:shield-check.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Tafsilk](https://github.com/AhmedTyson/Tafsilk)**                                                        | [<img src="https://api.iconify.design/lucide:external-link.svg?color=%238A2BE2" width="14" height="14" align="center" />](https://tafsilk.runasp.net)          | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008ABC?style=flat-square&logo=stripe&logoColor=white) ![Google](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white) | Multi-role e-commerce with Stripe, Google OAuth, and RBAC security.       | Nov 24, 2025 – Dec 07, 2025 |
-| <img src="https://api.iconify.design/lucide:search.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[BIS Schedule Search](https://github.com/AhmedTyson/bis-schedule)**                                             | [<img src="https://api.iconify.design/lucide:external-link.svg?color=%238A2BE2" width="14" height="14" align="center" />](https://bis-schedule.netlify.app)    | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)                                                                                                                                        | Bilingual search engine with offline PWA support and worker-thread logic. | Dec 13, 2025 – Feb 14, 2026 |
-| <img src="https://api.iconify.design/lucide:database.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[CollegeDB](https://github.com/AhmedTyson/Tasks/tree/main/1.%20SQL%20Tasks/CollegeDB%20project-%20Task%205)** | [<img src="https://api.iconify.design/lucide:external-link.svg?color=%238A2BE2" width="14" height="14" align="center" />](https://ahmedtyson.github.io/Tasks/) | ![SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Schema](https://img.shields.io/badge/Relational_DB-005C84?style=flat-square&logo=databricks&logoColor=white)                                                                                                                                                                                                                                                                                                                    | Relational schema with stored procedures and 4-level privilege models.    | May 10, 2025 – May 23, 2025 |
-
-<br>
-
-### <img src="https://api.iconify.design/lucide:globe.svg?color=%238A2BE2" width="18" height="18" align="center" /> Web & Frontend
-
-| Project                                                                                                                                                                                                             | Live                                                                                                                                                                                           | Stack                                                                                                                                                                                                                                                                                                                                                                                                          | Highlights                                                           | Timeline                    |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------- | :-------------------------- |
-| <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[JavaNova Academy](https://github.com/AhmedTyson/JavaNova-project)**                     | [<img src="https://api.iconify.design/lucide:external-link.svg?color=%238A2BE2" width="14" height="14" align="center" />](https://ahmedtyson.github.io/JavaNova-project/javanova.html)         | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![DeepSeek](https://img.shields.io/badge/AI_Engine-DeepSeek-blue?style=flat-square&logo=deepseek&logoColor=white) | Space-themed academy with a 4-theme engine and Starfield animations. | Jul 31, 2025 – Aug 01, 2025 |
-| <img src="https://api.iconify.design/lucide:shopping-bag.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Harizon \& Gourmet Haven](https://github.com/AhmedTyson/BIS_Ecommerce_Frontend_project)** | [<img src="https://api.iconify.design/lucide:external-link.svg?color=%238A2BE2" width="14" height="14" align="center" />](https://ahmedtyson.github.io/BIS_Ecommerce_Frontend_project/)        | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)                                                                                                      | Multi-brand retail and restaurant frontend layouts.                  | Dec 09, 2025                |
-| <img src="https://api.iconify.design/lucide:dog.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[PETOPIA Pet Adoption](https://github.com/AhmedTyson/PETOBIA-student-activity-team-project)**       | [<img src="https://api.iconify.design/lucide:external-link.svg?color=%238A2BE2" width="14" height="14" align="center" />](https://ahmedtyson.github.io/PETOBIA-student-activity-team-project/) | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Responsive](https://img.shields.io/badge/Responsive-UI-brightgreen?style=flat-square)                                                                                                                           | Responsive mobile-first pet adoption site developed with a team.     | Nov 01, 2025                |
-| <img src="https://api.iconify.design/lucide:palette.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Artistic Workshop](https://github.com/AhmedTyson/artistic-project)**                           | [<img src="https://api.iconify.design/lucide:external-link.svg?color=%238A2BE2" width="14" height="14" align="center" />](https://ahmedtyson.github.io/artistic-project/)                      | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Aesthetic](https://img.shields.io/badge/Design-Arts-purple?style=flat-square)                                                                                                                                   | Art studio platform featuring digital booking and workshop catalogs. | Feb 12, 2026                |
-| <img src="https://api.iconify.design/lucide:layout-template.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Bootstrap Storefront](https://github.com/AhmedTyson/bootstrap-starter)**               | [<img src="https://api.iconify.design/lucide:external-link.svg?color=%238A2BE2" width="14" height="14" align="center" />](https://ahmedtyson.github.io/bootstrap-starter/)                     | ![Bootstrap](https://img.shields.io/badge/B5-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![E-commerce](https://img.shields.io/badge/Store-Template-blue?style=flat-square)                                                                                                                           | Minimalist ceramic store template built with Bootstrap grid.         | Feb 12, 2026                |
+| Project                                                                                                                                                                                                                                   | Details                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <a><img src="https://api.iconify.design/lucide:shield-check.svg?color=%238A2BE2" width="14" height="14" align="center" /></a> **[Tafsilk](https://github.com/AhmedTyson/Tafsilk)**                                                        | **Live:** [External Link](https://tafsilk.runasp.net) <br> **Stack:** <a>![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)</a> <a>![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)</a> <a>![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)</a> <br> **Highlights:** Multi-role e-commerce with Stripe, Google OAuth, and RBAC security. <br> **Timeline:** Nov 24, 2025 – Dec 07, 2025 |
+| <a><img src="https://api.iconify.design/lucide:search.svg?color=%238A2BE2" width="14" height="14" align="center" /></a> **[BIS Schedule Search](https://github.com/AhmedTyson/bis-schedule)**                                             | **Live:** [External Link](https://bis-schedule.netlify.app) <br> **Stack:** <a>![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)</a> <a>![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)</a> <a>![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)</a> <br> **Highlights:** Bilingual search engine with offline PWA support and worker-thread logic. <br> **Timeline:** Dec 13, 2025 – Feb 14, 2026            |
+| <a><img src="https://api.iconify.design/lucide:database.svg?color=%238A2BE2" width="14" height="14" align="center" /></a> **[CollegeDB](https://github.com/AhmedTyson/Tasks/tree/main/1.%20SQL%20Tasks/CollegeDB%20project-%20Task%205)** | **Docs:** [View Output](https://ahmedtyson.github.io/Tasks/) <br> **Stack:** <a>![SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)</a> <a>![Schema](https://img.shields.io/badge/Relational_DB-005C84?style=flat-square&logo=databricks&logoColor=white)</a> <br> **Highlights:** Relational schema with stored procedures and 4-level privilege models. <br> **Timeline:** May 10, 2025 – May 23, 2025                                                                                                   |
 
 <br>
 
-### <img src="https://api.iconify.design/lucide:container.svg?color=%238A2BE2" width="18" height="18" align="center" /> Python & Backend
+### <a><img src="https://api.iconify.design/lucide:globe.svg?color=%238A2BE2" width="18" height="18" align="center" /></a> Web & Frontend
 
-| Project                                                                                                                                                                                                                                                    | Live  | Stack                                                                                                                                                                                                                                                                                                   | Highlights                                                                 | Timeline                    |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------- | :-------------------------- |
-| <img src="https://api.iconify.design/lucide:bot.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Personal Assistant App](https://github.com/AhmedTyson/Personal-Assistance-ItI---Python-)**                                                | `N/A` | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jinja2](https://img.shields.io/badge/Jinja2-B41711?style=flat-square&logo=jinja&logoColor=white) | ITI Capstone: Sierra ILS integration with Blueprints and Jinja2 templates. | Sep 26, 2024 – Feb 13, 2026 |
-| <img src="https://api.iconify.design/lucide:library.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Sierra ILS](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Library%20Management%20System)**                     | `N/A` | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OOP](https://img.shields.io/badge/Logic-OOP-blue?style=flat-square) ![SOLID](https://img.shields.io/badge/Principle-SOLID-lightgrey?style=flat-square)                                            | OOP library management system utilizing SOLID principles and inheritance.  | May 31, 2025                |
-| <img src="https://api.iconify.design/lucide:calculator.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Car Loan Calculator](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Car%20Loan%20Calculator%20Application)** | `N/A` | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-3776AB?style=flat-square)                                                                                                                       | Amortization GUI with automated interest rates and validation logic.       | May 31, 2025                |
-| <img src="https://api.iconify.design/lucide:utensils.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Talabat Simulator](https://github.com/AhmedTyson/College-team-assignment-1)**                                                        | `N/A` | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Logic](https://img.shields.io/badge/Logic-Console-orange?style=flat-square)                                                                                                                       | Console food delivery sim with cart management and receipt generation.     | Jun 1, 2025 – Dec 17, 2025  |
-
-<br>
-
-### <img src="https://api.iconify.design/lucide:settings-2.svg?color=%238A2BE2" width="18" height="18" align="center" /> Automation & Tooling
-
-| Project                                                                                                                                                                                           | Live                                                                                                                                                                           | Stack                                                                                                                                                                                                                                                                                                                                  | Highlights                                                      | Timeline     |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------- | :----------- |
-| <img src="https://api.iconify.design/lucide:cloud.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Cloud Storage Bot](https://github.com/AhmedTyson/Telegrambot-node.js)**        | `N/A`                                                                                                                                                                          | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Telegram](https://img.shields.io/badge/Bot-Telegram-blue?style=flat-square&logo=telegram&logoColor=white) ![Drive](https://img.shields.io/badge/API-Google_Drive-yellow?style=flat-square&logo=googledrive&logoColor=black) | Telegram × Google Drive integration via OAuth 2.0.              | Jun 20, 2025 |
-| <img src="https://api.iconify.design/lucide:check-square.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Admin Checklist](https://github.com/AhmedTyson/checklist-application)** | [<img src="https://api.iconify.design/lucide:external-link.svg?color=%238A2BE2" width="14" height="14" align="center" />](https://ahmedtyson.github.io/checklist-application/) | ![JS](https://img.shields.io/badge/ES_Modules-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)                                   | Vanilla JS ESM architecture with a robust administrative panel. | Feb 12, 2026 |
+| Project                                                                                                                                                                                                                   | Details                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <a><img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%238A2BE2" width="14" height="14" align="center" /></a> **[JavaNova Academy](https://github.com/AhmedTyson/JavaNova-project)**                    | **Live:** [Demo](https://ahmedtyson.github.io/JavaNova-project/javanova.html) <br> **Stack:** <a>![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square)</a> <a>![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)</a> <a>![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square)</a> <br> **Highlights:** Space-themed academy with a 4-theme engine and Starfield animations. <br> **Timeline:** Jul 31 – Aug 01, 2025 |
+| <a><img src="https://api.iconify.design/lucide:shopping-bag.svg?color=%238A2BE2" width="14" height="14" align="center" /></a> **[Harizon & Gourmet Haven](https://github.com/AhmedTyson/BIS_Ecommerce_Frontend_project)** | **Live:** [Portfolio](https://ahmedtyson.github.io/BIS_Ecommerce_Frontend_project/) <br> **Stack:** <a>![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square)</a> <a>![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)</a> <br> **Highlights:** Multi-brand retail and restaurant frontend layouts. <br> **Timeline:** Dec 09, 2025                                                                                   |
+| <a><img src="https://api.iconify.design/lucide:dog.svg?color=%238A2BE2" width="14" height="14" align="center" /></a> **[PETOPIA Pet Adoption](https://github.com/AhmedTyson/PETOBIA-student-activity-team-project)**      | **Live:** [Demo](https://ahmedtyson.github.io/PETOBIA-student-activity-team-project/) <br> **Stack:** <a>![Responsive](https://img.shields.io/badge/Responsive-UI-brightgreen?style=flat-square)</a> <br> **Highlights:** Responsive mobile-first pet adoption site developed with a team. <br> **Timeline:** Nov 01, 2025                                                                                                                                    |
+| <a><img src="https://api.iconify.design/lucide:palette.svg?color=%238A2BE2" width="14" height="14" align="center" /></a> **[Artistic Workshop](https://github.com/AhmedTyson/artistic-project)**                          | **Live:** [Demo](https://ahmedtyson.github.io/artistic-project/) <br> **Stack:** <a>![Aesthetic](https://img.shields.io/badge/Design-Arts-purple?style=flat-square)</a> <br> **Highlights:** Art studio platform featuring digital booking and workshop catalogs. <br> **Timeline:** Feb 12, 2026                                                                                                                                                             |
+| <a><img src="https://api.iconify.design/lucide:layout-template.svg?color=%238A2BE2" width="14" height="14" align="center" /></a> **[Bootstrap Storefront](https://github.com/AhmedTyson/bootstrap-starter)**              | **Live:** [Demo](https://ahmedtyson.github.io/bootstrap-starter/) <br> **Stack:** <a>![Bootstrap](https://img.shields.io/badge/B5-7952B3?style=flat-square)</a> <br> **Highlights:** Minimalist ceramic store template built with Bootstrap grid. <br> **Timeline:** Feb 12, 2026                                                                                                                                                                             |
 
 <br>
 
-### <img src="https://api.iconify.design/lucide:book-open.svg?color=%238A2BE2" width="18" height="18" align="center" /> Knowledge Base
+### <a><img src="https://api.iconify.design/lucide:container.svg?color=%238A2BE2" width="18" height="18" align="center" /></a> Python & Backend
 
-| Project                                                                                                                                                                    | Live   | Description                                                                         | Timeline                    |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----- | :---------------------------------------------------------------------------------- | :-------------------------- |
-| <img src="https://api.iconify.design/lucide:book-open.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Guides](https://github.com/AhmedTyson/Guides)**     | `READ` | Bilingual Git/GitHub roadmap (AR+EN), vibe coding guide, CV writing guide           | Dec 15, 2025                |
-| <img src="https://api.iconify.design/lucide:archive.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Tasks Archive](https://github.com/AhmedTyson/Tasks)** | `READ` | 7 SQL tasks (CollegeDB enterprise schema), 6 C# OOP assignments, DEPI schedule page | May 10, 2025 – May 23, 2025 |
+| Project                                                                                                                                                                                                                                                           | Details                                                                                                                                                                                                                                                                                                               |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a><img src="https://api.iconify.design/lucide:bot.svg?color=%238A2BE2" width="14" height="14" align="center" /></a> **[Personal Assistant App](https://github.com/AhmedTyson/Personal-Assistance-ItI---Python-)**                                                | **Stack:** <a>![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square)</a> <a>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)</a> <br> **Highlights:** ITI Capstone: Sierra ILS integration with Blueprints and Jinja2 templates. <br> **Timeline:** Sep 26, 2024 – Feb 13, 2026 |
+| <a><img src="https://api.iconify.design/lucide:library.svg?color=%238A2BE2" width="14" height="14" align="center" /></a> **[Sierra ILS](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Library%20Management%20System)**                     | **Stack:** <a>![OOP](https://img.shields.io/badge/Logic-OOP-blue?style=flat-square)</a> <a>![SOLID](https://img.shields.io/badge/Principle-SOLID-lightgrey?style=flat-square)</a> <br> **Highlights:** OOP library management system utilizing SOLID principles and inheritance. <br> **Timeline:** May 31, 2025      |
+| <a><img src="https://api.iconify.design/lucide:calculator.svg?color=%238A2BE2" width="14" height="14" align="center" /></a> **[Car Loan Calculator](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Car%20Loan%20Calculator%20Application)** | **Stack:** <a>![Tkinter](https://img.shields.io/badge/GUI-Tkinter-3776AB?style=flat-square)</a> <br> **Highlights:** Amortization GUI with automated interest rates and validation logic. <br> **Timeline:** May 31, 2025                                                                                             |
+| <a><img src="https://api.iconify.design/lucide:utensils.svg?color=%238A2BE2" width="14" height="14" align="center" /></a> **[Talabat Simulator](https://github.com/AhmedTyson/College-team-assignment-1)**                                                        | **Stack:** <a>![Logic](https://img.shields.io/badge/Logic-Console-orange?style=flat-square)</a> <br> **Highlights:** Console food delivery sim with cart management and receipt generation. <br> **Timeline:** Jun 1 – Dec 17, 2025                                                                                   |
+
+<br>
+
+### <a><img src="https://api.iconify.design/lucide:settings-2.svg?color=%238A2BE2" width="18" height="18" align="center" /></a> Automation & Tooling
+
+| Project                                                                                                                                                                                                  | Details                                                                                                                                                                                                                                                                                           |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <a><img src="https://api.iconify.design/lucide:cloud.svg?color=%238A2BE2" width="14" height="14" align="center" /></a> **[Cloud Storage Bot](https://github.com/AhmedTyson/Telegrambot-node.js)**        | **Stack:** <a>![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square)</a> <a>![Telegram](https://img.shields.io/badge/Bot-Telegram-blue?style=flat-square)</a> <br> **Highlights:** Telegram × Google Drive integration via OAuth 2.0. <br> **Timeline:** Jun 20, 2025          |
+| <a><img src="https://api.iconify.design/lucide:check-square.svg?color=%238A2BE2" width="14" height="14" align="center" /></a> **[Admin Checklist](https://github.com/AhmedTyson/checklist-application)** | **Live:** [Demo](https://ahmedtyson.github.io/checklist-application/) <br> **Stack:** <a>![ES_Modules](https://img.shields.io/badge/ES_Modules-F7DF1E?style=flat-square)</a> <br> **Highlights:** Vanilla JS ESM architecture with a robust administrative panel. <br> **Timeline:** Feb 12, 2026 |
+
+<br>
+
+### <a><img src="https://api.iconify.design/lucide:book-open.svg?color=%238A2BE2" width="18" height="18" align="center" /></a> Knowledge Base
+
+| Resource                                                                                                                                                                          | Details                                                                                                                                               |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a><img src="https://api.iconify.design/lucide:book-open.svg?color=%238A2BE2" width="14" height="14" align="center" /></a> **[Guides](https://github.com/AhmedTyson/Guides)**     | **Status:** `READ` <br> Bilingual Git/GitHub roadmap (AR+EN), vibe coding guide, CV writing guide. <br> **Timeline:** Dec 15, 2025                    |
+| <a><img src="https://api.iconify.design/lucide:archive.svg?color=%238A2BE2" width="14" height="14" align="center" /></a> **[Tasks Archive](https://github.com/AhmedTyson/Tasks)** | **Status:** `READ` <br> 7 SQL tasks (CollegeDB enterprise schema), 6 C# OOP assignments, DEPI schedule page. <br> **Timeline:** May 10 – May 23, 2025 |
 
 <br>
 
 ---
 
-## <img src="https://api.iconify.design/lucide:activity.svg?color=%238A2BE2" width="20" height="20" align="center" /> Activity & Metrics
+## <a><img src="https://api.iconify.design/lucide:activity.svg?color=%238A2BE2" width="20" height="20" align="center" /></a> Activity & Metrics
 
 <br>
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AhmedTyson&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/AhmedTyson)
+<a>![Profile Views](https://komarev.com/ghpvc/?username=AhmedTyson&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)</a>
 
 </div>
 
 <br>
 
-### <img src="https://api.iconify.design/lucide:zap.svg?color=%238A2BE2" width="18" height="18" align="center" /> Engineering Pulse
+### <a><img src="https://api.iconify.design/lucide:zap.svg?color=%238A2BE2" width="18" height="18" align="center" /></a> Engineering Pulse
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <strong>Technical Velocity</strong><br><br>
-        <img src="/github-metrics.svg" width="100%"/>
-      </td>
-      <td width="50%" align="center">
-        <strong>Session Intensity</strong><br><br>
-        <img height="180em" src="https://streak-stats.demolab.com/?user=AhmedTyson&theme=radical&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=FFD700&currStreakLabel=FFFFFF&hide_border=true"/>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <strong>Anime Soul</strong><br><br>
-        <img src="/github-metrics-anime.svg?v=1" width="100%"/>
-      </td>
-      <td width="50%" align="center">
-        <strong>Kinetic Rhythm</strong><br><br>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedTyson&theme=react-dark&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFD700&area=true&hide_border=true" width="100%"/>
-      </td>
-    </tr>
-  </table>
+
+**Technical Velocity**
+<br>
+<a><img src="/github-metrics.svg" width="100%"/></a>
+
+<br><br>
+
+**Session Intensity**
+<br>
+<a><img src="https://streak-stats.demolab.com/?user=AhmedTyson&theme=radical&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=FFD700&currStreakLabel=FFFFFF&hide_border=true" width="100%" style="max-width: 500px;"/></a>
+
+<br><br>
+
+**Anime Soul**
+<br>
+<a><img src="/github-metrics-anime.svg?v=1" width="100%"/></a>
+
+<br><br>
+
+**Kinetic Rhythm**
+<br>
+<a><img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedTyson&theme=react-dark&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFD700&area=true&hide_border=true" width="100%"/></a>
+
 </div>
 
 <br>
@@ -206,7 +179,7 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake.svg" width="100%"/>
+    <a><img alt="github-snake" src="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake.svg" width="100%"/></a>
   </picture>
 </div>
 
@@ -214,7 +187,7 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 ---
 
-## <img src="https://api.iconify.design/lucide:award.svg?color=%238A2BE2" width="20" height="20" align="center" /> Verified Expertise
+## <a><img src="https://api.iconify.design/lucide:award.svg?color=%238A2BE2" width="20" height="20" align="center" /></a> Verified Expertise
 
 <div align="center">
 
@@ -231,7 +204,7 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 ---
 
-## <img src="https://api.iconify.design/lucide:mail.svg?color=%238A2BE2" width="20" height="20" align="center" /> Let's Connect
+## <a><img src="https://api.iconify.design/lucide:mail.svg?color=%238A2BE2" width="20" height="20" align="center" /></a> Let's Connect
 
 <br>
 
@@ -243,9 +216,6 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0D1117&height=120&section=footer&text=Every+commit+is+a+step+toward+the+future&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+<a><img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0D1117&height=120&section=footer&text=Every+commit+is+a+step+toward+the+future&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/></a>
 
 </div>
-
-
-
