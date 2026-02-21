@@ -149,11 +149,11 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 <div align="center">
 
-<a><img src="/github-metrics.svg" width="415"/></a>
-<a><img src="https://streak-stats.demolab.com/?user=AhmedTyson&theme=radical&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=FFD700&currStreakLabel=FFFFFF&hide_border=true" width="415"/></a>
-<br>
-<a><img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedTyson&theme=react-dark&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFD700&area=true&hide_border=true" width="415"/></a>
-<a><img src="/github-metrics-anime.svg?v=1" width="415"/></a>
+|                                                                                           **Technical Velocity**                                                                                            |                                                                                      **Session Intensity**                                                                                      |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                             <a><img src="/github-metrics.svg" width="415"/></a>                                                                             | <a><img src="https://streak-stats.demolab.com/?user=AhmedTyson&theme=radical&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=FFD700&currStreakLabel=FFFFFF&hide_border=true" width="415"/></a> |
+|                                                                                             **Kinetic Rhythm**                                                                                              |                                                                                         **Anime Soul**                                                                                          |
+| <a><img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedTyson&theme=react-dark&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFD700&area=true&hide_border=true" width="415"/></a> |                                                                  <a><img src="/github-metrics-anime.svg?v=1" width="415"/></a>                                                                  |
 
 </div>
 
