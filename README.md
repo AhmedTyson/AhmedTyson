@@ -149,27 +149,11 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 <div align="center">
 
-**Technical Velocity**
+<a><img src="/github-metrics.svg" width="415"/></a>
+<a><img src="https://streak-stats.demolab.com/?user=AhmedTyson&theme=radical&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=FFD700&currStreakLabel=FFFFFF&hide_border=true" width="415"/></a>
 <br>
-<a><img src="/github-metrics.svg" width="100%"/></a>
-
-<br><br>
-
-**Session Intensity**
-<br>
-<a><img src="https://streak-stats.demolab.com/?user=AhmedTyson&theme=radical&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=FFD700&currStreakLabel=FFFFFF&hide_border=true" width="100%" style="max-width: 500px;"/></a>
-
-<br><br>
-
-**Anime Soul**
-<br>
-<a><img src="/github-metrics-anime.svg?v=1" width="100%"/></a>
-
-<br><br>
-
-**Kinetic Rhythm**
-<br>
-<a><img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedTyson&theme=react-dark&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFD700&area=true&hide_border=true" width="100%"/></a>
+<a><img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedTyson&theme=react-dark&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFD700&area=true&hide_border=true" width="415"/></a>
+<a><img src="/github-metrics-anime.svg?v=1" width="415"/></a>
 
 </div>
 
@@ -179,7 +163,7 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake.svg"/>
-    <a><img alt="github-snake" src="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake.svg" width="100%"/></a>
+    <a><img alt="github-snake" src="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake.svg" width="840"/></a>
   </picture>
 </div>
 
