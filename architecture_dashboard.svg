@@ -80,7 +80,7 @@
             <svg class="icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" stroke="#8A2BE2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="m16.24 7.76l-1.804 5.411a2 2 0 0 1-1.265 1.265L7.76 16.24l1.804-5.411a2 2 0 0 1 1.265-1.265z"/></g></svg>
             Full Stack Navigator
           </h3>
-          <p>.NET Core to Vanilla JS · SQL to NoSQL · Cloud integrated</p>
+          <p>.NET Core to Vanilla JS · SQL to EF Core · Cloud integrated</p>
         </div>
         <div class="item">
           <h3>
