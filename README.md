@@ -118,7 +118,7 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 | Project                                                                                                                                                                                           | Details                                                                                                                                                                                                                                                                                    |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://api.iconify.design/lucide:cloud.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Cloud Storage Bot](https://github.com/AhmedTyson/Telegrambot-node.js)**        | **Stack:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square) ![Telegram](https://img.shields.io/badge/Bot-Telegram-blue?style=flat-square) <br> **Highlights:** Telegram × Google Drive integration via OAuth 2.0. <br> **Timeline:** Jun 20, 2025                 |
-| <img src="https://api.iconify.design/lucide:check-square.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Admin Checklist](https://github.com/AhmedTyson/checklist-application)** | **Live:** [Demo](https://ahmedtyson.github.io/checklist-application/) <br> **Stack:** ![ES_Modules](https://img.shields.io/badge/ES_Modules-F7DF1E?style=flat-square) <br> **Highlights:** Vanilla JS ESM architecture with a robust administrative panel. <br> **Timeline:** Feb 12, 2026 |
+| <img src="https://api.iconify.design/lucide:check-square.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Admin Checklist](https://github.com/AhmedTyson/checklist-application)** | **Live:** [Demo](https://ahmedtyson.github.io/checklist-application/learn-practice-js) <br> **Stack:** ![ES_Modules](https://img.shields.io/badge/ES_Modules-F7DF1E?style=flat-square) <br> **Highlights:** Vanilla JS ESM architecture with a robust administrative panel. <br> **Timeline:** Feb 12, 2026 |
 
 <br>
 
@@ -205,4 +205,5 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0D1117&height=120&section=footer&text=Every+commit+is+a+step+toward+the+future&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
+
 
