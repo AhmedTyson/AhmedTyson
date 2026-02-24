@@ -54,21 +54,37 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 **Core Engineering**
 <br>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,py,flask,sqlite&theme=dark" alt="Backend Stack" />
+<img src="https://api.iconify.design/logos:c-sharp.svg" width="36" height="36" alt="C#" /> &nbsp;
+<img src="https://api.iconify.design/logos:dotnet.svg" width="36" height="36" alt=".NET" /> &nbsp;
+<img src="https://api.iconify.design/logos:python.svg" width="36" height="36" alt="Python" /> &nbsp;
+<img src="https://api.iconify.design/logos:flask.svg" width="36" height="36" alt="Flask" /> &nbsp;
+<img src="https://api.iconify.design/logos:sqlite.svg" width="36" height="36" alt="SQLite" /> &nbsp;
+<img src="https://api.iconify.design/logos:microsoft-sql-server.svg" width="36" height="36" alt="SQL Server" />
 
-<br>
+<br><br>
 
 **Web & Interface Design**
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,netlify&theme=dark" alt="Frontend Stack" />
+<img src="https://api.iconify.design/logos:html-5.svg" width="36" height="36" alt="HTML" /> &nbsp;
+<img src="https://api.iconify.design/logos:css-3.svg" width="36" height="36" alt="CSS" /> &nbsp;
+<img src="https://api.iconify.design/logos:javascript.svg" width="36" height="36" alt="JS" /> &nbsp;
+<img src="https://api.iconify.design/logos:bootstrap.svg" width="36" height="36" alt="Bootstrap" /> &nbsp;
+<img src="https://api.iconify.design/logos:netlify-icon.svg" width="36" height="36" alt="Netlify" />
 
-<br>
+<br><br>
 
 **Orchestration & Workflow**
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,docker,bash,powershell&theme=dark" alt="Tools & Workflow" />
+<img src="https://api.iconify.design/logos:git-icon.svg" width="36" height="36" alt="Git" /> &nbsp;
+<img src="https://api.iconify.design/logos:github-icon.svg" width="36" height="36" alt="GitHub" /> &nbsp;
+<img src="https://api.iconify.design/logos:visual-studio-code.svg" width="36" height="36" alt="VSCode" /> &nbsp;
+<img src="https://api.iconify.design/logos:visual-studio.svg" width="36" height="36" alt="Visual Studio" /> &nbsp;
+<img src="https://api.iconify.design/logos:postman-icon.svg" width="36" height="36" alt="Postman" /> &nbsp;
+<img src="https://api.iconify.design/logos:docker-icon.svg" width="36" height="36" alt="Docker" /> &nbsp;
+<img src="https://api.iconify.design/logos:bash-icon.svg" width="36" height="36" alt="Bash" /> &nbsp;
+<img src="https://api.iconify.design/logos:powershell.svg" width="36" height="36" alt="PowerShell" />
 
-<br>
+<br><br>
 
 **The Intelligence Lab**
 <br>
