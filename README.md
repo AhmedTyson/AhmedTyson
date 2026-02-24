@@ -52,37 +52,40 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 <br>
 
-**Core Engineering**
+## <img src="https://api.iconify.design/lucide:cpu.svg?color=%238A2BE2" width="20" height="20" align="center" /> Tech Arsenal
+
+<div align="center">
+
 <br>
-<img src="https://api.iconify.design/logos:c-sharp.svg" width="36" height="36" alt="C#" /> &nbsp;
-<img src="https://api.iconify.design/logos:dotnet.svg" width="36" height="36" alt=".NET" /> &nbsp;
-<img src="https://api.iconify.design/logos:python.svg" width="36" height="36" alt="Python" /> &nbsp;
-<img src="https://api.iconify.design/logos:flask.svg" width="36" height="36" alt="Flask" /> &nbsp;
-<img src="https://api.iconify.design/logos:sqlite.svg" width="36" height="36" alt="SQLite" /> &nbsp;
-<img src="https://api.iconify.design/devicon:microsoftsqlserver.svg" width="36" height="36" alt="SQL Server" />
 
-<br><br>
+### 🌌 Core Engineering
 
-**Web & Interface Design**
+|                                                                                                        |                                                                                                          |                                                                                                            |                                                                                                                     |                                                                                                            |                                                                                                                                          |
+| :----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://www.vectorlogo.zone/logos/csharp/csharp-icon.svg" width="50" height="50" alt="C#" /> | <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="50" height="50" alt=".NET" /> | <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" height="50" alt="Python" /> | <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="50" height="50" alt="Flask" /> | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50" height="50" alt="SQLite" /> | <img src="https://www.vectorlogo.zone/logos/microsoft_sqlserver/microsoft_sqlserver-icon.svg" width="50" height="50" alt="SQL Server" /> |
+|                                                 **C#**                                                 |                                                 **.NET**                                                 |                                                 **Python**                                                 |                                                      **Flask**                                                      |                                                 **SQLite**                                                 |                                                              **SQL Server**                                                              |
+
 <br>
-<img src="https://api.iconify.design/logos:html-5.svg" width="36" height="36" alt="HTML" /> &nbsp;
-<img src="https://api.iconify.design/logos:css-3.svg" width="36" height="36" alt="CSS" /> &nbsp;
-<img src="https://api.iconify.design/logos:javascript.svg" width="36" height="36" alt="JS" /> &nbsp;
-<img src="https://api.iconify.design/logos:bootstrap.svg" width="36" height="36" alt="Bootstrap" /> &nbsp;
-<img src="https://api.iconify.design/logos:netlify-icon.svg" width="36" height="36" alt="Netlify" />
 
-<br><br>
+### 🎨 Web & Interface Design
 
-**Orchestration & Workflow**
+|                                                                                                              |                                                                                                         |                                                                                                                |                                                                                                                           |                                                                                                               |
+| :----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+| <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50" height="50" alt="HTML" /> | <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="50" height="50" alt="CSS" /> | <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="50" height="50" alt="JS" /> | <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="50" height="50" alt="Bootstrap" /> | <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="50" height="50" alt="Netlify" /> |
+|                                                  **HTML5**                                                   |                                                **CSS3**                                                 |                                                 **JavaScript**                                                 |                                                       **Bootstrap**                                                       |                                                  **Netlify**                                                  |
+
 <br>
-<img src="https://api.iconify.design/logos:git-icon.svg" width="36" height="36" alt="Git" /> &nbsp;
-<img src="https://api.iconify.design/logos:github-icon.svg" width="36" height="36" alt="GitHub" /> &nbsp;
-<img src="https://api.iconify.design/logos:visual-studio-code.svg" width="36" height="36" alt="VSCode" /> &nbsp;
-<img src="https://api.iconify.design/logos:visual-studio.svg" width="36" height="36" alt="Visual Studio" /> &nbsp;
-<img src="https://api.iconify.design/logos:postman-icon.svg" width="36" height="36" alt="Postman" /> &nbsp;
-<img src="https://api.iconify.design/logos:docker-icon.svg" width="36" height="36" alt="Docker" /> &nbsp;
-<img src="https://api.iconify.design/logos:bash-icon.svg" width="36" height="36" alt="Bash" /> &nbsp;
-<img src="https://api.iconify.design/devicon:powershell.svg" width="36" height="36" alt="PowerShell" />
+
+### 🛠️ Orchestration & Workflow
+
+|                                                                                                           |                                                                                                            |                                                                                                                                  |                                                                                                                               |                                                                                                                     |                                                                                                            |                                                                                                              |
+| :-------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git" /> | <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" height="50" alt="GitHub" /> | <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="50" height="50" alt="VSCode" /> | <img src="https://www.vectorlogo.zone/logos/visualstudio/visualstudio-icon.svg" width="50" height="50" alt="Visual Studio" /> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman" /> | <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50" height="50" alt="Docker" /> | <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="50" height="50" alt="Bash" /> |
+|                                                  **Git**                                                  |                                                 **GitHub**                                                 |                                                            **VSCode**                                                            |                                                          **Studio**                                                           |                                                     **Postman**                                                     |                                                 **Docker**                                                 |                                                   **Bash**                                                   |
+
+<br>
+
+</div>
 
 <br><br>
 
