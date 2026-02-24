@@ -54,8 +54,7 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 **Development Stack**
 <br>
-   <img src="https://skillicons.dev/icons?i=cs,dotnet,py,flask,html,css,js,sqlite&theme=dark" alt="Tech Stack" />
-
+<img src="https://skillicons.dev/icons?i=git,github,netlify,vscode,postman,docker,bash&theme=dark" alt="Tech Stack" />
 
 <br>
 
@@ -205,6 +204,7 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0D1117&height=120&section=footer&text=Every+commit+is+a+step+toward+the+future&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+
 
 
 
