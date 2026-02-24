@@ -59,7 +59,7 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 <img src="https://api.iconify.design/logos:python.svg" width="36" height="36" alt="Python" /> &nbsp;
 <img src="https://api.iconify.design/logos:flask.svg" width="36" height="36" alt="Flask" /> &nbsp;
 <img src="https://api.iconify.design/logos:sqlite.svg" width="36" height="36" alt="SQLite" /> &nbsp;
-<img src="https://api.iconify.design/logos:microsoft-sql-server.svg" width="36" height="36" alt="SQL Server" />
+<img src="https://api.iconify.design/devicon:microsoftsqlserver.svg" width="36" height="36" alt="SQL Server" />
 
 <br><br>
 
@@ -82,7 +82,7 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 <img src="https://api.iconify.design/logos:postman-icon.svg" width="36" height="36" alt="Postman" /> &nbsp;
 <img src="https://api.iconify.design/logos:docker-icon.svg" width="36" height="36" alt="Docker" /> &nbsp;
 <img src="https://api.iconify.design/logos:bash-icon.svg" width="36" height="36" alt="Bash" /> &nbsp;
-<img src="https://api.iconify.design/logos:powershell.svg" width="36" height="36" alt="PowerShell" />
+<img src="https://api.iconify.design/devicon:powershell.svg" width="36" height="36" alt="PowerShell" />
 
 <br><br>
 
