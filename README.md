@@ -52,42 +52,23 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 <br>
 
-## <img src="https://api.iconify.design/lucide:cpu.svg?color=%238A2BE2" width="20" height="20" align="center" /> Tech Arsenal
-
-<div align="center">
+**Core Engineering**
+<br>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,py,flask,sqlite&theme=dark" alt="Backend Stack" />
 
 <br>
 
-### 🌌 Core Engineering
-
-|                                                                                                        |                                                                                                          |                                                                                                            |                                                                                                                     |                                                                                                            |                                                                                                                                          |
-| :----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://www.vectorlogo.zone/logos/csharp/csharp-icon.svg" width="50" height="50" alt="C#" /> | <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="50" height="50" alt=".NET" /> | <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" height="50" alt="Python" /> | <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="50" height="50" alt="Flask" /> | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50" height="50" alt="SQLite" /> | <img src="https://www.vectorlogo.zone/logos/microsoft_sqlserver/microsoft_sqlserver-icon.svg" width="50" height="50" alt="SQL Server" /> |
-|                                                 **C#**                                                 |                                                 **.NET**                                                 |                                                 **Python**                                                 |                                                      **Flask**                                                      |                                                 **SQLite**                                                 |                                                              **SQL Server**                                                              |
+**Web & Interface Design**
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,netlify&theme=dark" alt="Frontend Stack" />
 
 <br>
 
-### 🎨 Web & Interface Design
-
-|                                                                                                              |                                                                                                         |                                                                                                                |                                                                                                                           |                                                                                                               |
-| :----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
-| <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50" height="50" alt="HTML" /> | <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="50" height="50" alt="CSS" /> | <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="50" height="50" alt="JS" /> | <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="50" height="50" alt="Bootstrap" /> | <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="50" height="50" alt="Netlify" /> |
-|                                                  **HTML5**                                                   |                                                **CSS3**                                                 |                                                 **JavaScript**                                                 |                                                       **Bootstrap**                                                       |                                                  **Netlify**                                                  |
+**Orchestration & Workflow**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,docker,bash,powershell&theme=dark" alt="Tools & Workflow" />
 
 <br>
-
-### 🛠️ Orchestration & Workflow
-
-|                                                                                                           |                                                                                                            |                                                                                                                                  |                                                                                                                               |                                                                                                                     |                                                                                                            |                                                                                                              |
-| :-------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git" /> | <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" height="50" alt="GitHub" /> | <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="50" height="50" alt="VSCode" /> | <img src="https://www.vectorlogo.zone/logos/visualstudio/visualstudio-icon.svg" width="50" height="50" alt="Visual Studio" /> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman" /> | <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50" height="50" alt="Docker" /> | <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="50" height="50" alt="Bash" /> |
-|                                                  **Git**                                                  |                                                 **GitHub**                                                 |                                                            **VSCode**                                                            |                                                          **Studio**                                                           |                                                     **Postman**                                                     |                                                 **Docker**                                                 |                                                   **Bash**                                                   |
-
-<br>
-
-</div>
-
-<br><br>
 
 **The Intelligence Lab**
 <br>
