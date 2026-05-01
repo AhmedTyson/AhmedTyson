@@ -1,153 +1,221 @@
+<div align="center">
 
-# ✨ Ahmed Elsayed Abdel-Al
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0D1117&height=180&section=header&text=Ahmed%20Elsayed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Digital%20Alchemist%20%C2%B7%20Full%20Stack%20.NET%20Developer%20%C2%B7%20Database%20Architect&descAlignY=55&descSize=16" width="100%"/>
 
-## 🧪 `Digital Alchemist` 
-*Full Stack .NET Developer | Python Developer | Database Architect*  
-*Business Information Systems · Data Explorer · AI-Augmented Solutions*
+<br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=5D8AA8&center=true&width=500&lines=Turning+Data+Into+Decisions;Crafting+Elegant+Solutions;Unlocking+Potential+With+Code" alt="Animated typing text" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=900&lines=Transforming+Data+Into+Strategic+Decisions;Full+Stack+.NET+%26+Python+Developer;Security-First+%7C+SOLID+%7C+AI-Augmented;B.I.S.+Undergraduate+@+Capital+University" alt="Typing SVG" width="100%"/>
 
----
+<br>
 
-<table align="center" border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AhmedTyson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&cache=none" height="150" alt="stats graph" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedTyson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&cache=none" height="150" alt="languages graph" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedTyson&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats" />
-    </td>
-  </tr>
-</table>
+</div>
+
+<br>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake.svg" />
-</picture>
+## <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%238A2BE2" width="20" height="20" align="center" /> About
 
 ---
 
-## 🛠️ Technical Arsenal
+> "Building reliable backend systems and translating business needs into clean code."
+
+Business Information Systems undergraduate at **Capital University** (GPA: 3.63) and certified graduate of the **Digital Egypt Pioneers Initiative (DEPI)** Full Stack .NET Developer track. Engineering approach centers on designing secure architectures, efficient relational databases, and practical automation workflows that scale reliably.
+
+<br>
+
+<img src="https://api.iconify.design/lucide:layout.svg?color=%238A2BE2" width="16" height="16" align="center" /> **Digital Architect**: Transforming complex business requirements into maintainable, security-first digital products.
+<br>
+<img src="https://api.iconify.design/lucide:database.svg?color=%238A2BE2" width="16" height="16" align="center" /> **Core Stack**: Enterprise ASP.NET Core, SQL Server optimization, and Python backend development.
+<br>
+<img src="https://api.iconify.design/lucide:bot.svg?color=%238A2BE2" width="16" height="16" align="center" /> **Smart Automation**: Integrating LLMs and custom workflows to accelerate development and eliminate repetitive tasks.
+
+---
+
+## <img src="https://api.iconify.design/lucide:component.svg?color=%238A2BE2" width="20" height="20" align="center" /> Architecture Dashboard
 
 <div align="center">
 
-### **Core Stack**
+<br>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" title=".NET"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core" title=".NET Core"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" title="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" title="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>
-  <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" height="40" alt="Excel" title="Excel"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" height="40" alt="ChatGPT" title="ChatGPT"/>
-  <img src="https://img.icons8.com/?size=100&id=YWOidjGxCpFW&format=png&color=000000" height="40" alt="DeepSeek" title="DeepSeek"/>
-</p>
+<img src="./architecture_dashboard.svg" alt="Architecture Dashboard" />
+
+<br>
+
+</div>
 
 ---
 
-## 🏆 Certifications
+## <img src="https://api.iconify.design/lucide:cpu.svg?color=%238A2BE2?v=5" width="20" height="20" align="center" /> Tech Arsenal
 
 <div align="center">
 
-| Certification                                                                                                                           | Provider   | Skills Applied     | Badge                                                                                                                                                                                                                                              |
-| --------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[GitHub Foundations](https://www.datacamp.com/completed/statement-of-accomplishment/track/f1d16eb46190782bc484d441ab62c26be5a3b7b4)** | DataCamp   | Git, Collaboration | [![GitHub Certified](https://img.shields.io/badge/DataCamp-GitHub_Foundations-01A4D2?style=flat-square&logo=datacamp&logoWidth=15)](https://www.datacamp.com/completed/statement-of-accomplishment/track/f1d16eb46190782bc484d441ab62c26be5a3b7b4) |
-| **[Python & Flask](https://www.ude.my/UC-853a36da-af1c-4bff-a5f6-4bc4b66a90e5)**                                                        | Udemy      | OOP, Web Dev       | ![Python Certified](https://img.shields.io/badge/Python-Advanced-3776AB?logo=python)                                                                                                                                                               |
-| **[AI Essentials](https://intranet.alxswe.com/certificates/NFzyxYreET)**                                                                | alx_africa | Data Visualization | ![AI Certified](https://img.shields.io/badge/AI-Fundamentals-FF6F00?logo=ai)                                                                                                                                                                       |
-| **[Excel Advanced](https://ude.my/UC-eac85e19-e391-4906-9404-8439b955c85d)**                                                            | Udemy      | Data Analysis      | ![Excel Expert](https://img.shields.io/badge/Excel-Expert-217346?logo=microsoft-excel)                                                                                                                                                             |
+<br>
+
+### <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%238A2BE2" width="20" height="20" align="center" /> Core Engineering
+
+|                                                                                                                                        |                                                                                                              |                                                                                                                |                                                                                                                                         |                                                                                                                |                                                                                                                                                                     |
+| :------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg?v=6" width="50" height="50" alt="C#" /> | <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg?v=6" width="50" height="50" alt=".NET" /> | <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg?v=6" width="50" height="50" alt="Python" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg?v=6" width="50" height="50" alt="Flask" /> | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg?v=6" width="50" height="50" alt="SQLite" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg?v=6" width="50" height="50" alt="SQL Server" /> |
+|                                                                 **C#**                                                                 |                                                   **.NET**                                                   |                                                   **Python**                                                   |                                                                **Flask**                                                                |                                                   **SQLite**                                                   |                                                                           **SQL Server**                                                                            |
+
+<br>
+
+### <img src="https://api.iconify.design/lucide:layout.svg?color=%238A2BE2" width="20" height="20" align="center" /> Web & Interface Design
+
+|                                                                                                                  |                                                                                                                                     |                                                                                                                    |                                                                                                                               |                                                                                                                   |
+| :--------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
+| <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg?v=7" width="50" height="50" alt="HTML" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg?v=7" width="50" height="50" alt="CSS" /> | <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg?v=7" width="50" height="50" alt="JS" /> | <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg?v=7" width="50" height="50" alt="Bootstrap" /> | <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg?v=7" width="50" height="50" alt="Netlify" /> |
+|                                                    **HTML5**                                                     |                                                              **CSS3**                                                               |                                                   **JavaScript**                                                   |                                                         **Bootstrap**                                                         |                                                    **Netlify**                                                    |
+
+<br>
+
+### <img src="https://api.iconify.design/lucide:workflow.svg?color=%238A2BE2" width="20" height="20" align="center" /> Orchestration & Workflow
+
+|                                                                                                                |                                                                                                                          |                                                                                                                                                                |                                                                                                                     |                                                                                                                                                             |                                                                                                                          |                                                                                                                 |                                                                                                                                       |
+| :------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg?v=25" width="50" height="50" alt="Git" /> | <img src="https://api.iconify.design/octicon:mark-github-16.svg?color=white&v=25" width="50" height="50" alt="GitHub" /> | <a href="https://antigravity.google/?hl=ar"><img src="https://api.iconify.design/logos:google-gemini.svg?v=25" width="50" height="50" alt="Antigravity" /></a> | <img src="https://api.iconify.design/simple-icons:n8n.svg?color=%23EA4B71&v=25" width="50" height="50" alt="n8n" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg?v=25" width="50" height="50" alt="Visual Studio" /> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg?v=25" width="50" height="50" alt="Postman" /> | <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg?v=25" width="50" height="50" alt="Docker" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg?v=25" width="50" height="50" alt="Bash" /> |
+|                                                    **Git**                                                     |                                                        **GitHub**                                                        |                                                                        **Antigravity**                                                                         |                                                       **n8n**                                                       |                                                                      **Visual Studio**                                                                      |                                                       **Postman**                                                        |                                                   **Docker**                                                    |                                                               **Bash**                                                                |
+
+### <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%238A2BE2" width="20" height="20" align="center" /> The Intelligence Lab
+
+|                                                                                                                       |                                                                                                                                             |                                                                                                                                                      |                                                                                                   |
+| :-------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
+| <img src="https://api.iconify.design/simple-icons:ollama.svg?color=white&v=22" width="50" height="50" alt="Ollama" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg?v=22" width="50" height="50" alt="Notion" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg?v=22" width="50" height="50" alt="EF Core" /> | <img src="https://api.iconify.design/logos:jwt-icon.svg?v=22" width="50" height="50" alt="JWT" /> |
+|                                                      **Ollama**                                                       |                                                                 **Notion**                                                                  |                                                                     **EF Core**                                                                      |                                              **JWT**                                              |
+
+<br>
 
 </div>
 
 ---
 
-## 🚀 Project Showcase
+## <img src="https://api.iconify.design/lucide:binary.svg?color=%238A2BE2" width="20" height="20" align="center" /> Project Showcase
 
-### **Database Excellence** 💾
+<br>
 
-| Project | Description | Tech | Highlights |
-| :-- | :-- | :-- | :-- |
-| **[CollegeDB](https://github.com/AhmedTyson/CollegeDB)** | Enterprise-grade college management system | SQL Server, T-SQL | • 9 relational tables with 11 FK relationships<br>• RBAC with 4 distinct roles<br>• Optimized stored procedures<br>• Comprehensive ERD design<br>• Realistic sample data |
+### <img src="https://api.iconify.design/lucide:trophy.svg?color=%238A2BE2" width="18" height="18" align="center" /> Flagship Projects
 
-### **Python Excellence** 🐍
+| Project                                                                                                                                                                                                                            | Details                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://api.iconify.design/lucide:search.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[BIS Schedule Search](https://github.com/AhmedTyson/bis-schedule)**                                             | **Live:** [External Link](https://ahmedtyson.github.io/bis-schedule/) <br> **Stack:** ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) <br> **Highlights:** Bilingual search engine with offline PWA support and worker-thread logic. <br> **Timeline:** Dec 13, 2025 – Feb 14, 2026            |
+| <img src="https://api.iconify.design/lucide:shield-check.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Tafsilk](https://github.com/AhmedTyson/Tafsilk)**                                                        | **Live:** [External Link](https://tafsilk.runasp.net) <br> **Stack:** ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) <br> **Highlights:** Multi-role e-commerce with Stripe, Google OAuth, and RBAC security. <br> **Timeline:** Nov 24, 2025 – Dec 07, 2025 |
+| <img src="https://api.iconify.design/lucide:database.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[CollegeDB](https://github.com/AhmedTyson/Tasks/tree/main/1.%20SQL%20Tasks/CollegeDB%20project-%20Task%205)** | **Docs:** [View Output](https://ahmedtyson.github.io/Tasks/) <br> **Stack:** ![SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Schema](https://img.shields.io/badge/Relational_DB-005C84?style=flat-square&logo=databricks&logoColor=white) <br> **Highlights:** Relational schema with stored procedures and 4-level privilege models. <br> **Timeline:** May 10, 2025 – May 23, 2025                                                                                            |
 
-| Project | Description | Tech |
-| :-- | :-- | :-- |
-| **[Library Management System](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Library%20Management%20System)** | OOP-based management system | Python, OOP |
-| **[Car Loan Calculator](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Car%20Loan%20Calculator%20Application)** | Financial modeling GUI | Tkinter, Python |
-| **[Talabat Application](https://github.com/AhmedTyson/College-team-assignment-1)** | Food delivery simulator | Python, CLI |
+<br>
 
-### **Web Wizardry** 🌐
+### <img src="https://api.iconify.design/lucide:globe.svg?color=%238A2BE2" width="18" height="18" align="center" /> Web & Frontend
 
-| Project | Description | Tech |
-| :-- | :-- | :-- |
-| **[PETOPIA](https://github.com/AhmedTyson/PETOBIA-student-activity-team-project)** | Pet adoption platform | HTML5, CSS3 |
-| **[Personal Assistant](https://github.com/AhmedTyson/Personal-Assistance-ItI---Python-)** | AI-powered web app | Flask, GPT-3 |
+| Project                                                                                                                                                                                                            | Details                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://api.iconify.design/lucide:book-marked.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Synapse Library](https://github.com/AhmedTyson/synapse-library)**                         | **Live:** [Demo](https://ahmedtyson.github.io/synapse-library) <br> **Stack:** ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) <br> **Highlights:** Dynamic bilingual SPA for modular study docs and tracking. <br> **Timeline:** Feb 24, 2026                                                                                                                                   |
+| <img src="https://api.iconify.design/lucide:palette.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Artistic Workshop](https://github.com/AhmedTyson/artistic-project)**                          | **Live:** [Demo](https://ahmedtyson.github.io/artistic-project/) <br> **Stack:** ![Aesthetic](https://img.shields.io/badge/Design-Arts-purple?style=flat-square) <br> **Highlights:** Art studio platform featuring digital booking and workshop catalogs. <br> **Timeline:** Feb 12, 2026                                                                                                                                               |
+| <img src="https://api.iconify.design/lucide:layout-template.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Bootstrap Storefront](https://github.com/AhmedTyson/bootstrap-starter)**              | **Live:** [Demo](https://ahmedtyson.github.io/bootstrap-starter/) <br> **Stack:** ![Bootstrap](https://img.shields.io/badge/B5-7952B3?style=flat-square) <br> **Highlights:** Minimalist ceramic store template built with Bootstrap grid. <br> **Timeline:** Feb 12, 2026                                                                                                                                                               |
+| <img src="https://api.iconify.design/lucide:shopping-bag.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Harizon & Gourmet Haven](https://github.com/AhmedTyson/BIS_Ecommerce_Frontend_project)** | **Live:** [Portfolio](https://ahmedtyson.github.io/BIS_Ecommerce_Frontend_project/) <br> **Stack:** ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square) <br> **Highlights:** Multi-brand retail and restaurant frontend layouts. <br> **Timeline:** Dec 09, 2025                                                                            |
+| <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[JavaNova Academy](https://github.com/AhmedTyson/JavaNova-project)**                    | **Live:** [Demo](https://ahmedtyson.github.io/JavaNova-project/javanova.html) <br> **Stack:** ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square) <br> **Highlights:** Space-themed academy with a 4-theme engine and Starfield animations. <br> **Timeline:** Jul 31 – Aug 01, 2025 |
+| <img src="https://api.iconify.design/lucide:dog.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[PETOPIA Pet Adoption](https://github.com/AhmedTyson/PETOBIA-student-activity-team-project)**      | **Live:** [Demo](https://ahmedtyson.github.io/PETOBIA-student-activity-team-project/) <br> **Stack:** ![Responsive](https://img.shields.io/badge/Responsive-UI-brightgreen?style=flat-square) <br> **Highlights:** Responsive mobile-first pet adoption site developed with a team. <br> **Timeline:** Mar 01, 2025                                                                                                                      |
+
+<br>
+
+### <img src="https://api.iconify.design/lucide:container.svg?color=%238A2BE2" width="18" height="18" align="center" /> Python & Backend
+
+| Project                                                                                                                                                                                                                                                    | Details                                                                                                                                                                                                                                                                                                 |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://api.iconify.design/lucide:bot.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Personal Assistant App](https://github.com/AhmedTyson/Personal-Assistance-ItI---Python-)**                                                | **Stack:** ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) <br> **Highlights:** ITI Capstone: Sierra ILS integration with Blueprints and Jinja2 templates. <br> **Timeline:** Sep 26, 2024 – Feb 13, 2026 |
+| <img src="https://api.iconify.design/lucide:utensils.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Talabat Simulator](https://github.com/AhmedTyson/College-team-assignment-1)**                                                        | **Stack:** ![Logic](https://img.shields.io/badge/Logic-Console-orange?style=flat-square) <br> **Highlights:** Console food delivery sim with cart management and receipt generation. <br> **Timeline:** Jun 1 – Dec 17, 2025                                                                            |
+| <img src="https://api.iconify.design/lucide:library.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Sierra ILS](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Library%20Management%20System)**                     | **Stack:** ![OOP](https://img.shields.io/badge/Logic-OOP-blue?style=flat-square) ![SOLID](https://img.shields.io/badge/Principle-SOLID-lightgrey?style=flat-square) <br> **Highlights:** OOP library management system utilizing SOLID principles and inheritance. <br> **Timeline:** May 31, 2025      |
+| <img src="https://api.iconify.design/lucide:calculator.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Car Loan Calculator](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Car%20Loan%20Calculator%20Application)** | **Stack:** ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-3776AB?style=flat-square) <br> **Highlights:** Amortization GUI with automated interest rates and validation logic. <br> **Timeline:** May 31, 2025                                                                                      |
+
+<br>
+
+### <img src="https://api.iconify.design/lucide:settings-2.svg?color=%238A2BE2" width="18" height="18" align="center" /> Automation & Tooling
+
+| Project                                                                                                                                                                                           | Details                                                                                                                                                                                                                                                                                                     |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://api.iconify.design/lucide:check-square.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Admin Checklist](https://github.com/AhmedTyson/checklist-application)** | **Live:** [Demo](https://ahmedtyson.github.io/checklist-application/learn-practice-js) <br> **Stack:** ![ES_Modules](https://img.shields.io/badge/ES_Modules-F7DF1E?style=flat-square) <br> **Highlights:** Vanilla JS ESM architecture with a robust administrative panel. <br> **Timeline:** Feb 12, 2026 |
+| <img src="https://api.iconify.design/lucide:cloud.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Cloud Storage Bot](https://github.com/AhmedTyson/Telegrambot-node.js)**        | **Stack:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square) ![Telegram](https://img.shields.io/badge/Bot-Telegram-blue?style=flat-square) <br> **Highlights:** Telegram × Google Drive integration via OAuth 2.0. <br> **Timeline:** Jun 20, 2025                                  |
+
+<br>
+
+### <img src="https://api.iconify.design/lucide:book-open.svg?color=%238A2BE2" width="18" height="18" align="center" /> Knowledge Base
+
+| Resource                                                                                                                                                                   | Details                                                                                                                                               |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://api.iconify.design/lucide:book-open.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Guides](https://github.com/AhmedTyson/Guides)**     | **Status:** `READ` <br> Bilingual Git/GitHub roadmap (AR+EN), vibe coding guide, CV writing guide. <br> **Timeline:** Dec 15, 2025                    |
+| <img src="https://api.iconify.design/lucide:archive.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Tasks Archive](https://github.com/AhmedTyson/Tasks)** | **Status:** `READ` <br> 7 SQL tasks (CollegeDB enterprise schema), 6 C# OOP assignments, DEPI schedule page. <br> **Timeline:** May 10 – May 23, 2025 |
+
+<br>
 
 ---
 
-## 📊 Skills Matrix
+## <img src="https://api.iconify.design/lucide:activity.svg?color=%238A2BE2" width="20" height="20" align="center" /> Activity & Metrics
+
+<br>
 
 <div align="center">
 
-```mermaid
-pie
-    title Technical Focus Areas
-    "Python Development" : 30
-    "Database Design" : 25
-    ".NET Development" : 20
-    "Web Development" : 15
-    "AI Integration" : 10
-```
+<img src="https://komarev.com/ghpvc/?username=AhmedTyson&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
----
-<div align="left">
+<br>
 
-## 🌟 Special Sauce
-
-**What makes my work unique:**
-
-- 🧠 **AI-Augmented Development**: Leveraging ChatGPT for code optimization and DeepSeek for complex problem solving
-- 🛡️ **Secure Architecture**: Implementing RBAC systems like in CollegeDB for enterprise security
-- 🗺️ **Data Modeling Expertise**: Designing relational schemas with comprehensive ERDs
-- 🎯 **Precision Engineering**: Clean, maintainable code with thorough documentation
-</div>
-
----
+### <img src="https://api.iconify.design/lucide:zap.svg?color=%238A2BE2" width="18" height="18" align="center" /> Engineering Pulse
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-elsayed-8b9bba28a/)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github)](https://github.com/AhmedTyson)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:ahmedmessi2580@gmail.com)
+|            **Technical Velocity**            |                                                                                                                                                                               **Kinetic Rhythm & Session Intensity**                                                                                                                                                                               |
+| :------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="/github-metrics.svg" width="415"/> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedTyson&theme=react-dark&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFD700&area=true&hide_border=true" width="415"/> <br> <img src="https://streak-stats.demolab.com/?user=AhmedTyson&theme=radical&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=FFD700&currStreakLabel=FFFFFF&hide_border=true" width="415"/> |
+
+|                     **Anime Soul**                     |
+| :----------------------------------------------------: |
+| <img src="/github-metrics-anime.svg?v=1" width="840"/> |
+
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/output/github-snake.svg" width="840"/>
+  </picture>
+</div>
+
+<br>
+
+---
+
+## <img src="https://api.iconify.design/lucide:award.svg?color=%238A2BE2" width="20" height="20" align="center" /> Verified Expertise
+
+<div align="center">
+
+<br>
+
+[![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-24292e?style=for-the-badge&logo=github&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/track/f1d16eb46190782bc484d441ab62c26be5a3b7b4)
+[![Python & Flask](https://img.shields.io/badge/Python-Flask_Dev-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.ude.my/UC-853a36da-af1c-4bff-a5f6-4bc4b66a90e5)
+[![AI Essentials](https://img.shields.io/badge/ALX-AI_Essentials-000000?style=for-the-badge&logo=alx&logoColor=white)](https://intranet.alxswe.com/certificates/NFzyxYreET)
+[![Excel Advanced](https://img.shields.io/badge/Microsoft-Excel_Expert-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://ude.my/UC-eac85e19-e391-4906-9404-8439b955c85d)
+
+<br>
 
 </div>
 
 ---
 
-<p align="center"> 
-  <em>"When not coding, you'll find me analyzing football stats ⚽ or architecting database solutions 💾"
-  </em> 
-</p>
-<div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=AhmedTyson&color=blueviolet&style=flat" alt="Profile views" /> 
-</div>
+## <img src="https://api.iconify.design/lucide:mail.svg?color=%238A2BE2" width="20" height="20" align="center" /> Let's Connect
+
+<br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-elsayed-8b9bba28a)
+[![Email](https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.elsayed.abdelal.2025@gmail.com)
+[![CV](https://img.shields.io/badge/CV-View_on_LinkedIn-blueviolet?style=for-the-badge&logo=readme&logoColor=white)](https://linkedin.com/in/ahmed-elsayed-8b9bba28a)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0D1117&height=120&section=footer&text=Every+commit+is+a+step+toward+the+future&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
