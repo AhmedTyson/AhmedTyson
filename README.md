@@ -52,11 +52,7 @@ Primary focus is backend systems — API design, relational database optimizatio
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/main/architecture_dashboard.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/main/architecture_dashboard.svg">
-  <img src="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/main/architecture_dashboard.svg" alt="Architecture Dashboard" width="100%">
-</picture>
+<img src="./architecture_dashboard.svg" alt="Architecture Dashboard" width="90%" />
 
 <br>
 
@@ -116,7 +112,7 @@ Primary focus is backend systems — API design, relational database optimizatio
 
 | Program | Role | Period | Outcome |
 | :------ | :--- | :----- | :------ |
-| <img src="https://api.iconify.design/lucide:server.svg?color=%238A2BE2" width="14" height="14" align="center" /> **ThreeDOS Backend Program** `Backend Delegate` | Team Leader — Team 4 | Apr 2026 – Present | PHP · Laravel 12 · REST API design · Redis caching · JWT auth — team lead on Task 9 e-commerce API, individual tasks delivered across sessions 4–7 |
+| <img src="https://api.iconify.design/lucide:server.svg?color=%238A2BE2" width="14" height="14" align="center" /> **ThreeDOS Backend Program** `Backend Delegate` | Backend Delegate | Apr 2026 – Present | PHP · Laravel 12 · REST API design · Redis caching · JWT auth — team lead on Task 9 e-commerce API, individual tasks delivered across sessions 4–7 |
 | <img src="https://api.iconify.design/simple-icons:egypt.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Digital Egypt Pioneers Initiative (DEPI)** | Full Stack .NET Developer Track | 2025 | Certified graduate — Tafsilk as capstone · 6 C# OOP assignments · 7 SQL tasks |
 | <img src="https://api.iconify.design/lucide:flask-conical.svg?color=%238A2BE2" width="14" height="14" align="center" /> **ITI (Information Technology Institute)** | Python & Flask Developer | Sep 2024 | Capstone: Personal Assistant App — Sierra ILS integration with Blueprints & Jinja2 |
 | <img src="https://api.iconify.design/lucide:university.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Capital University — B.I.S.** | Undergraduate Student | 2023 – Present | GPA 3.63 · Business Information Systems · 3rd year |
