@@ -10,7 +10,7 @@ jobs:
       contents: write
     steps:
       - name: GitHub Metrics
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity
@@ -31,7 +31,7 @@ jobs:
           config_timezone: Africa/Cairo
 
       - name: Anime Metrics
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@v3.34
         with:
           filename: github-metrics-anime.svg
           token: ${{ secrets.METRICS_TOKEN }}

@@ -32,6 +32,17 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 ---
 
+## <img src="https://api.iconify.design/lucide:radar.svg?color=%238A2BE2" width="20" height="20" align="center" /> Currently
+
+| Signal | Status |
+| :----- | :----- |
+| <img src="https://api.iconify.design/lucide:hammer.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Building** | Deepening ASP.NET Core architecture — auth flows, clean architecture, and background services |
+| <img src="https://api.iconify.design/lucide:book-open.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Studying** | B.I.S. @ Capital University — 3rd year, GPA 3.63 |
+| <img src="https://api.iconify.design/lucide:calendar-clock.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Next up** | TeamsLeech Bot resumes Sep 30 — new semester automation cycle |
+| <img src="https://api.iconify.design/lucide:search.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Open to** | Backend internships · .NET roles · freelance API projects |
+
+---
+
 ## <img src="https://api.iconify.design/lucide:component.svg?color=%238A2BE2" width="20" height="20" align="center" /> Architecture Dashboard
 
 <div align="center">
@@ -63,10 +74,10 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 ### <img src="https://api.iconify.design/lucide:layout.svg?color=%238A2BE2" width="20" height="20" align="center" /> Web & Interface Design
 
-|                                                                                                                  |                                                                                                                                     |                                                                                                                    |                                                                                                                               |                                                                                                                   |
-| :--------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
-| <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg?v=7" width="50" height="50" alt="HTML" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg?v=7" width="50" height="50" alt="CSS" /> | <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg?v=7" width="50" height="50" alt="JS" /> | <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg?v=7" width="50" height="50" alt="Bootstrap" /> | <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg?v=7" width="50" height="50" alt="Netlify" /> |
-|                                                    **HTML5**                                                     |                                                              **CSS3**                                                               |                                                   **JavaScript**                                                   |                                                         **Bootstrap**                                                         |                                                    **Netlify**                                                    |
+|                                                                                                                  |                                                                                                                                     |                                                                                                                    |                                                                                                                               |                                                                                                                   |                                                                                                                    |
+| :--------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
+| <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg?v=7" width="50" height="50" alt="HTML" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg?v=7" width="50" height="50" alt="CSS" /> | <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg?v=7" width="50" height="50" alt="JS" /> | <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg?v=7" width="50" height="50" alt="Bootstrap" /> | <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg?v=7" width="50" height="50" alt="React" /> | <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg?v=7" width="50" height="50" alt="Netlify" /> |
+|                                                    **HTML5**                                                     |                                                              **CSS3**                                                               |                                                   **JavaScript**                                                   |                                                         **Bootstrap**                                                         |                                                    **React**                                                    |                                                    **Netlify**                                                    |
 
 <br>
 
@@ -87,6 +98,19 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 <br>
 
 </div>
+
+---
+
+## <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%238A2BE2" width="20" height="20" align="center" /> Training & Programs
+
+<br>
+
+| Program | Role | Period | Outcome |
+| :------ | :--- | :----- | :------ |
+| <img src="https://api.iconify.design/simple-icons:egypt.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Digital Egypt Pioneers Initiative (DEPI)** | Full Stack .NET Developer Track | 2025 | Certified graduate — built Tafsilk as capstone, completed 6 C# OOP assignments + 7 SQL tasks |
+| <img src="https://api.iconify.design/lucide:server.svg?color=%238A2BE2" width="14" height="14" align="center" /> **ThreeDOS Backend Program** | Backend Developer | Apr 2026 | Delivered REST API & DB architecture tasks in PHP; work forked by the ThreeDOS org |
+| <img src="https://api.iconify.design/lucide:flask-conical.svg?color=%238A2BE2" width="14" height="14" align="center" /> **ITI (Information Technology Institute)** | Python & Flask Developer | Sep 2024 | Capstone: Personal Assistant App — Sierra ILS integration with Blueprints & Jinja2 |
+| <img src="https://api.iconify.design/lucide:university.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Capital University — B.I.S.** | Undergraduate Student | 2023 – Present | GPA 3.63 · Business Information Systems |
 
 ---
 
@@ -140,7 +164,7 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 | Project                                                                                                                                                            | Details                                                                                                                                                                                                                                                                                                     |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://api.iconify.design/lucide:bot.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[TeamsLeech Bot](https://github.com/AhmedTyson/TeamsLeech-Bot)** | **Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) <br> **Highlights:** Monitors Microsoft Teams lecture recordings and delivers them to Telegram Saved Messages. <br> **Timeline:** Apr 11, 2026 |
+| <img src="https://api.iconify.design/lucide:bot.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[TeamsLeech Bot](https://github.com/AhmedTyson/TeamsLeech-Bot)** | **Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) <br> **Highlights:** Async bot that monitors Microsoft Teams lecture recordings and streams them to Telegram via MTProto — zero local bandwidth. Full CI/CD pipeline with Ruff, Mypy, pytest, and semantic release. <br> **Status:** `Scheduled — Resumes Sep 30, 2026 (new semester)` <br> **Timeline:** Apr 11, 2026 |
 | <img src="https://api.iconify.design/lucide:cloud.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Cloud Storage Bot](https://github.com/AhmedTyson/Telegrambot-node.js)**        | **Stack:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square) ![Telegram](https://img.shields.io/badge/Bot-Telegram-blue?style=flat-square) <br> **Highlights:** Telegram × Google Drive integration via OAuth 2.0. <br> **Timeline:** Jun 20, 2025                                  |
 
 <br>
@@ -218,6 +242,20 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 <br>
 
 </div>
+
+---
+
+## <img src="https://api.iconify.design/lucide:history.svg?color=%238A2BE2" width="20" height="20" align="center" /> Portfolio Changelog
+
+> Monthly snapshot of growth. Each month lives on its own branch (`readme/YYYY-MM`) and merges to `main` at month end.
+
+| Month | Highlights |
+| :---- | :--------- |
+| **Jul 2026** | CI/CD audit on TeamsLeech-Bot · Disabled daily cron until Sep 30 · Fixed `release.yml` security · Added Training & Programs section · Added React to stack · Pinned workflow action versions |
+| **Jun 2026** | TeamsLeech Bot v2.3.1 released · Full CI pipeline: Ruff + Mypy + pytest + semantic release · Savory Bistro launched |
+| **Apr–May 2026** | Artistic E-commerce · Synapse Library · C2C & ThreeDOS backend tasks delivered |
+| **Nov–Dec 2025** | Tafsilk fullstack platform — live at tafsilk.runasp.net |
+| **2024–Early 2025** | ITI Flask capstone · DEPI program · CollegeDB & OOP assignments |
 
 ---
 
