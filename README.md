@@ -104,6 +104,21 @@ Primary focus is backend systems — API design, relational database optimizatio
 
 </div>
 
+<br>
+
+
+### <img src="https://api.iconify.design/lucide:bot.svg?color=%238A2BE2" width="20" height="20" align="center" /> Agentic Tooling & Environment
+
+> **OpenCode Configuration:** Custom agentic workflows utilizing **Serena MCP** for vast codebase mapping, **Context7** for real-time framework documentation, and **Notion API** integration enforcing strict Spec-Driven Development (SDD).
+
+| | | | |
+| :---: | :---: | :---: | :---: |
+| <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%238A2BE2" width="50" height="50" alt="OpenCode" /> | <img src="https://api.iconify.design/lucide:map.svg?color=%238A2BE2" width="50" height="50" alt="Serena MCP" /> | <img src="https://api.iconify.design/lucide:book-open.svg?color=%238A2BE2" width="50" height="50" alt="Context7" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg?v=22" width="50" height="50" alt="Notion" /> |
+| **OpenCode CLI** | **Serena MCP** | **Context7 MCP** | **Notion API** |
+
+<br>
+
+
 ---
 
 ## <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%238A2BE2" width="20" height="20" align="center" /> Training & Programs
@@ -131,6 +146,16 @@ Primary focus is backend systems — API design, relational database optimizatio
 
 <br>
 
+### <img src="https://api.iconify.design/lucide:users-round.svg?color=%238A2BE2" width="18" height="18" align="center" /> ThreeDOS — Backend Program Projects
+
+| Project | Details |
+| :------ | :------ |
+| <img src="https://api.iconify.design/lucide:shopping-cart.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Task 9 — E-Commerce API](https://github.com/AhmedTyson/t4-3dos-backend-task9)** `Team Leader` | **Stack:** ![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP_8.5-777BB4?style=flat-square&logo=php&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) <br> **Highlights:** Led Team 4 (8 members) building a production-grade Tech Accessories e-commerce REST API. JWT auth, RBAC (Admin/Customer), Redis caching middleware, transactional cart-to-order pipeline, Scramble API docs, PDF/XLSX report generation. All 10 phases completed. <br> **Team:** Team Leader · Mohamed Osama (Co-Leader) · 6 members <br> **Timeline:** Jul 5 – Jul 12, 2026 |
+| <img src="https://api.iconify.design/lucide:stethoscope.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Task 6 — Doctorna API](https://github.com/AhmedTyson/doctorna)** | **Stack:** ![PHP](https://img.shields.io/badge/Vanilla_PHP_8-777BB4?style=flat-square&logo=php&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) <br> **Highlights:** Zero-framework clinic management REST API — pure PHP 8, no Laravel. Repository Pattern (controllers never write SQL), stateless JWT via `firebase/php-jwt`, Redis auto-invalidation, PDO prepared statements, single Master Router with unified CORS + exception handling. <br> **Timeline:** Jun 29, 2026 |
+| <img src="https://api.iconify.design/lucide:server.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Tasks 4–7 — Individual Sessions](https://github.com/AhmedTyson/threedos-backend)** | **Stack:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) <br> **Highlights:** Progressive individual deliverables — Task 4: Organizo (PHP/PDO CRUD), Task 5: Airline API (ACID transactions), Task 6: Doctorna REST, Task 7: To-Do API (Laravel/Eloquent). Work forked by ThreeDOS org. <br> **Status:** `Backend Delegate — ongoing` <br> **Timeline:** Apr 30, 2026 – Present |
+
+<br>
+
 ### <img src="https://api.iconify.design/lucide:monitor.svg?color=%238A2BE2" width="18" height="18" align="center" /> Frontend Projects
 
 | Project                                                                                                                                                                                             | Details                                                                                                                                                                                                                                                                                                                                                                                                                                  |
@@ -151,16 +176,6 @@ Primary focus is backend systems — API design, relational database optimizatio
 | <img src="https://api.iconify.design/lucide:utensils.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Talabat Simulator](https://github.com/AhmedTyson/College-team-assignment-1)**                                                        | **Stack:** ![Logic](https://img.shields.io/badge/Logic-Console-orange?style=flat-square) <br> **Highlights:** Console food delivery sim with cart management and receipt generation. <br> **Timeline:** Jun 1 – Dec 17, 2025                                                                            |
 | <img src="https://api.iconify.design/lucide:library.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Sierra ILS](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Library%20Management%20System)**                     | **Stack:** ![OOP](https://img.shields.io/badge/Logic-OOP-blue?style=flat-square) ![SOLID](https://img.shields.io/badge/Principle-SOLID-lightgrey?style=flat-square) <br> **Highlights:** OOP library management system utilizing SOLID principles and inheritance. <br> **Timeline:** May 31, 2025      |
 | <img src="https://api.iconify.design/lucide:calculator.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Car Loan Calculator](https://github.com/AhmedTyson/college-project-assignment-1/tree/main/Car%20Loan%20Calculator%20Application)** | **Stack:** ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-3776AB?style=flat-square) <br> **Highlights:** Amortization GUI with automated interest rates and validation logic. <br> **Timeline:** May 31, 2025                                                                                      |
-
-<br>
-
-### <img src="https://api.iconify.design/lucide:users-round.svg?color=%238A2BE2" width="18" height="18" align="center" /> ThreeDOS — Backend Program Projects
-
-| Project | Details |
-| :------ | :------ |
-| <img src="https://api.iconify.design/lucide:shopping-cart.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Task 9 — E-Commerce API](https://github.com/AhmedTyson/t4-3dos-backend-task9)** `Team Leader` | **Stack:** ![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP_8.5-777BB4?style=flat-square&logo=php&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) <br> **Highlights:** Led Team 4 (8 members) building a production-grade Tech Accessories e-commerce REST API. JWT auth, RBAC (Admin/Customer), Redis caching middleware, transactional cart-to-order pipeline, Scramble API docs, PDF/XLSX report generation. All 10 phases completed. <br> **Team:** Team Leader · Mohamed Osama (Co-Leader) · 6 members <br> **Timeline:** Jul 5 – Jul 12, 2026 |
-| <img src="https://api.iconify.design/lucide:stethoscope.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Task 6 — Doctorna API](https://github.com/AhmedTyson/doctorna)** | **Stack:** ![PHP](https://img.shields.io/badge/Vanilla_PHP_8-777BB4?style=flat-square&logo=php&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) <br> **Highlights:** Zero-framework clinic management REST API — pure PHP 8, no Laravel. Repository Pattern (controllers never write SQL), stateless JWT via `firebase/php-jwt`, Redis auto-invalidation, PDO prepared statements, single Master Router with unified CORS + exception handling. <br> **Timeline:** Jun 29, 2026 |
-| <img src="https://api.iconify.design/lucide:server.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Tasks 4–7 — Individual Sessions](https://github.com/AhmedTyson/threedos-backend)** | **Stack:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) <br> **Highlights:** Progressive individual deliverables — Task 4: Organizo (PHP/PDO CRUD), Task 5: Airline API (ACID transactions), Task 6: Doctorna REST, Task 7: To-Do API (Laravel/Eloquent). Work forked by ThreeDOS org. <br> **Status:** `Backend Delegate — ongoing` <br> **Timeline:** Apr 30, 2026 – Present |
 
 <br>
 
