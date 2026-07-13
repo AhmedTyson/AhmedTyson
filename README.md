@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0D1117&height=180&section=header&text=Ahmed%20Elsayed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Digital%20Alchemist%20%C2%B7%20Full%20Stack%20.NET%20Developer%20%C2%B7%20Database%20Architect&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0D1117&height=180&section=header&text=Ahmed%20Elsayed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=.NET%20Backend%20Developer%20%C2%B7%20Database%20Architect%20%C2%B7%20Frontend-Capable&descAlignY=55&descSize=16" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=900&lines=Transforming+Data+Into+Strategic+Decisions;Full+Stack+.NET+%26+Python+Developer;Security-First+%7C+SOLID+%7C+AI-Augmented;B.I.S.+Undergraduate+@+Capital+University" alt="Typing SVG" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=900&lines=.NET+Backend+Developer+%7C+Database+Architect;ASP.NET+Core+%7C+SQL+Server+%7C+Clean+Architecture;PHP+%26+Laravel+Backend+%7C+REST+API+Design;Frontend-Capable+%7C+React+%7C+Consuming+APIs;Security-First+%7C+SOLID+%7C+AI-Augmented" alt="Typing SVG" width="100%"/>
 
 <br>
 
@@ -18,17 +18,19 @@
 
 ---
 
-> "Building reliable backend systems and translating business needs into clean code."
+> "I build backends that hold. I consume frontends that work."
 
-Business Information Systems undergraduate at **Capital University** (GPA: 3.63) and certified graduate of the **Digital Egypt Pioneers Initiative (DEPI)** Full Stack .NET Developer track. Engineering approach centers on designing secure architectures, efficient relational databases, and practical automation workflows that scale reliably.
+.NET Backend Developer with a solid foundation in PHP and Laravel, currently deepening backend expertise through the **ThreeDOS Backend Program** (PHP · Laravel · REST API design · DB architecture). Certified graduate of the **Digital Egypt Pioneers Initiative (DEPI)** Full Stack .NET track. B.I.S. undergraduate at **Capital University** (GPA: 3.63).
+
+Primary focus is backend systems — API design, relational database optimization, authentication, and clean architecture. Frontend is a working tool: capable of building UIs with HTML/CSS/JS/React and consuming REST APIs, not a specialization.
 
 <br>
 
-<img src="https://api.iconify.design/lucide:layout.svg?color=%238A2BE2" width="16" height="16" align="center" /> **Digital Architect**: Transforming complex business requirements into maintainable, security-first digital products.
+<img src="https://api.iconify.design/lucide:server.svg?color=%238A2BE2" width="16" height="16" align="center" /> **Backend Core**: ASP.NET Core · PHP · Laravel · SQL Server · REST API design · JWT · EF Core.
 <br>
-<img src="https://api.iconify.design/lucide:database.svg?color=%238A2BE2" width="16" height="16" align="center" /> **Core Stack**: Enterprise ASP.NET Core, SQL Server optimization, and Python backend development.
+<img src="https://api.iconify.design/lucide:layout.svg?color=%238A2BE2" width="16" height="16" align="center" /> **Frontend Background**: React · JavaScript · HTML/CSS · Bootstrap — builds UIs and integrates APIs end-to-end.
 <br>
-<img src="https://api.iconify.design/lucide:bot.svg?color=%238A2BE2" width="16" height="16" align="center" /> **Smart Automation**: Integrating LLMs and custom workflows to accelerate development and eliminate repetitive tasks.
+<img src="https://api.iconify.design/lucide:bot.svg?color=%238A2BE2" width="16" height="16" align="center" /> **Automation**: Python bots and GitHub Actions pipelines that run unattended.
 
 ---
 
@@ -36,10 +38,11 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 | Signal | Status |
 | :----- | :----- |
-| <img src="https://api.iconify.design/lucide:hammer.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Building** | Deepening ASP.NET Core architecture — auth flows, clean architecture, and background services |
+| <img src="https://api.iconify.design/lucide:hammer.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Building** | Active in **ThreeDOS Backend Program** — PHP · Laravel · REST API design · relational DB architecture |
+| <img src="https://api.iconify.design/lucide:server.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Deepening** | ASP.NET Core clean architecture · auth flows · background services |
 | <img src="https://api.iconify.design/lucide:book-open.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Studying** | B.I.S. @ Capital University — 3rd year, GPA 3.63 |
 | <img src="https://api.iconify.design/lucide:calendar-clock.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Next up** | TeamsLeech Bot resumes Sep 30 — new semester automation cycle |
-| <img src="https://api.iconify.design/lucide:search.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Open to** | Backend internships · .NET roles · freelance API projects |
+| <img src="https://api.iconify.design/lucide:search.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Open to** | Backend internships · .NET roles · PHP/Laravel projects · freelance API work |
 
 ---
 
@@ -63,16 +66,18 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 <br>
 
-### <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%238A2BE2" width="20" height="20" align="center" /> Core Engineering
+### <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%238A2BE2" width="20" height="20" align="center" /> Backend Engineering — Primary
 
-|                                                                                                                                        |                                                                                                              |                                                                                                                |                                                                                                                                         |                                                                                                                |                                                                                                                                                                     |
-| :------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg?v=6" width="50" height="50" alt="C#" /> | <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg?v=6" width="50" height="50" alt=".NET" /> | <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg?v=6" width="50" height="50" alt="Python" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg?v=6" width="50" height="50" alt="Flask" /> | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg?v=6" width="50" height="50" alt="SQLite" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg?v=6" width="50" height="50" alt="SQL Server" /> |
-|                                                                 **C#**                                                                 |                                                   **.NET**                                                   |                                                   **Python**                                                   |                                                                **Flask**                                                                |                                                   **SQLite**                                                   |                                                                           **SQL Server**                                                                            |
+|                                                                                                                                        |                                                                                                              |                                                                                                                |                                                                                                                                         |                                                                                                                |                                                                                                                                                                     |                                                                                                                    |                                                                                                                    |
+| :------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg?v=6" width="50" height="50" alt="C#" /> | <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg?v=6" width="50" height="50" alt=".NET" /> | <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg?v=6" width="50" height="50" alt="Python" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg?v=6" width="50" height="50" alt="Flask" /> | <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg?v=6" width="50" height="50" alt="PHP" /> | <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg?v=6" width="50" height="50" alt="Laravel" /> | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg?v=6" width="50" height="50" alt="SQLite" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg?v=6" width="50" height="50" alt="SQL Server" /> |
+|                                                                 **C#**                                                                 |                                                   **.NET**                                                   |                                                   **Python**                                                   |                                                                **Flask**                                                                |                                                   **PHP**                                                   |                                                                           **Laravel**                                                                            |                                                   **SQLite**                                                   |                                                   **SQL Server**                                                   |
 
 <br>
 
-### <img src="https://api.iconify.design/lucide:layout.svg?color=%238A2BE2" width="20" height="20" align="center" /> Web & Interface Design
+### <img src="https://api.iconify.design/lucide:layout.svg?color=%238A2BE2" width="20" height="20" align="center" /> Frontend & API Consumption — Background
+
+> Builds functional UIs and integrates REST APIs. Not a specialization — a working capability.
 
 |                                                                                                                  |                                                                                                                                     |                                                                                                                    |                                                                                                                               |                                                                                                                   |                                                                                                                    |
 | :--------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
@@ -107,10 +112,10 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 | Program | Role | Period | Outcome |
 | :------ | :--- | :----- | :------ |
-| <img src="https://api.iconify.design/simple-icons:egypt.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Digital Egypt Pioneers Initiative (DEPI)** | Full Stack .NET Developer Track | 2025 | Certified graduate — built Tafsilk as capstone, completed 6 C# OOP assignments + 7 SQL tasks |
-| <img src="https://api.iconify.design/lucide:server.svg?color=%238A2BE2" width="14" height="14" align="center" /> **ThreeDOS Backend Program** | Backend Developer | Apr 2026 | Delivered REST API & DB architecture tasks in PHP; work forked by the ThreeDOS org |
+| <img src="https://api.iconify.design/lucide:server.svg?color=%238A2BE2" width="14" height="14" align="center" /> **ThreeDOS Backend Program** `Active` | Backend Developer | Apr 2026 – Present | PHP · Laravel · REST API design · relational DB architecture — tasks delivered, work forked by ThreeDOS org |
+| <img src="https://api.iconify.design/simple-icons:egypt.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Digital Egypt Pioneers Initiative (DEPI)** | Full Stack .NET Developer Track | 2025 | Certified graduate — Tafsilk as capstone · 6 C# OOP assignments · 7 SQL tasks |
 | <img src="https://api.iconify.design/lucide:flask-conical.svg?color=%238A2BE2" width="14" height="14" align="center" /> **ITI (Information Technology Institute)** | Python & Flask Developer | Sep 2024 | Capstone: Personal Assistant App — Sierra ILS integration with Blueprints & Jinja2 |
-| <img src="https://api.iconify.design/lucide:university.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Capital University — B.I.S.** | Undergraduate Student | 2023 – Present | GPA 3.63 · Business Information Systems |
+| <img src="https://api.iconify.design/lucide:university.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Capital University — B.I.S.** | Undergraduate Student | 2023 – Present | GPA 3.63 · Business Information Systems · 3rd year |
 
 ---
 
@@ -154,7 +159,7 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 | Project                                                                                                                                                     | Details                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img src="https://api.iconify.design/lucide:check-circle.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[C2C Task Implementation](https://github.com/AhmedTyson/C2C-Task-8)** | **Stack:** ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square) <br> **Highlights:** Educational repository dedicated to submitting assigned development tasks and training exercises. <br> **Timeline:** Apr 2026 |
-| <img src="https://api.iconify.design/lucide:server.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[ThreeDos Backend](https://github.com/AhmedTyson/threedos-backend)** | **Stack:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) <br> **Highlights:** Training repository focused on submitting backend API and database architecture assignments. <br> **Timeline:** Apr 30, 2026 |
+| <img src="https://api.iconify.design/lucide:server.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[ThreeDOS Backend](https://github.com/AhmedTyson/threedos-backend)** | **Stack:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) <br> **Highlights:** REST API design and relational DB architecture tasks delivered to the ThreeDOS program — work forked by the ThreeDOS org. Covers routing, Eloquent ORM, migrations, and API resource patterns. <br> **Status:** `Active — ongoing task delivery` <br> **Timeline:** Apr 30, 2026 – Present |
 | <img src="https://api.iconify.design/lucide:dog.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[PETOPIA Pet Adoption](https://github.com/AhmedTyson/PETOBIA-student-activity-team-project)** | **Live:** [Demo](https://ahmedtyson.github.io/PETOBIA-student-activity-team-project/) <br> **Stack:** ![Responsive](https://img.shields.io/badge/Responsive-UI-brightgreen?style=flat-square) <br> **Highlights:** Responsive mobile-first pet adoption site developed with a team for task delivery and learning. <br> **Timeline:** Mar 01, 2025 |
 | <img src="https://api.iconify.design/lucide:database.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[CollegeDB](https://github.com/AhmedTyson/Tasks/tree/main/1.%20SQL%20Tasks/CollegeDB%20project-%20Task%205)** | **Docs:** [View Output](https://ahmedtyson.github.io/Tasks/) <br> **Stack:** ![SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) <br> **Highlights:** Relational schema with stored procedures developed for DEPI training, focusing on task delivery and learning. <br> **Timeline:** May 2025 |
 
@@ -251,9 +256,9 @@ Business Information Systems undergraduate at **Capital University** (GPA: 3.63)
 
 | Month | Highlights |
 | :---- | :--------- |
-| **Jul 2026** | CI/CD audit on TeamsLeech-Bot · Disabled daily cron until Sep 30 · Fixed `release.yml` security · Added Training & Programs section · Added React to stack · Pinned workflow action versions |
+| **Jul 2026** | Repositioned as .NET Backend Developer — title, header, typing SVG updated · Added PHP/Laravel to Tech Arsenal · ThreeDOS Backend marked Active · Training & Programs section expanded · Frontend section relabeled as API Consumption background · CI/CD audit: TeamsLeech cron disabled until Sep 30 · Fixed `release.yml` security · Pinned workflow action versions |
 | **Jun 2026** | TeamsLeech Bot v2.3.1 released · Full CI pipeline: Ruff + Mypy + pytest + semantic release · Savory Bistro launched |
-| **Apr–May 2026** | Artistic E-commerce · Synapse Library · C2C & ThreeDOS backend tasks delivered |
+| **Apr–May 2026** | ThreeDOS Backend Program started (PHP · Laravel) · Artistic E-commerce · Synapse Library · C2C tasks delivered |
 | **Nov–Dec 2025** | Tafsilk fullstack platform — live at tafsilk.runasp.net |
 | **2024–Early 2025** | ITI Flask capstone · DEPI program · CollegeDB & OOP assignments |
 
