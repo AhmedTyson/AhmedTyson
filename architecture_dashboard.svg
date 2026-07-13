@@ -1,5 +1,5 @@
 <svg fill="none" width="900" height="350" viewBox="0 0 900 350" xmlns="http://www.w3.org/2000/svg">
-<!-- Cache Bust: 2026-02-22T10:10:00 -->
+<!-- Cache Bust: 2026-07-14T01:00:00 -->
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -51,9 +51,9 @@
         <div class="item">
           <h3>
             <svg class="icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" stroke="#8A2BE2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><rect width="18" height="18" x="3" y="3" rx="2"/><path d="M3 9h18M9 21V9"/></g></svg>
-            Digital Architect
+            Backend Architect
           </h3>
-          <p>Turning data into strategy · Rapid ideation · Iterative delivery</p>
+          <p>RESTful APIs · Clean Architecture · Scalable systems</p>
         </div>
         <div class="item">
           <h3>
@@ -79,9 +79,9 @@
         <div class="item">
           <h3>
             <svg class="icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="none" stroke="#8A2BE2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="m16.24 7.76l-1.804 5.411a2 2 0 0 1-1.265 1.265L7.76 16.24l1.804-5.411a2 2 0 0 1 1.265-1.265z"/></g></svg>
-            Full Stack Navigator
+            Backend Ecosystem
           </h3>
-          <p>.NET Core to Vanilla JS · SQL to EF Core · Cloud integrated</p>
+          <p>.NET Core & Laravel · SQL Server to Redis · API integration</p>
         </div>
         <div class="item">
           <h3>
