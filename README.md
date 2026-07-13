@@ -107,14 +107,19 @@ Primary focus is backend systems — API design, relational database optimizatio
 <br>
 
 
-### <img src="https://api.iconify.design/lucide:bot.svg?color=%238A2BE2" width="20" height="20" align="center" /> Agentic Tooling & Environment
+### <img src="https://api.iconify.design/lucide:bot.svg?color=%238A2BE2" width="20" height="20" align="center" /> Agentic Tooling & Advanced AI Workflows
 
-> **OpenCode Configuration:** Custom agentic workflows utilizing **Serena MCP** for vast codebase mapping, **Context7** for real-time framework documentation, and **Notion API** integration enforcing strict Spec-Driven Development (SDD).
+> **AI-Augmented Engineering Environment:** Operating a heavily customized OpenCode CLI ecosystem optimized for architectural precision, token efficiency, and automated quality control.
 
-| | | | |
-| :---: | :---: | :---: | :---: |
-| <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%238A2BE2" width="50" height="50" alt="OpenCode" /> | <img src="https://api.iconify.design/lucide:map.svg?color=%238A2BE2" width="50" height="50" alt="Serena MCP" /> | <img src="https://api.iconify.design/lucide:book-open.svg?color=%238A2BE2" width="50" height="50" alt="Context7" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg?v=22" width="50" height="50" alt="Notion" /> |
-| **OpenCode CLI** | **Serena MCP** | **Context7 MCP** | **Notion API** |
+| System | Capabilities & Protocols |
+| :--- | :--- |
+| <img src="https://api.iconify.design/lucide:git-merge.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Development Protocols** | **SDD & TDD Enforced:** Strict Spec-Driven Development. No "vibe coding". Mandatory SPEC.md blueprints and Test-Driven lifecycles before execution. |
+| <img src="https://api.iconify.design/lucide:shield-check.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Automated Quality Guards** | Custom LLM inspector skills (clean-code-guard, 	est-guard, docs-guard) auditing all generated output against SOLID, DRY, and architecture standards. |
+| <img src="https://api.iconify.design/lucide:minimize-2.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Token & Context Mastery** | Caveman ultra-compression logic (75% token reduction), aggressive Context Purging to prevent LLM token rot, and local udit-tokens profiling. |
+| <img src="https://api.iconify.design/lucide:server-cog.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Framework-Specific MCPs** | Model Context Protocol (MCP) servers explicitly tailored for backend frameworks: mcp-dotnet, mcp-laravel, rtisan, and dotnet-ef. |
+| <img src="https://api.iconify.design/lucide:book-marked.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Knowledge Persistence** | CLI-driven **Notion API** integration (
+tn). Automated markdown styling, Mermaid architecture diagrams, and custom alerts pushed directly to the Notion Brain. |
+| <img src="https://api.iconify.design/lucide:map.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Codebase Cartography** | **Serena MCP** for rapid codebase mapping and symbol tracking, paired with **Context7 MCP** for real-time framework documentation retrieval. |
 
 <br>
 
@@ -280,7 +285,7 @@ Primary focus is backend systems — API design, relational database optimizatio
 
 | Month | Highlights |
 | :---- | :--------- |
-| **Jul 2026** | Promoted ThreeDOS Delegate status + Team 4 Leader role for Task 9 (Laravel E-Commerce API) · Added zero-framework Doctorna API to showcase · Repositioned as .NET Backend Developer · Refined Architecture SVG rendering · CI/CD audit & security fix on TeamsLeech-Bot |
+| **Jul 2026** | Added heavily customized AI/OpenCode setup to Tech Arsenal (SDD/TDD, Notion API, Caveman compression, MCPs) · Promoted ThreeDOS Delegate status + Team 4 Leader role for Task 9 (Laravel E-Commerce API) · Added zero-framework Doctorna API to showcase · Repositioned as .NET Backend Developer · Refined Architecture SVG rendering · CI/CD audit & security fix on TeamsLeech-Bot |
 | **Jun 2026** | TeamsLeech Bot v2.3.1 released · Full CI pipeline: Ruff + Mypy + pytest + semantic release · Savory Bistro launched |
 | **Apr–May 2026** | ThreeDOS Backend Program started (PHP · Laravel) · Artistic E-commerce · Synapse Library · C2C tasks delivered |
 | **Nov–Dec 2025** | Tafsilk fullstack platform — live at tafsilk.runasp.net |
