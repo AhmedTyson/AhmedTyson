@@ -114,11 +114,10 @@ Primary focus is backend systems — API design, relational database optimizatio
 | System | Capabilities & Protocols |
 | :--- | :--- |
 | <img src="https://api.iconify.design/lucide:git-merge.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Development Protocols** | **SDD & TDD Enforced:** Strict Spec-Driven Development. No "vibe coding". Mandatory SPEC.md blueprints and Test-Driven lifecycles before execution. |
-| <img src="https://api.iconify.design/lucide:shield-check.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Automated Quality Guards** | Custom LLM inspector skills (clean-code-guard, 	est-guard, docs-guard) auditing all generated output against SOLID, DRY, and architecture standards. |
-| <img src="https://api.iconify.design/lucide:minimize-2.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Token & Context Mastery** | Caveman ultra-compression logic (75% token reduction), aggressive Context Purging to prevent LLM token rot, and local udit-tokens profiling. |
+| <img src="https://api.iconify.design/lucide:shield-check.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Automated Quality Guards** | Custom LLM inspector skills (`clean-code-guard`, `test-guard`, `docs-guard`) auditing all generated output against SOLID, DRY, and architecture standards. |
+| <img src="https://api.iconify.design/lucide:minimize-2.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Token & Context Mastery** | Caveman ultra-compression logic (75% token reduction), aggressive Context Purging to prevent LLM token rot, and local `audit-tokens` profiling. |
 | <img src="https://api.iconify.design/lucide:server-cog.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Framework-Specific MCPs** | Model Context Protocol (MCP) servers explicitly tailored for backend frameworks: mcp-dotnet, mcp-laravel, rtisan, and dotnet-ef. |
-| <img src="https://api.iconify.design/lucide:book-marked.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Knowledge Persistence** | CLI-driven **Notion API** integration (
-tn). Automated markdown styling, Mermaid architecture diagrams, and custom alerts pushed directly to the Notion Brain. |
+| <img src="https://api.iconify.design/lucide:book-marked.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Knowledge Persistence** | CLI-driven **Notion API** integration (`ntn`). Automated markdown styling, Mermaid architecture diagrams, and custom alerts pushed directly to the Notion Brain. |
 | <img src="https://api.iconify.design/lucide:map.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Codebase Cartography** | **Serena MCP** for rapid codebase mapping and symbol tracking, paired with **Context7 MCP** for real-time framework documentation retrieval. |
 
 <br>
@@ -308,3 +307,5 @@ tn). Automated markdown styling, Mermaid architecture diagrams, and custom alert
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0D1117&height=120&section=footer&text=Every+commit+is+a+step+toward+the+future&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
+
+
