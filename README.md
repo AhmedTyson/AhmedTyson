@@ -20,7 +20,7 @@
 
 > "I build backends that hold. I consume frontends that work."
 
-.NET Backend Developer with a solid foundation in PHP and Laravel, currently deepening backend expertise through the **ThreeDOS Backend Program** (PHP · Laravel · REST API design · DB architecture). Certified graduate of the **Digital Egypt Pioneers Initiative (DEPI)** Full Stack .NET track. B.I.S. undergraduate at **Capital University** (GPA: 3.63).
+.NET Backend Developer with a solid foundation in PHP and Laravel, currently deepening backend expertise through the **ThreeDOS Backend Program** (PHP · Laravel · REST API design · DB architecture). Certified graduate of the **Digital Egypt Pioneers Initiative (DEPI)** Full Stack .NET track. B.I.S. undergraduate at **Capital University** (GPA: 3.66).
 
 Primary focus is backend systems — API design, relational database optimization, authentication, and clean architecture. Frontend is a working tool: capable of building UIs with HTML/CSS/JS/React and consuming REST APIs, not a specialization.
 
@@ -40,7 +40,7 @@ Primary focus is backend systems — API design, relational database optimizatio
 | :----- | :----- |
 | <img src="https://api.iconify.design/lucide:hammer.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Building** | Active in **ThreeDOS Backend Program** — PHP · Laravel · REST API design · relational DB architecture |
 | <img src="https://api.iconify.design/lucide:server.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Deepening** | ASP.NET Core clean architecture · auth flows · background services |
-| <img src="https://api.iconify.design/lucide:book-open.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Studying** | B.I.S. @ Capital University — 3rd year, GPA 3.63 |
+| <img src="https://api.iconify.design/lucide:book-open.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Studying** | B.I.S. @ Capital University — 3rd year, GPA 3.66 |
 | <img src="https://api.iconify.design/lucide:calendar-clock.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Next up** | TeamsLeech Bot resumes Sep 30 — new semester automation cycle |
 | <img src="https://api.iconify.design/lucide:search.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Open to** | Backend internships · .NET roles · PHP/Laravel projects · freelance API work |
 
@@ -134,7 +134,7 @@ Primary focus is backend systems — API design, relational database optimizatio
 | <img src="https://api.iconify.design/lucide:server.svg?color=%238A2BE2" width="14" height="14" align="center" /> **ThreeDOS Backend Program** `Backend Delegate` | Backend Delegate | Apr 2026 – Present | PHP · Laravel 12 · REST API design · Redis caching · JWT auth — team lead on Task 9 e-commerce API, individual tasks delivered across sessions 4–7 |
 | <img src="https://api.iconify.design/simple-icons:egypt.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Digital Egypt Pioneers Initiative (DEPI)** | Full Stack .NET Developer Track | 2025 | Certified graduate — Tafsilk as capstone · 6 C# OOP assignments · 7 SQL tasks |
 | <img src="https://api.iconify.design/lucide:flask-conical.svg?color=%238A2BE2" width="14" height="14" align="center" /> **ITI (Information Technology Institute)** | Python & Flask Developer | Sep 2024 | Capstone: Personal Assistant App — Sierra ILS integration with Blueprints & Jinja2 |
-| <img src="https://api.iconify.design/lucide:university.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Capital University — B.I.S.** | Undergraduate Student | 2023 – Present | GPA 3.63 · Business Information Systems · 3rd year |
+| <img src="https://api.iconify.design/lucide:university.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Capital University — B.I.S.** | Undergraduate Student | 2023 – Present | GPA 3.66 · Business Information Systems · 3rd year |
 
 ---
 
