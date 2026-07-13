@@ -52,7 +52,7 @@ Primary focus is backend systems — API design, relational database optimizatio
 
 <br>
 
-<img src="./architecture_dashboard.svg" alt="Architecture Dashboard" width="90%" />
+<img src="architecture_dashboard.svg?v=20260714" alt="Architecture Dashboard" width="100%" />
 
 <br>
 
