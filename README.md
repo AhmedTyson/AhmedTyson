@@ -52,7 +52,11 @@ Primary focus is backend systems — API design, relational database optimizatio
 
 <br>
 
-<img src="./architecture_dashboard.svg" alt="Architecture Dashboard" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/main/architecture_dashboard.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/main/architecture_dashboard.svg">
+  <img src="https://raw.githubusercontent.com/AhmedTyson/AhmedTyson/main/architecture_dashboard.svg" alt="Architecture Dashboard" width="100%">
+</picture>
 
 <br>
 
@@ -112,7 +116,7 @@ Primary focus is backend systems — API design, relational database optimizatio
 
 | Program | Role | Period | Outcome |
 | :------ | :--- | :----- | :------ |
-| <img src="https://api.iconify.design/lucide:server.svg?color=%238A2BE2" width="14" height="14" align="center" /> **ThreeDOS Backend Program** `Active` | Backend Developer | Apr 2026 – Present | PHP · Laravel · REST API design · relational DB architecture — tasks delivered, work forked by ThreeDOS org |
+| <img src="https://api.iconify.design/lucide:server.svg?color=%238A2BE2" width="14" height="14" align="center" /> **ThreeDOS Backend Program** `Backend Delegate` | Team Leader — Team 4 | Apr 2026 – Present | PHP · Laravel 12 · REST API design · Redis caching · JWT auth — team lead on Task 9 e-commerce API, individual tasks delivered across sessions 4–7 |
 | <img src="https://api.iconify.design/simple-icons:egypt.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Digital Egypt Pioneers Initiative (DEPI)** | Full Stack .NET Developer Track | 2025 | Certified graduate — Tafsilk as capstone · 6 C# OOP assignments · 7 SQL tasks |
 | <img src="https://api.iconify.design/lucide:flask-conical.svg?color=%238A2BE2" width="14" height="14" align="center" /> **ITI (Information Technology Institute)** | Python & Flask Developer | Sep 2024 | Capstone: Personal Assistant App — Sierra ILS integration with Blueprints & Jinja2 |
 | <img src="https://api.iconify.design/lucide:university.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Capital University — B.I.S.** | Undergraduate Student | 2023 – Present | GPA 3.63 · Business Information Systems · 3rd year |
@@ -154,12 +158,21 @@ Primary focus is backend systems — API design, relational database optimizatio
 
 <br>
 
+### <img src="https://api.iconify.design/lucide:users-round.svg?color=%238A2BE2" width="18" height="18" align="center" /> ThreeDOS — Backend Program Projects
+
+| Project | Details |
+| :------ | :------ |
+| <img src="https://api.iconify.design/lucide:shopping-cart.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Task 9 — E-Commerce API](https://github.com/AhmedTyson/t4-3dos-backend-task9)** `Team Leader` | **Stack:** ![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP_8.5-777BB4?style=flat-square&logo=php&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) <br> **Highlights:** Led Team 4 (8 members) building a production-grade Tech Accessories e-commerce REST API. JWT auth, RBAC (Admin/Customer), Redis caching middleware, transactional cart-to-order pipeline, Scramble API docs, PDF/XLSX report generation. All 10 phases completed. <br> **Team:** Team Leader · Mohamed Osama (Co-Leader) · 6 members <br> **Timeline:** Jul 5 – Jul 12, 2026 |
+| <img src="https://api.iconify.design/lucide:stethoscope.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Task 6 — Doctorna API](https://github.com/AhmedTyson/doctorna)** | **Stack:** ![PHP](https://img.shields.io/badge/Vanilla_PHP_8-777BB4?style=flat-square&logo=php&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) <br> **Highlights:** Zero-framework clinic management REST API — pure PHP 8, no Laravel. Repository Pattern (controllers never write SQL), stateless JWT via `firebase/php-jwt`, Redis auto-invalidation, PDO prepared statements, single Master Router with unified CORS + exception handling. <br> **Timeline:** Jun 29, 2026 |
+| <img src="https://api.iconify.design/lucide:server.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Tasks 4–7 — Individual Sessions](https://github.com/AhmedTyson/threedos-backend)** | **Stack:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) <br> **Highlights:** Progressive individual deliverables — Task 4: Organizo (PHP/PDO CRUD), Task 5: Airline API (ACID transactions), Task 6: Doctorna REST, Task 7: To-Do API (Laravel/Eloquent). Work forked by ThreeDOS org. <br> **Status:** `Backend Delegate — ongoing` <br> **Timeline:** Apr 30, 2026 – Present |
+
+<br>
+
 ### <img src="https://api.iconify.design/lucide:users.svg?color=%238A2BE2" width="18" height="18" align="center" /> Student Activities & Task Delivery
 
 | Project                                                                                                                                                     | Details                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img src="https://api.iconify.design/lucide:check-circle.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[C2C Task Implementation](https://github.com/AhmedTyson/C2C-Task-8)** | **Stack:** ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square) <br> **Highlights:** Educational repository dedicated to submitting assigned development tasks and training exercises. <br> **Timeline:** Apr 2026 |
-| <img src="https://api.iconify.design/lucide:server.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[ThreeDOS Backend](https://github.com/AhmedTyson/threedos-backend)** | **Stack:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) <br> **Highlights:** REST API design and relational DB architecture tasks delivered to the ThreeDOS program — work forked by the ThreeDOS org. Covers routing, Eloquent ORM, migrations, and API resource patterns. <br> **Status:** `Active — ongoing task delivery` <br> **Timeline:** Apr 30, 2026 – Present |
 | <img src="https://api.iconify.design/lucide:dog.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[PETOPIA Pet Adoption](https://github.com/AhmedTyson/PETOBIA-student-activity-team-project)** | **Live:** [Demo](https://ahmedtyson.github.io/PETOBIA-student-activity-team-project/) <br> **Stack:** ![Responsive](https://img.shields.io/badge/Responsive-UI-brightgreen?style=flat-square) <br> **Highlights:** Responsive mobile-first pet adoption site developed with a team for task delivery and learning. <br> **Timeline:** Mar 01, 2025 |
 | <img src="https://api.iconify.design/lucide:database.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[CollegeDB](https://github.com/AhmedTyson/Tasks/tree/main/1.%20SQL%20Tasks/CollegeDB%20project-%20Task%205)** | **Docs:** [View Output](https://ahmedtyson.github.io/Tasks/) <br> **Stack:** ![SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) <br> **Highlights:** Relational schema with stored procedures developed for DEPI training, focusing on task delivery and learning. <br> **Timeline:** May 2025 |
 
@@ -256,7 +269,7 @@ Primary focus is backend systems — API design, relational database optimizatio
 
 | Month | Highlights |
 | :---- | :--------- |
-| **Jul 2026** | Repositioned as .NET Backend Developer — title, header, typing SVG updated · Added PHP/Laravel to Tech Arsenal · ThreeDOS Backend marked Active · Training & Programs section expanded · Frontend section relabeled as API Consumption background · CI/CD audit: TeamsLeech cron disabled until Sep 30 · Fixed `release.yml` security · Pinned workflow action versions |
+| **Jul 2026** | Promoted ThreeDOS Delegate status + Team 4 Leader role for Task 9 (Laravel E-Commerce API) · Added zero-framework Doctorna API to showcase · Repositioned as .NET Backend Developer · Refined Architecture SVG rendering · CI/CD audit & security fix on TeamsLeech-Bot |
 | **Jun 2026** | TeamsLeech Bot v2.3.1 released · Full CI pipeline: Ruff + Mypy + pytest + semantic release · Savory Bistro launched |
 | **Apr–May 2026** | ThreeDOS Backend Program started (PHP · Laravel) · Artistic E-commerce · Synapse Library · C2C tasks delivered |
 | **Nov–Dec 2025** | Tafsilk fullstack platform — live at tafsilk.runasp.net |
