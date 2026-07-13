@@ -20,17 +20,17 @@
 
 > "I build backends that hold. I consume frontends that work."
 
-.NET Backend Developer with a solid foundation in PHP and Laravel, currently deepening backend expertise through the **ThreeDOS Backend Program** (PHP · Laravel · REST API design · DB architecture). Certified graduate of the **Digital Egypt Pioneers Initiative (DEPI)** Full Stack .NET track. B.I.S. undergraduate at **Capital University** (GPA: 3.66).
+.NET Backend Developer w/ Frontend Background. Business Information Systems undergraduate at **Capital University** (GPA: 3.66). Certified graduate of the **Digital Egypt Pioneers Initiative (DEPI)** 6-month .NET Developer scholarship track. 
 
-Primary focus is backend systems — API design, relational database optimization, authentication, and clean architecture. Frontend is a working tool: capable of building UIs with HTML/CSS/JS/React and consuming REST APIs, not a specialization.
+Primary focus is backend systems with .NET — designing secure APIs, relational database optimization (SQL Server), and clean architecture. Frontend is a functional working capability (building UIs with React/JS and integrating APIs) rather than a primary focus. Under ThreeDOS (simulated software company), gained collaborative team experience and mentorship in backend workflows, delivering projects using PHP and Laravel.
 
 <br>
 
-<img src="https://api.iconify.design/lucide:server.svg?color=%238A2BE2" width="16" height="16" align="center" /> **Backend Core**: ASP.NET Core · PHP · Laravel · SQL Server · REST API design · JWT · EF Core.
+<img src="https://api.iconify.design/lucide:server.svg?color=%238A2BE2" width="16" height="16" align="center" /> **Backend Core**: ASP.NET Core · SQL Server · Entity Framework Core · REST API design · JWT.
 <br>
-<img src="https://api.iconify.design/lucide:layout.svg?color=%238A2BE2" width="16" height="16" align="center" /> **Frontend Background**: React · JavaScript · HTML/CSS · Bootstrap — builds UIs and integrates APIs end-to-end.
+<img src="https://api.iconify.design/lucide:layout.svg?color=%238A2BE2" width="16" height="16" align="center" /> **Frontend Background**: React · JavaScript · HTML5/CSS3 · API consumption (REST integration).
 <br>
-<img src="https://api.iconify.design/lucide:bot.svg?color=%238A2BE2" width="16" height="16" align="center" /> **Automation**: Python bots and GitHub Actions pipelines that run unattended.
+<img src="https://api.iconify.design/lucide:award.svg?color=%238A2BE2" width="16" height="16" align="center" /> **Additional Skills**: Collaborative Git workflows, Python automation, and database schema modeling.
 
 ---
 
