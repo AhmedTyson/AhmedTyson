@@ -10,7 +10,20 @@
 
 </div>
 
-<br>
+<div align="center">
+  <br />
+  <img src="https://avatars.githubusercontent.com/u/152665596?v=4" width="160" style="border-radius:50%" alt="Ahmed Elsayed" />
+  <br />
+  <br />
+
+  ![Status](https://img.shields.io/badge/status-active-10b981?style=flat-square)
+  ![Role](https://img.shields.io/badge/role-Backend_Delegate-8A2BE2?style=flat-square)
+  ![Stack](https://img.shields.io/badge/stack-.NET_/_Laravel-512BD4?style=flat-square)
+  ![Conference](https://img.shields.io/badge/conference-Itinera_Team2-8A2BE2?style=flat-square)
+
+</div>
+
+<br />
 
 ---
 
@@ -38,7 +51,7 @@ Primary focus is backend systems with .NET — designing secure APIs, relational
 
 | Signal | Status |
 | :----- | :----- |
-| <img src="https://api.iconify.design/lucide:hammer.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Building** | Active in **ThreeDOS Backend Program** — PHP · Laravel · REST API design · relational DB architecture |
+| <img src="https://api.iconify.design/lucide:hammer.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Building** | **Conference Case Study shipped — Itinera (Team 2)** — Laravel 12 REST API (213 `api/*` routes, 120+ endpoints, PayMob HMAC, Groq AI) + Railway · **ThreeDOS Team 4 Leader** Task 9 E-Commerce API |
 | <img src="https://api.iconify.design/lucide:server.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Deepening** | ASP.NET Core clean architecture · auth flows · background services |
 | <img src="https://api.iconify.design/lucide:book-open.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Studying** | B.I.S. @ Capital University — 3rd year, GPA 3.66 |
 | <img src="https://api.iconify.design/lucide:calendar-clock.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Next up** | TeamsLeech Bot resumes Sep 30 — new semester automation cycle |
@@ -147,6 +160,7 @@ Primary focus is backend systems with .NET — designing secure APIs, relational
 | Project                                                                                                                                      | Details                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | :------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://api.iconify.design/lucide:shield-check.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Tafsilk](https://github.com/AhmedTyson/Tafsilk)** | **Live:** [External Link](https://tafsilk.runasp.net) <br> **Stack:** ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) <br> **Highlights:** Multi-role e-commerce with Stripe, Google OAuth, and RBAC security. <br> **Timeline:** Nov 24, 2025 – Dec 07, 2025 |
+| <img src="https://api.iconify.design/lucide:plane.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Itinera — Conference Case Study](https://github.com/AhmedTyson/Team2-Conference-Project)** | **Live:** [Docs](https://github.com/AhmedTyson/Team2-Conference-Project/wiki/Home.md) · [Repo](https://github.com/AhmedTyson/Team2-Conference-Project) <br> **Stack:** ![Laravel](https://img.shields.io/badge/Laravel-12.x-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-8.2%2B-777BB4?style=flat-square&logo=php&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtoken&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![PayMob](https://img.shields.io/badge/PayMob-0052CC?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F34B21?style=flat-square) <br> **Highlights:** Luxury travel orchestration — 213 `api/*` routes (237 registrations), PayMob HMAC SHA-512, Groq AI itinerary review, executive telemetry PDF/Spreadsheet, 44 migrations · 34 seeders · 60+ seeded orders. Threedos-style README, 17 wiki docs. **Team 2 Fullstack** — threedos pattern conference-case-project. <br> **Timeline:** Sep 2026 |
 
 <br>
 
@@ -175,6 +189,7 @@ Primary focus is backend systems with .NET — designing secure APIs, relational
 
 | Project                                                                                                                                                                                                                                                    | Details                                                                                                                                                                                                                                                                                                 |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://api.iconify.design/lucide:leaf.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[GreenEco — Semi-Conference](https://github.com/AhmedTyson/Team3-backend-GreenEco)** | **Fork:** [Team3-backend-GreenEco](https://github.com/AhmedTyson/Team3-backend-GreenEco) <br> **Stack:** ![Laravel](https://img.shields.io/badge/Laravel-12.x-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square) <br> **Highlights:** Semi-Conference recycling platform (Team 3) — pickups, tracking, rewards. **Docs:** [PRD](https://github.com/AhmedTyson/threedos-backend/tree/main/semi-conference/docs/PRD.md) |
 | <img src="https://api.iconify.design/lucide:shopping-bag.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Harizon & Gourmet Haven](https://github.com/AhmedTyson/BIS_Ecommerce_Frontend_project)** | **Live:** [Portfolio](https://ahmedtyson.github.io/BIS_Ecommerce_Frontend_project/) <br> **Stack:** ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square) <br> **Highlights:** Multi-brand retail and restaurant frontend layouts. <br> **Timeline:** Dec 09, 2025                                                                            |
 | <img src="https://api.iconify.design/lucide:bot.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Personal Assistant App](https://github.com/AhmedTyson/Personal-Assistance-ItI---Python-)**                                                | **Stack:** ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) <br> **Highlights:** ITI Capstone: Sierra ILS integration with Blueprints and Jinja2 templates. <br> **Timeline:** Sep 2024 |
 | <img src="https://api.iconify.design/lucide:utensils.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Talabat Simulator](https://github.com/AhmedTyson/College-team-assignment-1)**                                                        | **Stack:** ![Logic](https://img.shields.io/badge/Logic-Console-orange?style=flat-square) <br> **Highlights:** Console food delivery sim with cart management and receipt generation. <br> **Timeline:** Jun 1 – Dec 17, 2025                                                                            |
