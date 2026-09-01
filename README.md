@@ -141,7 +141,7 @@ Primary focus is backend systems with .NET — designing secure APIs, relational
 
 ---
 
-## 🏆 Featured Projects — Dec 2025 to Now
+## <img src="https://api.iconify.design/lucide:trophy.svg?color=%238A2BE2" width="20" height="20" align="center" /> Featured Projects — Dec 2025 to Now
 
 > Top work from Dec 2025 to now — flagship and recent ships. Full archive including older projects is in → **[PROJECTS.md](./PROJECTS.md)**
 
