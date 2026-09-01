@@ -11,19 +11,12 @@
 </div>
 
 <div align="center">
-  <br />
-  <img src="https://avatars.githubusercontent.com/u/152665596?v=4" width="160" style="border-radius:50%" alt="Ahmed Elsayed" />
-  <br />
+  <img src="https://avatars.githubusercontent.com/u/152665596?v=4" width="120" style="border-radius:50%" alt="Ahmed Elsayed" />
   <br />
 
-  ![Status](https://img.shields.io/badge/status-active-10b981?style=flat-square)
-  ![Role](https://img.shields.io/badge/role-Backend_Delegate-8A2BE2?style=flat-square)
-  ![Stack](https://img.shields.io/badge/stack-.NET_/_Laravel-512BD4?style=flat-square)
-  ![Conference](https://img.shields.io/badge/conference-Itinera_Team2-8A2BE2?style=flat-square)
+  ![Status](https://img.shields.io/badge/status-active-10b981?style=flat-square) ![Role](https://img.shields.io/badge/role-Backend_Delegate-8A2BE2?style=flat-square) ![Conference](https://img.shields.io/badge/conference-Itinera_Team2-8A2BE2?style=flat-square)
 
 </div>
-
-<br />
 
 ---
 
@@ -77,19 +70,21 @@ Primary focus is backend systems with .NET — designing secure APIs, relational
 
 ### Backend Engineering — Primary
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,flask,php,laravel,sqlite&theme=dark&perline=7)](https://skillicons.dev)
-[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
+C# · .NET · Python · Flask · PHP · Laravel · SQLite · [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
 
 ### Frontend & API Consumption — Background
 > Builds functional UIs and integrates REST APIs. Not a specialization — a working capability.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,netlify&theme=dark&perline=6)](https://skillicons.dev)
+`HTML · CSS · JS · Bootstrap · React · Netlify`
 
 ### Orchestration & Workflow
 [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,postman,docker,bash&theme=dark&perline=6)](https://skillicons.dev)
+`Git · GitHub · VS · Postman · Docker · Bash`
 [![Antigravity](https://api.iconify.design/logos:google-gemini.svg?color=%238A2BE2)](https://antigravity.google/?hl=ar) [![n8n](https://api.iconify.design/simple-icons:n8n.svg?color=%23EA4B71)](https://n8n.io)
 
 ### The Intelligence Lab
-[![My Skills](https://skillicons.dev/icons?i=notion&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=notion&theme=dark)](https://skillicons.dev) `Notion`
 [![Ollama](https://api.iconify.design/simple-icons:ollama.svg?color=white)](https://ollama.com) [![EF Core](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg) `EF Core`](https://learn.microsoft.com/en-us/ef/core/) [![JWT](https://api.iconify.design/logos:jwt-icon.svg?v=22)](https://jwt.io)
 
 
@@ -133,7 +128,7 @@ Primary focus is backend systems with .NET — designing secure APIs, relational
 
 | Project | Details |
 |---|---|
-| **[Itinera — Conference Case Study](https://github.com/AhmedTyson/Team2-Conference-Project)** `Project Lead` | **Live:** Docs · Repo · **Stack:** ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![PayMob](https://img.shields.io/badge/PayMob-0052CC?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)<br>**Highlights:** Luxury travel orchestration platform — project lead on Team 2 Fullstack (threedos pattern). 213 `api/*` routes (237 registrations), PayMob HMAC SHA-512 payment verification, Groq AI itinerary review, executive telemetry (PDF/Spreadsheet reports), 44 migrations · 34 seeders · 60+ seeded orders. Threedos-style README with 17 wiki docs. Security audit surfaced 3 confirmed P0 findings (IDOR, payment forgery, privilege escalation), full OpenAPI docs (212 operations), dual showcase site (static + React/Vite/TS).<br>**Timeline:** Aug 01 – Aug 21, 2026 |
+| **[Itinera — Conference Case Study](https://github.com/AhmedTyson/Team2-Conference-Project)** `Project Lead` | **Live:** Docs · Repo · **Stack:** ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![PayMob](https://img.shields.io/badge/PayMob-0052CC?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)<br>**Highlights:** Luxury travel orchestration — Team 2 Fullstack (threedos pattern). 213 `api/*` routes (237 registrations), PayMob HMAC, Groq AI review, 44 migrations · 60+ orders, 212 ops OpenAPI, 17 wiki docs.<br>**Timeline:** Aug 01 – Aug 21, 2026 |
 | **[Tafsilk](https://github.com/AhmedTyson/Tafsilk)** | **Live:** [tafsilk.runasp.net](https://tafsilk.runasp.net) · **Stack:** ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)<br>**Highlights:** Multi-role e-commerce with Stripe, Google OAuth, and RBAC security.<br>**Timeline:** Nov 24 – Dec 07, 2025 |
 | **[TeamsLeech Bot](https://github.com/AhmedTyson/TeamsLeech-Bot)** | **Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)<br>**Highlights:** Async bot that monitors Teams lecture recordings and streams them to Telegram via MTProto — zero local bandwidth. Full CI/CD: Ruff, Mypy, pytest, semantic release.<br>**Status:** `Scheduled — Resumes Sep 30, 2026` · **Timeline:** Apr 11, 2026 |
 
