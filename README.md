@@ -10,11 +10,7 @@
 
 </div>
 
-<div align="center">
 
-  ![Status](https://img.shields.io/badge/status-active-10b981?style=flat-square) ![Role](https://img.shields.io/badge/role-Backend_Delegate-8A2BE2?style=flat-square) ![Conference](https://img.shields.io/badge/conference-Itinera_Team2-8A2BE2?style=flat-square)
-
-</div>
 
 ---
 
