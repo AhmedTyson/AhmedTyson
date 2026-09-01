@@ -1,6 +1,6 @@
 # All Projects — AhmedTyson
 
-> القائمة الكاملة لكل مشروع في الأكونت، من الأقدم للأحدث داخل كل تصنيف. الأهم والأحدث (Dec 2025 → Now) موجودة كمان بتفصيل زيادة في الـ [README](./README.md#-featured-projects--dec-2025-to-now).
+> Complete archive of all projects, oldest to newest per category. The most important & newest (Dec 2025 → Now) are also featured in the [README](./README.md#-featured-projects--dec-2025-to-now).
 
 ---
 
