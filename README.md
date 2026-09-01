@@ -85,9 +85,9 @@ Primary focus is backend systems with .NET — designing secure APIs, relational
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,postman,docker,bash&theme=dark&perline=8)](https://skillicons.dev) <img src=".github/assets/tech/antigravity.svg" width="48" height="48" alt="Antigravity" /> <img src=".github/assets/tech/n8n.svg" width="48" height="48" alt="n8n" />
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,rider,postman,docker,bash&theme=dark&perline=9)](https://skillicons.dev) <img src=".github/assets/tech/antigravity.svg" width="48" height="48" alt="Antigravity" /> <img src=".github/assets/tech/n8n.svg" width="48" height="48" alt="n8n" />
 
-*Git · GitHub · Visual Studio · Postman · Docker · Bash · Antigravity · n8n*
+*Git · GitHub · Visual Studio · Rider · Postman · Docker · Bash · Antigravity · n8n*
 
 </div>
 
