@@ -41,3 +41,14 @@ jobs:
           plugin_anilist_sections: characters
           plugin_anilist_limit_characters: 22
           config_timezone: Africa/Cairo
+
+      - name: Post-process AniList widget - strip minutes/chapters
+        run: |
+          python << 'PY'
+          import re, pathlib
+          p=pathlib.Path('github-metrics-anime.svg')
+          t=p.read_text(encoding='utf-8')
+          t=re.sub(r'<div class="field">\s*<svg[^>]*>.*?</svg>\s*\d+\s+minutes watched\s*</div>', '', t, flags=re.S)
+          t=re.sub(r'<div class="field">\s*<svg[^>]*>.*?</svg>\s*\d+\s+chapters read\s*</div>', '', t, flags=re.S)
+          p.write_text(t, encoding='utf-8')
+          PY
