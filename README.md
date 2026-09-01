@@ -11,8 +11,6 @@
 </div>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/152665596?v=4" width="120" style="border-radius:50%" alt="Ahmed Elsayed" />
-  <br />
 
   ![Status](https://img.shields.io/badge/status-active-10b981?style=flat-square) ![Role](https://img.shields.io/badge/role-Backend_Delegate-8A2BE2?style=flat-square) ![Conference](https://img.shields.io/badge/conference-Itinera_Team2-8A2BE2?style=flat-square)
 
@@ -69,23 +67,46 @@ Primary focus is backend systems with .NET — designing secure APIs, relational
 ## 🖥️ Tech Arsenal
 
 ### Backend Engineering — Primary
+<div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,flask,php,laravel,sqlite&theme=dark&perline=7)](https://skillicons.dev)
-C# · .NET · Python · Flask · PHP · Laravel · SQLite · [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
+
+*C# · .NET · Python · Flask · PHP · Laravel · SQLite*
+
+[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
+
+</div>
 
 ### Frontend & API Consumption — Background
 > Builds functional UIs and integrates REST APIs. Not a specialization — a working capability.
 
+<div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,netlify&theme=dark&perline=6)](https://skillicons.dev)
-`HTML · CSS · JS · Bootstrap · React · Netlify`
+
+*HTML · CSS · JavaScript · Bootstrap · React · Netlify*
+
+</div>
 
 ### Orchestration & Workflow
+<div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,postman,docker,bash&theme=dark&perline=6)](https://skillicons.dev)
-`Git · GitHub · VS · Postman · Docker · Bash`
-[![Antigravity](https://api.iconify.design/logos:google-gemini.svg?color=%238A2BE2)](https://antigravity.google/?hl=ar) [![n8n](https://api.iconify.design/simple-icons:n8n.svg?color=%23EA4B71)](https://n8n.io)
+
+*Git · GitHub · Visual Studio · Postman · Docker · Bash*
+
+[![Antigravity](https://img.shields.io/badge/Antigravity-8A2BE2?style=flat-square&logo=google&logoColor=white)](https://antigravity.google/?hl=ar) [![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io)
+
+</div>
 
 ### The Intelligence Lab
-[![My Skills](https://skillicons.dev/icons?i=notion&theme=dark)](https://skillicons.dev) `Notion`
-[![Ollama](https://api.iconify.design/simple-icons:ollama.svg?color=white)](https://ollama.com) [![EF Core](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg) `EF Core`](https://learn.microsoft.com/en-us/ef/core/) [![JWT](https://api.iconify.design/logos:jwt-icon.svg?v=22)](https://jwt.io)
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=notion&theme=dark)](https://skillicons.dev) [![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com) [![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/ef/core/) [![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)](https://jwt.io)
+
+*Notion · Ollama · EF Core · JWT*
+
+</div>
 
 
 
