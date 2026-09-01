@@ -102,9 +102,9 @@ Primary focus is backend systems with .NET — designing secure APIs, relational
 ### The Intelligence Lab
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=notion&theme=dark)](https://skillicons.dev) [![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com) [![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/ef/core/) [![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)](https://jwt.io)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="50" height="50" alt="Notion" /> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:ollama.svg?color=white" width="50" height="50" alt="Ollama" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" alt="EF Core" /> &nbsp;&nbsp; <img src="https://api.iconify.design/logos:jwt-icon.svg" width="50" height="50" alt="JWT" /> &nbsp;&nbsp; <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%238A2BE2" width="50" height="50" alt="OpenCode" />
 
-*Notion · Ollama · EF Core · JWT*
+*Notion · Ollama · EF Core · JWT · OpenCode*
 
 </div>
 
