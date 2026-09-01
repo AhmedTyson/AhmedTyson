@@ -1,6 +1,6 @@
 # All Projects — AhmedTyson
 
-> Complete archive of all projects, oldest to newest per category. The most important & newest (Dec 2025 → Now) are also featured in the [README](./README.md#-featured-projects--dec-2025-to-now).
+> Complete archive of all projects, oldest to newest per category. The most important & newest (Dec 2025 → Now) are also featured in the [README](./README.md#featured-projects--dec-2025-to-now).
 
 ---
 

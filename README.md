@@ -145,7 +145,7 @@ Primary focus is backend systems with .NET — designing secure APIs, relational
 
 > Top work from Dec 2025 to now — flagship and recent ships. Full archive including older projects is in → **[PROJECTS.md](./PROJECTS.md)**
 
-### ⭐ Flagship
+### <img src="https://api.iconify.design/lucide:star.svg?color=%238A2BE2" width="18" height="18" align="center" /> Flagship
 
 | Project | Details |
 |---|---|
@@ -153,7 +153,7 @@ Primary focus is backend systems with .NET — designing secure APIs, relational
 | **[Tafsilk](https://github.com/AhmedTyson/Tafsilk)** | **Live:** [tafsilk.runasp.net](https://tafsilk.runasp.net) · **Stack:** ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)<br>**Highlights:** Multi-role e-commerce with Stripe, Google OAuth, and RBAC security.<br>**Timeline:** Nov 24 – Dec 07, 2025 |
 | **[TeamsLeech Bot](https://github.com/AhmedTyson/TeamsLeech-Bot)** | **Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)<br>**Highlights:** Async bot that monitors Teams lecture recordings and streams them to Telegram via MTProto — zero local bandwidth. Full CI/CD: Ruff, Mypy, pytest, semantic release.<br>**Status:** `Scheduled — Resumes Sep 30, 2026` · **Timeline:** Apr 11, 2026 |
 
-### 📦 Also Shipped This Cycle
+### <img src="https://api.iconify.design/lucide:package.svg?color=%238A2BE2" width="18" height="18" align="center" /> Also Shipped This Cycle
 
 | Project | Stack | Timeline |
 |---|---|---|
