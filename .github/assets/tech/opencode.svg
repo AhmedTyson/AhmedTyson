@@ -1,0 +1,8 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="48" height="48" rx="12" fill="#2D2D2D"/>
+<!-- Real OpenCode pixel logo simplified: 2 pixel blocks -->
+<rect x="12" y="14" width="10" height="10" rx="1.5" fill="#CFCECD" stroke="#656363" stroke-width="1.2"/>
+<rect x="26" y="14" width="10" height="10" rx="1.5" fill="#CFCECD" stroke="#8A2BE2" stroke-width="1.2"/>
+<rect x="12" y="26" width="24" height="4" rx="1" fill="#8A2BE2"/>
+<text x="24" y="40" font-family="JetBrains Mono, Fira Code, monospace" font-size="6.5" font-weight="700" fill="white" text-anchor="middle">OpenCode</text>
+</svg>

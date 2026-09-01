@@ -64,16 +64,16 @@ Primary focus is backend systems with .NET — designing secure APIs, relational
 
 ---
 
-## 🖥️ Tech Arsenal
+## <img src="https://api.iconify.design/lucide:cpu.svg?color=%238A2BE2" width="20" height="20" align="center" /> Tech Arsenal
 
 ### Backend Engineering — Primary
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,flask,php,laravel,sqlite&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,flask,php,laravel,sqlite&theme=dark&perline=4)](https://skillicons.dev)
 
 *C# · .NET · Python · Flask · PHP · Laravel · SQLite*
 
-[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
+<img src=".github/assets/tech/sql-server.svg" width="48" height="48" alt="SQL Server" />
 
 </div>
 
@@ -95,14 +95,14 @@ Primary focus is backend systems with .NET — designing secure APIs, relational
 
 *Git · GitHub · Visual Studio · Postman · Docker · Bash*
 
-[![Antigravity](https://img.shields.io/badge/Antigravity-8A2BE2?style=flat-square&logo=google&logoColor=white)](https://antigravity.google/?hl=ar) [![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io)
+<img src=".github/assets/tech/antigravity.svg" width="48" height="48" alt="Antigravity" /> <img src=".github/assets/tech/n8n.svg" width="48" height="48" alt="n8n" />
 
 </div>
 
 ### The Intelligence Lab
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="50" height="50" alt="Notion" /> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:ollama.svg?color=white" width="50" height="50" alt="Ollama" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" alt="EF Core" /> &nbsp;&nbsp; <img src="https://api.iconify.design/logos:jwt-icon.svg" width="50" height="50" alt="JWT" /> &nbsp;&nbsp; <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%238A2BE2" width="50" height="50" alt="OpenCode" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="50" height="50" alt="Notion" /> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:ollama.svg?color=white" width="50" height="50" alt="Ollama" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" alt="EF Core" /> &nbsp;&nbsp; <img src="https://api.iconify.design/logos:jwt-icon.svg" width="50" height="50" alt="JWT" /> &nbsp;&nbsp; <img src=".github/assets/tech/opencode.svg" width="50" height="50" alt="OpenCode" />
 
 *Notion · Ollama · EF Core · JWT · OpenCode*
 
