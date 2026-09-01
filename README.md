@@ -176,7 +176,7 @@ Primary focus is backend systems with .NET — designing secure APIs, relational
 
 |            **Technical Velocity**            |                                                                                                                                                                               **Kinetic Rhythm & Session Intensity**                                                                                                                                                                               |
 | :------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="/github-metrics.svg" width="415"/> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedTyson&theme=react-dark&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFD700&area=true&hide_border=true" width="415"/> <br> <img src="https://streak-stats.demolab.com/?user=AhmedTyson&theme=radical&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=FFD700&currStreakLabel=FFFFFF&hide_border=true" width="415"/> |
+| <img src="/github-metrics.svg" width="415"/> | <img src="https://streak-stats.demolab.com/?user=AhmedTyson&theme=radical&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=FFD700&currStreakLabel=FFFFFF&hide_border=true" width="415"/> |
 
 |                     **Anime Soul**                     |
 | :----------------------------------------------------: |
