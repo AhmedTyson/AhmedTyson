@@ -60,10 +60,12 @@
 | :-- | :-- |
 | <img src="https://api.iconify.design/lucide:check-square.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Admin Checklist](https://github.com/AhmedTyson/checklist-application)** | **Live:** [Demo](https://ahmedtyson.github.io/checklist-application/learn-practice-js) <br> **Stack:** ![ES_Modules](https://img.shields.io/badge/ES_Modules-F7DF1E?style=flat-square) <br> **Highlights:** Vanilla JS ESM architecture with a robust administrative panel. <br> **Timeline:** Feb 12, 2026 |
 
-### <img src="https://api.iconify.design/lucide:book-open.svg?color=%238A2BE2" width="18" height="18" align="center" /> Knowledge Hub| Resource                                                                                                                                                                   | Details                                                                                                                                                            |
+### <img src="https://api.iconify.design/lucide:book-open.svg?color=%238A2BE2" width="18" height="18" align="center" /> Knowledge Hub
+
+| Resource                                                                                                                                                                   | Details                                                                                                                                                            |
 | :-- | :-- |
 | <img src="https://api.iconify.design/lucide:book-open.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Guides](https://github.com/AhmedTyson/Guides)**     | **Status:** `READ` <br> Bilingual Git/GitHub roadmap (AR+EN), vibe coding guide, CV writing guide. <br> **Timeline:** Dec 15, 2025                                 |
-| <img src="https://api.iconify.design/lucide:archive.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Tasks Archive](https://github.com/AhmedTyson/Tasks)** | **Status:** `READ` <br> 7 SQL tasks (including **CollegeDB** enterprise schema), 6 C# OOP assignments, DEPI schedule page. <br> **Timeline:** May 10 – May 23, 2025 |<br>---
+| <img src="https://api.iconify.design/lucide:archive.svg?color=%238A2BE2" width="14" height="14" align="center" /> **[Tasks Archive](https://github.com/AhmedTyson/Tasks)** | **Status:** `READ` <br> 7 SQL tasks (including **CollegeDB** enterprise schema), 6 C# OOP assignments, DEPI schedule page. <br> **Timeline:** May 10 – May 23, 2025 |
 
 ---
 
