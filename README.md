@@ -150,7 +150,7 @@ Primary focus is backend systems with .NET — designing secure APIs, relational
 ### <img src="https://api.iconify.design/lucide:package.svg?color=%238A2BE2" width="18" height="18" align="center" /> Also Shipped This Cycle
 
 | Project | Stack | Timeline |
-| :-- | :-- |---|
+| :-- | :-- | :-- |
 | [Task 9 — E-Commerce API](https://github.com/AhmedTyson/t4-3dos-backend-task9) `Team Leader` | Laravel · PHP · Redis · JWT | Jul 5 – Jul 12, 2026 |
 | [Task 6 — Doctorna API](https://github.com/AhmedTyson/doctorna) | Vanilla PHP · Redis · JWT | Jun 29, 2026 |
 | [Tasks 4–7 — Individual Sessions](https://github.com/AhmedTyson/threedos-backend) | PHP · Laravel | Apr 30, 2026 – Present |
