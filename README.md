@@ -10,8 +10,6 @@
 
 </div>
 
-
-
 ---
 
 ## <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%238A2BE2" width="20" height="20" align="center" /> About
@@ -74,6 +72,7 @@ Primary focus is backend systems with .NET — designing secure APIs, relational
 </div>
 
 ### Frontend & API Consumption — Background
+
 > Builds functional UIs and integrates REST APIs. Not a specialization — a working capability.
 
 <div align="center">
@@ -85,6 +84,7 @@ Primary focus is backend systems with .NET — designing secure APIs, relational
 </div>
 
 ### Orchestration & Workflow
+
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,postman,docker,bash&theme=dark&perline=6)](https://skillicons.dev)
@@ -96,6 +96,7 @@ Primary focus is backend systems with .NET — designing secure APIs, relational
 </div>
 
 ### The Intelligence Lab
+
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="50" height="50" alt="Notion" /> &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons:ollama.svg?color=white" width="50" height="50" alt="Ollama" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" alt="EF Core" /> &nbsp;&nbsp; <img src="https://api.iconify.design/logos:jwt-icon.svg" width="50" height="50" alt="JWT" /> &nbsp;&nbsp; <img src=".github/assets/tech/opencode.svg" width="50" height="50" alt="OpenCode" />
@@ -104,9 +105,7 @@ Primary focus is backend systems with .NET — designing secure APIs, relational
 
 </div>
 
-
-
-### <img src="https://api.iconify.design/lucide:bot.svg?color=%238A2BE2" width="20" height="20" align="center" /> Agentic Tooling & Advanced AI Workflows
+### <img src="https://api.iconify.design/lucide:bot.svg?color=%238A2BE2" width="18" height="18" align="center" /> Agentic Tooling & Advanced AI Workflows
 
 > **AI-Augmented Engineering Environment:** Operating a heavily customized OpenCode CLI ecosystem optimized for architectural precision, token efficiency, and automated quality control.
 
@@ -120,7 +119,6 @@ Primary focus is backend systems with .NET — designing secure APIs, relational
 | <img src="https://api.iconify.design/lucide:map.svg?color=%238A2BE2" width="14" height="14" align="center" /> **Codebase Cartography** | **Serena MCP** for rapid codebase mapping and symbol tracking, paired with **Context7 MCP** for real-time framework documentation retrieval. |
 
 <br>
-
 
 ---
 
@@ -144,7 +142,7 @@ Primary focus is backend systems with .NET — designing secure APIs, relational
 ### <img src="https://api.iconify.design/lucide:star.svg?color=%238A2BE2" width="18" height="18" align="center" /> Flagship
 
 | Project | Details |
-|---|---|
+| :-- | :-- |
 | **[Itinera — Conference Case Study](https://github.com/AhmedTyson/Team2-Conference-Project)** `Project Lead` | **Live:** Docs · Repo · **Stack:** ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![PayMob](https://img.shields.io/badge/PayMob-0052CC?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)<br>**Highlights:** Luxury travel orchestration — Team 2 Fullstack (threedos pattern). 213 `api/*` routes (237 registrations), PayMob HMAC, Groq AI review, 44 migrations · 60+ orders, 212 ops OpenAPI, 17 wiki docs.<br>**Timeline:** Aug 01 – Aug 21, 2026 |
 | **[Tafsilk](https://github.com/AhmedTyson/Tafsilk)** | **Live:** [tafsilk.runasp.net](https://tafsilk.runasp.net) · **Stack:** ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)<br>**Highlights:** Multi-role e-commerce with Stripe, Google OAuth, and RBAC security.<br>**Timeline:** Nov 24 – Dec 07, 2025 |
 | **[TeamsLeech Bot](https://github.com/AhmedTyson/TeamsLeech-Bot)** | **Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)<br>**Highlights:** Async bot that monitors Teams lecture recordings and streams them to Telegram via MTProto — zero local bandwidth. Full CI/CD: Ruff, Mypy, pytest, semantic release.<br>**Status:** `Scheduled — Resumes Sep 30, 2026` · **Timeline:** Apr 11, 2026 |
@@ -152,7 +150,7 @@ Primary focus is backend systems with .NET — designing secure APIs, relational
 ### <img src="https://api.iconify.design/lucide:package.svg?color=%238A2BE2" width="18" height="18" align="center" /> Also Shipped This Cycle
 
 | Project | Stack | Timeline |
-|---|---|---|
+| :-- | :-- |---|
 | [Task 9 — E-Commerce API](https://github.com/AhmedTyson/t4-3dos-backend-task9) `Team Leader` | Laravel · PHP · Redis · JWT | Jul 5 – Jul 12, 2026 |
 | [Task 6 — Doctorna API](https://github.com/AhmedTyson/doctorna) | Vanilla PHP · Redis · JWT | Jun 29, 2026 |
 | [Tasks 4–7 — Individual Sessions](https://github.com/AhmedTyson/threedos-backend) | PHP · Laravel | Apr 30, 2026 – Present |
@@ -163,8 +161,6 @@ Primary focus is backend systems with .NET — designing secure APIs, relational
 | [Admin Checklist](https://github.com/AhmedTyson/checklist-application) — [demo](https://ahmedtyson.github.io/checklist-application/learn-practice-js) | ES Modules | Feb 12, 2026 |
 | [BIS Schedule Search](https://github.com/AhmedTyson/bis-schedule) — [demo](https://ahmedtyson.github.io/bis-schedule/) | JS · PWA · Netlify | Dec 13, 2025 – Feb 14, 2026 |
 | [Harizon & Gourmet Haven](https://github.com/AhmedTyson/BIS_Ecommerce_Frontend_project) — [portfolio](https://ahmedtyson.github.io/BIS_Ecommerce_Frontend_project/) | Bootstrap · CSS | Dec 09, 2025 |
-
-
 
 ## <img src="https://api.iconify.design/lucide:activity.svg?color=%238A2BE2" width="20" height="20" align="center" /> Activity & Metrics
 
@@ -252,5 +248,4 @@ Primary focus is backend systems with .NET — designing secure APIs, relational
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0D1117&height=120&section=footer&text=Every+commit+is+a+step+toward+the+future&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
-
 
